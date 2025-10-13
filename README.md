@@ -1,0 +1,2 @@
+# Implementing-a-custom-xT-weighted-PageRank-on-soccer-passing-networks-2023-WWC
+Using Statsbomb's event datasets of the 2023 WWC, I built passing networks for each team in each match. Using socceraction codes, I built a custom xT grid and used it as the main weight in my Weighted PageRank algorithm, where the passes are regarded as links and players as nodes. In this way, the PageRank scores helps evaluate players' influence.
