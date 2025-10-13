@@ -82,11 +82,11 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 
-### 3. Set Up the Data (Crucial)
+### 3. Set Up the Data
 This repository **does not** contain the raw StatsBomb data, as its redistribution is not permitted. You must download it yourself.
 
 1.  Go to the [StatsBomb/open-data](https://github.com/statsbomb/open-data) repository.
-2.  Download the data for the **2023 FIFA Women's World Cup**.
+2.  Download the event & lineup datasets for the **2023 FIFA Women's World Cup** or other matches/tournaments you want to study.
 3.  Create a `data/` folder in the root of this project.
 4.  Place the downloaded data into the `data/` folder, maintaining the following structure:
     ```
