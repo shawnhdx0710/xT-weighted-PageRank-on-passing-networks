@@ -1,4 +1,4 @@
-# Weighted PageRank for Player Analysis in the 2023 Women's World Cup
+# Evaluating soccer players' offensive influence with using an xT Weighted PageRank on passing networks 
 
 ## Overview
 
