@@ -41,33 +41,6 @@ The final output is a ranked list of all players in the tournament based on thei
 
 ---
 
-## Repository Structure
-
-```
-.
-├── .gitignore
-├── LICENSE
-├── README.md
-├── requirements.txt
-│
-├── data/
-│   ├── .gitkeep
-│   └── README.md  <-- Explains where to get data
-│
-├── notebooks/
-│   ├── 01_socceraction_data_conversion.ipynb
-│   ├── 02_xt_model_training.ipynb
-│   ├── 03_wpr_core_processing.ipynb
-│   └── 04_final_analysis.ipynb
-│
-└── src/
-    ├── __init__.py
-    ├── data_processing.py
-    └── pagerank_calculator.py
-```
-
----
-
 ## Setup and Usage
 
 To run this project locally, please follow these steps.
@@ -111,13 +84,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 # Install the required libraries
 pip install -r requirements.txt
 ```
-
-### 5. Run the Notebooks
-The analysis is split across several notebooks. Please run them in the following order:
-1.  `notebooks/01_socceraction_data_conversion.ipynb` - To convert raw JSON data into the SPADL format.
-2.  `notebooks/02_xt_model_training.ipynb` - To train the Expected Threat model.
-3.  `notebooks/03_wpr_core_processing.ipynb` - To build the passing networks and run the WPR algorithm.
-4.  `notebooks/04_final_analysis.ipynb` - To perform Z-score normalization and positional analysis.
 
 ---
 
