@@ -1,4 +1,4 @@
-# Evaluating soccer players' offensive influence with using an xT Weighted PageRank on passing networks 
+# Evaluating soccer players' offensive influence using an xT Weighted PageRank on passing networks 
 
 ## Overview
 
