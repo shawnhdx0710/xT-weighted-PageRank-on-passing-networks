@@ -1,3 +1,8 @@
+# Ignore StatsBomb JSON to comply with their terms.
+**/events/
+**/lineups/
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
