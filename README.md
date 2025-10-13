@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project introduces an approach to player performance analysis using a custom **Weighted PageRank (WPR)** algorithm. It moves beyond pass counts or key passes that lead to final shots, but holistically evaluates players based on the quality and context of their passing contributions.
+This project introduces an approach to player performance analysis using a custom **Weighted PageRank (WPR)** algorithm. It moves beyond simple pass counts or only crediting key passes that lead to final shots. It holistically evaluates players' offensive influences based on the quality and context of every single pass they made/received within their team's passing network.
 
 The core of this project is a custom PageRank algorithm applied to passing networks from the 2023 FIFA Women's World Cup. The weight of each pass (an edge in the network graph) is determined by a combination of:
 
