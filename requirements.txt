@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+tqdm
+jupyter
+requests
+socceraction
+matplotlib
+plotly
+matplotsoccer

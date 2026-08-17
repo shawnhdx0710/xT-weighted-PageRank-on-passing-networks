@@ -1,0 +1,611 @@
+player_id,player,team,average_z_score,matches_played
+401879,Thị Thảo Thái,Vietnam Women's,2.441726623152269,2
+361339,Marta Alexandra Cox Villarreal,Panama Women's,2.1764491416693343,3
+142735,Melchie Daëlle Dumornay,Haiti Women's,2.1281192480723705,3
+4647,So-Yun Ji,Korea Republic Women's,2.008019073553137,3
+401723,Deborah Ajibola Abiodun,Nigeria Women's,1.9035295367366114,1
+25554,Khadija Monifa Shaw,Jamaica Women's,1.8784620167747779,3
+30854,Vanessa Brigitte Gilles,Canada Women's,1.8161024550682174,3
+4944,Estefanía Romina Banini Ruiz,Argentina Women's,1.7686812433213455,3
+26093,Gun Nathalie Björn,Sweden Women's,1.673899191859677,6
+131619,Barbra Banda,Zambia Women's,1.6639543349588617,3
+402663,Ghizlane Chebbak,Morocco Women's,1.6041899788935488,4
+26156,Rasheedat Busayo Ajibade,Nigeria Women's,1.5961159653296448,3
+402784,Carina Alicia Baltrip-Reyes,Panama Women's,1.5656215458605285,3
+225182,Anna Sandberg,Sweden Women's,1.536372886685691,1
+402025,Linyan Zhang,China PR Women's,1.5236781554710277,3
+105708,Kerolin Nicoli Israel Ferraz,Brazil Women's,1.4893826100997403,3
+10252,Alex Greenwood,England Women's,1.4037206001495888,7
+32215,Leicy Maria Santos Herrera,Colombia Women's,1.373405089262938,5
+402666,Fatima Zahra Tagnaout,Morocco Women's,1.3694783879530719,4
+25662,Catherine Joan Bott,New Zealand Women's,1.3427853248298212,3
+5084,Denise O'Sullivan,Republic of Ireland Women's,1.3246126476370736,3
+32854,Racheal Kundananji,Zambia Women's,1.3166200957360825,3
+4638,Drew Spence,Jamaica Women's,1.3115561259356578,4
+4999,Lindsey Michelle Horan,United States Women's,1.2981165071373113,4
+401885,Thị Thanh Nhã Nguyễn,Vietnam Women's,1.2901448625606475,2
+25447,Sel-Gi Jang,Korea Republic Women's,1.2880235508002673,3
+131814,Shiori Miyake,Japan Women's,1.268387895062841,1
+32355,Felicitas Rauch,Germany Women's,1.2681483512497094,1
+403278,María Catalina Usme Pineda,Colombia Women's,1.257789427035209,5
+62666,Ingrid Filippa Angeldal,Sweden Women's,1.2418782369676533,6
+10108,Pernille Mosegaard Harder,Denmark Women's,1.2409351657863201,4
+131631,Evarine Susan Katongo,Zambia Women's,1.2095112527706326,3
+386339,Linda Lizeth Caicedo Alegría,Colombia Women's,1.2045872967789728,5
+370851,Sophie Wais Braun,Argentina Women's,1.1996345671266362,3
+10399,Kathrin Julia Hendrich,Germany Women's,1.1981145342522492,3
+50153,Rocío Gálvez Luna,Spain Women's,1.1872866895091412,1
+5052,Thembi Kgatlana,South Africa Women's,1.1769243485825172,4
+10395,Maren Nævdal Mjelde,Norway Women's,1.1642239050979024,4
+25538,Jody Brown,Jamaica Women's,1.1143336778483162,4
+402655,Sakina Ouzraoui Diki,Morocco Women's,1.0775363011425174,4
+15620,Katie McCabe,Republic of Ireland Women's,1.076604513767359,3
+401877,Thu Thảo Trần Thị,Vietnam Women's,1.0737968341379822,3
+131616,Margaret Belemu,Zambia Women's,1.0657409886250795,3
+25615,Flavia Lorena Benítez,Argentina Women's,1.061928834494147,2
+10117,Sakina Karchaoui,France Women's,1.0587872732025647,4
+21062,Alexandra Riley,New Zealand Women's,1.0583568742467906,3
+10404,Noelle Maritz,Switzerland Women's,1.0501908717807553,4
+10088,Katrine Veje,Denmark Women's,1.0490814255754513,4
+4659,Ramona Bachmann,Switzerland Women's,1.0451306042337873,4
+10167,Tatiana Vanessa Ferreira Pinto,Portugal Women's,1.010966277252334,3
+4979,Katrina Gorry,Australia Women's,0.9997363422062149,7
+4951,Rebecca Quinn,Canada Women's,0.9929165409676134,3
+30969,Elisa De Almeida,France Women's,0.9911205096685581,3
+5028,Katie Bowen,New Zealand Women's,0.9873848732853805,3
+46972,Luana Bühler,Switzerland Women's,0.9794328056972902,1
+25491,Marina Hegering,Germany Women's,0.9752168521645819,1
+46639,Ona Batlle Pascual,Spain Women's,0.9740778339137572,7
+10649,Lieke Martens,Netherlands Women's,0.9663094617524399,5
+225115,Katrina Jacqueline Rivera Guillou,Philippines Women's,0.9630097759824028,3
+10151,Jennifer Hermoso Fuentes,Spain Women's,0.9593658162058561,7
+32101,Julia Stierli,Switzerland Women's,0.948056618563106,4
+30970,Nérilia Mondesir,Haiti Women's,0.9412355648927578,3
+401732,Jaclyn Katrina Demis Sawicki,Philippines Women's,0.9398210880905684,3
+5078,Alanna Stephanie Kennedy,Australia Women's,0.9148535603859355,5
+10650,Jill Roord,Netherlands Women's,0.9137220382271192,5
+135755,Ashleigh Plumptre,Nigeria Women's,0.9128527490343363,4
+10178,Lucy Bronze,England Women's,0.9087495758611269,7
+53188,Mayra Tatiana Ramírez Ramírez,Colombia Women's,0.898448842006004,5
+15357,Kadeisha Buchanan,Canada Women's,0.8975559650980337,3
+401748,Sara Kristine Bantan Eggesvik,Philippines Women's,0.8925486272757293,3
+131583,Qiaozhu Chen,China PR Women's,0.8831139397879469,3
+87185,Stine Ballisager Pedersen,Denmark Women's,0.8753781656151327,3
+224842,Stina Olivia Lennartsson,Sweden Women's,0.8723349897853115,1
+25453,Geum-Min Lee,Korea Republic Women's,0.866108116170465,2
+10161,María Francesca Caldentey Oliver,Spain Women's,0.8607533105608169,6
+402126,Hildah Tholakele Magaia,South Africa Women's,0.8575966258825838,4
+10645,Sherida Spitse,Netherlands Women's,0.8575251566532908,5
+10141,Ana Borges,Portugal Women's,0.8552573707497549,3
+10370,Cecilia Salvai,Italy Women's,0.8513734912882508,2
+49835,Teresa Abelleira Dueñas,Spain Women's,0.8482098335004382,7
+5053,Linda Maserame Motlhalo,South Africa Women's,0.8299024999024917,4
+32054,Jéssica da Silva,Portugal Women's,0.8260542244965823,3
+4642,Millie Bright,England Women's,0.8255088957386025,7
+131694,Martha Tembo,Zambia Women's,0.8198363193467112,3
+25632,Yui Hasegawa,Japan Women's,0.8151661689006842,5
+401733,Sarina Isabel Calpo Bolden,Philippines Women's,0.811402729557491,3
+402467,Romina Stefania Núñez,Argentina Women's,0.8090337392576369,3
+15284,Aitana Bonmati Conca,Spain Women's,0.8062069375626402,7
+403290,Yu-Ri Choe,Korea Republic Women's,0.8022764559653405,3
+25511,Jermaine Seoposenwe,South Africa Women's,0.8022508436034457,4
+401645,Mathilde Hauge Harviken,Norway Women's,0.7988659699399998,4
+402118,Karabo Dhlamini,South Africa Women's,0.7972393374481633,3
+25608,Jun Endo,Japan Women's,0.7969763231417887,4
+25559,Tamires Cássia Dias de Britto,Brazil Women's,0.7961998664570968,3
+25770,Lisa Boattin,Italy Women's,0.7948890354883451,3
+10125,Wendie Renard,France Women's,0.7916819401907219,4
+34477,Mariana De Los Angeles Benavidez,Costa Rica Women's,0.7882966541228696,3
+10111,Simone Boye-Sørensen,Denmark Women's,0.7712867617697676,4
+16382,Heather Payne,Republic of Ireland Women's,0.759733476183419,2
+25520,Lebogang Ramalepe,South Africa Women's,0.7572599522056503,4
+34480,Katherine Maria Alvarado Aguilar,Costa Rica Women's,0.7539039257749386,3
+23413,Megan Connolly,Republic of Ireland Women's,0.7432465822591263,3
+4658,Keira Walsh,England Women's,0.7389568608383777,6
+5000,Stephanie-Elise Catley,Australia Women's,0.7364322821278149,7
+131579,Lina Yang,China PR Women's,0.7200012159851917,3
+19777,Niamh Fahey,Republic of Ireland Women's,0.7197520114615942,3
+26092,Amanda Ilestedt,Sweden Women's,0.7196753268415685,7
+25521,Kholosa Biyana,South Africa Women's,0.7166069097942293,3
+401808,Fabiola Villalobos Morales,Costa Rica Women's,0.7126718438099559,3
+4633,Magdalena Lilly Eriksson,Sweden Women's,0.7080408298498743,7
+41010,Kayla McCoy,Jamaica Women's,0.693445050637283,1
+392266,Jacqueline Anne Hand,New Zealand Women's,0.6899561573400314,3
+131586,Kyra Lillee Cooney-Cross,Australia Women's,0.6717096608099409,7
+34483,Priscila Chinchilla,Costa Rica Women's,0.6716790636309603,3
+131570,Rafaelle Leone Carvalho Souza,Brazil Women's,0.6677300618059684,3
+389446,Jessika Rebecca Macayan Cowart,Philippines Women's,0.6667872566601268,3
+15290,Ashley Elizabeth Marie Lawrence,Canada Women's,0.6577251469170738,3
+10405,Lia Wälti,Switzerland Women's,0.6563707132053545,4
+11338,Caitlin Jade Foord,Australia Women's,0.6515259231603748,7
+25612,Jessie Alexandra Fleming,Canada Women's,0.6480115521856659,2
+49945,Manuela Vanegas Cataño,Colombia Women's,0.6429202752935428,4
+10165,Irene Paredes Hernandez,Spain Women's,0.6337299962229811,7
+106836,Michelle Alozie,Nigeria Women's,0.6291164090453932,4
+10261,Sara Doorsoun-Khajeh,Germany Women's,0.6113263637216532,2
+25557,Deneisha Selena Blackwood,Jamaica Women's,0.6083840792777413,4
+10159,Diana Micaela Abreu de Sousa e Silva,Portugal Women's,0.6063368225644408,2
+25478,Lena Oberdorf,Germany Women's,0.6045339394331395,2
+131575,Mengwen Li,China PR Women's,0.6019768820391401,3
+402793,Katherine Lineth Castillo Macías,Panama Women's,0.600494655472863,2
+402661,Ibtissam Jraïdi,Morocco Women's,0.5979557665483269,3
+10121,Eugénie Le Sommer,France Women's,0.5952176883059025,4
+401889,Như Huỳnh,Vietnam Women's,0.5949235783195091,3
+10215,Fridolina Rolfö,Sweden Women's,0.5906200300245461,6
+25638,Moeka Minami,Japan Women's,0.5736987266332323,5
+5095,Ellie Madison Carpenter,Australia Women's,0.5730497096556463,7
+389489,Adriana Leal da Silva,Brazil Women's,0.5622125761832734,3
+10666,Dominique Johanna Anna Petrone Janssen,Netherlands Women's,0.5620565448324174,5
+5088,Crystal Alyssia Dunn Soubrier,United States Women's,0.5606561930004479,4
+10228,Manuela Giugliano,Italy Women's,0.5565494810285981,3
+19422,Jessica Carter,England Women's,0.5532284663875403,6
+401926,Hana Takahashi,Japan Women's,0.5520760817952292,3
+401731,Angela Beard,Philippines Women's,0.5501774335595183,3
+401803,María Paula Coto González,Costa Rica Women's,0.5370089310755954,3
+35406,Ruesha Littlejohn,Republic of Ireland Women's,0.5350257252055349,3
+6811,Julie Beth Ertz,United States Women's,0.5328098276604031,4
+402665,Zineb Redouani,Morocco Women's,0.5251903978886139,4
+62910,Ana Rita Silva Seiça,Portugal Women's,0.5208746969989331,1
+402127,Wendy Shongwe,South Africa Women's,0.5202769291348898,1
+10658,Danielle van de Donk,Netherlands Women's,0.5181631237685105,4
+25640,María Florencia Bonsegundo,Argentina Women's,0.5142007829955776,3
+10514,Guro Reiten,Norway Women's,0.5106908696533861,4
+10656,Lineth Beerensteyn,Netherlands Women's,0.5057849424947619,3
+53993,Roselord Borgella,Haiti Women's,0.5021077613470202,3
+62962,Esmee Brugts,Netherlands Women's,0.5016903336384787,5
+401883,Loan Hoàng Thị,Vietnam Women's,0.4986540790581757,3
+34550,Hye-Ji Hong,Korea Republic Women's,0.49662520054808174,1
+135571,Chiara Beccari,Italy Women's,0.4931296971961703,3
+25743,Luana Bertolucci Paixão,Brazil Women's,0.48805682458429717,3
+402466,Camila Gómez Ares,Argentina Women's,0.4870072317346009,1
+25658,Hannah Wilkinson,New Zealand Women's,0.48505979894249646,3
+5055,Lynn Raenie Williams,United States Women's,0.4844463509338873,2
+401642,Malia Grace Steinmetz,New Zealand Women's,0.47592247652333936,3
+31629,Anissa Lahmari,Morocco Women's,0.47367573579103267,3
+22798,So-Hyun Cho,Korea Republic Women's,0.4723316487806235,3
+182466,Lauren Eduarda Leal Costa,Brazil Women's,0.4704741681681297,2
+34478,María Paula Salas,Costa Rica Women's,0.46898794944517297,3
+49172,Sophia Olivia Smith,United States Women's,0.4681799945032419,4
+107491,Emily Ann Fox,United States Women's,0.45554224399712195,4
+25633,Eliana Noemí Stábile,Argentina Women's,0.4538244440894123,3
+402024,Lingwei Yao,China PR Women's,0.4520720602968493,2
+30958,Melissa Herrera Monge,Costa Rica Women's,0.4511405234523073,3
+401745,Quinley Mirielle Campomanes Quezada-Keča,Philippines Women's,0.4480897681161866,3
+10272,Onema Grace Geyoro,France Women's,0.44769233538647757,5
+219423,Naomi Haile Girma,United States Women's,0.44581800367889574,4
+10220,Kosovare Asllani,Sweden Women's,0.44214559947231086,6
+10408,Ana-Maria Crnogorčević,Switzerland Women's,0.4418174817461523,4
+25490,Rui Zhang,China PR Women's,0.4400568170272379,2
+63788,Victoria Pelova,Netherlands Women's,0.4270583074177326,5
+35693,Mary Boio Fowler,Australia Women's,0.42581658607587697,6
+31784,Maëlle Lakrar,France Women's,0.41448530510564935,4
+25624,Risa Shimizu,Japan Women's,0.4119985733831616,5
+50003,Antonia Ronnycleide da Costa Silva,Brazil Women's,0.40869592811928035,3
+403271,Ana María Guzmán Zapata,Colombia Women's,0.4084249898689545,2
+402796,Schiandra Yael González Jurado,Panama Women's,0.40767153601112843,3
+276288,Tuva Hansen,Norway Women's,0.40211047884637285,4
+62905,Catarina Amado,Portugal Women's,0.40204607811261367,2
+402019,Chengshu Wu,China PR Women's,0.4001709979586074,3
+5085,Alexandra Morgan Carrasco,United States Women's,0.39880500672480873,4
+10222,Jonna Ann-Charlotte Andersson,Sweden Women's,0.39758407686161124,6
+25469,Halimatu Ibrahim Ayinde,Nigeria Women's,0.3850819243801053,3
+10263,Sara Däbritz,Germany Women's,0.3828313228065137,3
+25556,Kathellen Sousa Feitoza,Brazil Women's,0.37787280747044094,1
+50020,Antionette Oyedupe Payne,Nigeria Women's,0.3687500215180959,4
+47117,Benedetta Orsi,Italy Women's,0.3685069891861533,1
+10407,Eseosa Aigbogun,Switzerland Women's,0.36750803717799957,4
+389488,Ariadina Alves Borges,Brazil Women's,0.36564310437095066,3
+31630,Coumba Sow,Switzerland Women's,0.35588480954949886,4
+62908,Christy Onyenaturuchi Ucheibe,Nigeria Women's,0.355711132563089,4
+10418,Eve Perisset,France Women's,0.3536099187752128,3
+401878,Bích Thùy Nguyễn Thị,Vietnam Women's,0.3456049637868384,3
+4643,Georgia Stanway,England Women's,0.3445698380842895,7
+10140,Dolores Isabel Jacome Silva,Portugal Women's,0.343490705825947,2
+401924,Rion Ishikawa,Japan Women's,0.33676592076898837,1
+401737,Hali Moriah Candido Long,Philippines Women's,0.3308125533426501,3
+402002,Betina Petit-Frère,Haiti Women's,0.3282002809413928,3
+30971,Sandie Toletti,France Women's,0.32664705536669314,4
+46999,Chantal Hagel,Germany Women's,0.32276936498953723,3
+25470,Osinachi Marvis Ohale,Nigeria Women's,0.2946448790069542,4
+46847,Kethna Louis,Haiti Women's,0.29180697456466886,3
+25466,Vilde Bøe Risa,Norway Women's,0.2844180256123376,4
+4967,Raquel Rodriguez,Costa Rica Women's,0.27689759134270026,2
+401876,Thị Hải Linh Trần,Vietnam Women's,0.2768701863920641,3
+25482,Jiahui Lou,China PR Women's,0.2748119806720682,3
+403283,Carolina Arias Vidal,Colombia Women's,0.26667202728627665,5
+34486,Gloriana Jesus Villalobos Vega,Costa Rica Women's,0.25772190191434236,3
+389494,Sinead Farrelly,Republic of Ireland Women's,0.247453539962648,3
+24461,Shuang Wang,China PR Women's,0.24380608687968955,3
+25516,Refiloe Jane,South Africa Women's,0.24141166054722596,2
+34875,Andreia Alexandra Norton,Portugal Women's,0.2322459023329265,3
+401635,Clare Hunt,Australia Women's,0.22968893834976453,7
+25450,Young-Ju Lee,Korea Republic Women's,0.227490661856844,1
+25602,Mariana Valeria Larroquette,Argentina Women's,0.2214066503422575,3
+4961,Samantha May Kerr,Australia Women's,0.2168353709642384,4
+402465,Julieta Micaela Cruz Navarrete,Argentina Women's,0.20507606679940688,2
+31636,Clara Mateo,France Women's,0.20001971499288995,2
+15789,Rikke Læntver Sevecke,Denmark Women's,0.19983871300383022,4
+402001,Dougenie Tabita Kerbie Joseph,Haiti Women's,0.1944553147387635,3
+25663,Elizabeth Doon Hassett,New Zealand Women's,0.19070814503343247,3
+401932,Hinata Miyazawa,Japan Women's,0.18377623497848794,5
+299860,Fuka Nagano,Japan Women's,0.18233261982172827,5
+327719,Atlanta Reigan Primus,Jamaica Women's,0.1675642582107055,4
+359388,Aldrith Ivana Quintero Humphries,Panama Women's,0.16721152090040958,3
+15178,Alexandra Popp,Germany Women's,0.16677302723368015,3
+25785,Jayde Yuk Fun Riviere,Canada Women's,0.16268930760932532,3
+10386,Caroline Graham Hansen,Norway Women's,0.16070455241679227,4
+4989,Rebekah Ashley Stott,New Zealand Women's,0.15671584926960377,3
+142768,Kyra Carusa,Republic of Ireland Women's,0.15597929568558958,3
+24706,Sophie Roman Haug,Norway Women's,0.15472561124737386,3
+62913,Francisca Ramos Ribeiro Nazareth Sousa,Portugal Women's,0.15414483171388335,3
+25617,Miriam Anahí Mayorga,Argentina Women's,0.1540672413204015,2
+32230,Karen Holmgaard,Denmark Women's,0.14209586219658882,4
+15421,Kenza Dali,France Women's,0.14066422740360712,4
+324160,Sofia Nicole Dador Harrison,Philippines Women's,0.1322096319022621,3
+10419,Géraldine Reuteler,Switzerland Women's,0.1218081050369138,4
+349028,Giulia Dragoni,Italy Women's,0.11843888800677389,3
+5058,Rachel Daly,England Women's,0.11794284580089968,7
+131580,Xin Zhang,China PR Women's,0.11780245365568337,2
+46987,Jule Brand,Germany Women's,0.1170730256354301,3
+402012,Sherly Jeudy,Haiti Women's,0.11483872934929086,3
+131618,Ireen Lungu,Zambia Women's,0.10536426851476222,2
+276443,Kathrine Møller Kühl,Denmark Women's,0.10200645514631751,4
+10211,Barbara Bonansea,Italy Women's,0.09975909288706845,3
+87195,Janni Thomsen,Denmark Women's,0.09037809210303493,4
+49836,Olga  Carmona García,Spain Women's,0.0879978540239054,6
+294448,María Paula Elizondo,Costa Rica Women's,0.0828204661410632,2
+10516,Frida Maanum,Norway Women's,0.08221542497047735,4
+403287,Seo-Yeon Shim,Korea Republic Women's,0.07664525937897666,3
+25729,Klara Bühl,Germany Women's,0.07139225308031734,3
+46830,Batcheba Louis,Haiti Women's,0.07138314738007477,3
+10647,Stephanie van der Gragt,Netherlands Women's,0.0700810778331482,5
+25696,Madelen Fatimma Maria Janogy,Sweden Women's,0.06705329632698433,3
+401884,Thị Vân Dương,Vietnam Women's,0.05322792823017145,3
+15471,Selma Bacha,France Women's,0.037041386765998524,4
+62710,Johanna Rytting-Kaneryd,Sweden Women's,0.029254836293513997,7
+32694,Laia Codina Panedas,Spain Women's,0.02347492160811608,4
+10259,Lina Magull,Germany Women's,0.018979113933225683,2
+15648,Melanie Leupolz,Germany Women's,0.016536922770281313,1
+10162,Carole da Silva Costa,Portugal Women's,0.01467529146960296,3
+401633,"Aine O""Gorman",Republic of Ireland Women's,0.012094099917950967,1
+25461,Uchenna Kanu,Nigeria Women's,0.01141127745759983,4
+10385,Ada Stolsmo Hegerberg,Norway Women's,0.011086784713177422,2
+402788,Emily Masiel Cedeño Coba,Panama Women's,0.0020618528902541047,3
+49904,Lorena Bedoya Durango,Colombia Women's,-0.00285608469619697,5
+26091,Jordyn Pamela Huitema,Canada Women's,-0.01649440647047305,3
+402658,Hanane Aït El Haj,Morocco Women's,-0.02004804847450961,4
+401890,Hải Yến Phạm,Vietnam Women's,-0.022353775391143842,3
+46224,Lucia Di Guglielmo,Italy Women's,-0.022648190570630805,3
+10208,Elena Linari,Italy Women's,-0.027024181021705174,3
+402119,Bongeka Gamede,South Africa Women's,-0.028969781033822944,4
+10654,Jackie Groenen,Netherlands Women's,-0.04669049097216569,5
+32105,Seraina Piubel,Switzerland Women's,-0.05665332352649396,4
+5044,Débora Cristiane de Oliveira,Brazil Women's,-0.06166015616513524,3
+131653,Honoka Hayashi,Japan Women's,-0.06385544438845576,3
+10221,Elin Ingrid Johanna Rubensson,Sweden Women's,-0.06475979426282905,7
+31783,Estelle Cascarino,France Women's,-0.0656910776418363,3
+5020,Christine Margaret Sinclair,Canada Women's,-0.07469751285787303,3
+15257,Saki Kumagai,Japan Women's,-0.0775446808583344,5
+401939,Susan Banda,Zambia Women's,-0.07755420147979664,3
+402013,Roseline Éloissaint,Haiti Women's,-0.07819733493047254,3
+31641,Elodie Nakkach,Morocco Women's,-0.07864097132182257,4
+32143,Diana Catarina Ribeiro Gomes,Portugal Women's,-0.08021721038994634,2
+25484,Yao Wei,China PR Women's,-0.08037135913600701,3
+338631,Oluwatosin Blessing Demehin,Nigeria Women's,-0.08180683740894744,4
+25541,Valentina Giacinti,Italy Women's,-0.08694698007381792,3
+401925,Aoba Fujino,Japan Women's,-0.0907370537608296,5
+402786,Yomira Tibisay Pinzón Ríos,Panama Women's,-0.09225101716895485,3
+25553,Trudi Sudan Carter,Jamaica Women's,-0.09467972875003318,2
+276579,Nadine Riesen,Switzerland Women's,-0.09905345897206805,4
+131645,Julia Angela Grosso,Canada Women's,-0.10003382754051188,3
+401931,Miyabi Moriya,Japan Women's,-0.10124421592568389,2
+221887,Wieke Hendrikje Maria Kaptein,Netherlands Women's,-0.10432137491733094,1
+25485,Shanshan Wang,China PR Women's,-0.10463134731815611,3
+135588,Lineth Cedeno,Panama Women's,-0.10791618597590504,3
+107917,Trinity Rain Moyer-Rodman,United States Women's,-0.10871639005582787,4
+53406,Chelsea Ariane Surpris,Haiti Women's,-0.1338128533850544,2
+10374,Svenja Huth,Germany Women's,-0.13433346875204652,3
+25546,Cheyna Lee Matthews,Jamaica Women's,-0.13730664381311242,4
+18145,Ria Percival,New Zealand Women's,-0.13742013250443616,3
+32162,Arianna Caruso,Italy Women's,-0.14022007475756196,3
+34873,Fátima Alexandra Figueira Pinto,Portugal Women's,-0.14221338418704021,1
+10137,Kadidiatou Diani,France Women's,-0.15412164111055776,5
+401874,Thu Trần Thị,Vietnam Women's,-0.15437643894923722,3
+224831,Amalie Jørgensen Vangsgaard,Denmark Women's,-0.1562452860835834,4
+361135,Valeria del Campo Gutiérrez,Costa Rica Women's,-0.1593880487547405,2
+4949,Rosemary Kathleen Lavelle,United States Women's,-0.16761156435800373,3
+21014,Vyan Sampson,Jamaica Women's,-0.17272240721298,4
+395287,Riley Tanner Rintala,Panama Women's,-0.17308049681215434,3
+401873,Thị Mỹ Anh Nguyễn,Vietnam Women's,-0.1742345339782131,2
+15564,Lucy Quinn,Republic of Ireland Women's,-0.17437859111530446,2
+85500,Mina Tanaka,Japan Women's,-0.176875202904123,5
+401741,Alicia Balicoco Barker,Philippines Women's,-0.17891856167228207,3
+131625,Avell Chitundu,Zambia Women's,-0.18230067256727658,3
+45638,Sofia Cantore,Italy Women's,-0.1845790903341478,3
+276577,Telma Raquel Velosa Encarnação,Portugal Women's,-0.1900099363951712,3
+25635,Hina Sugita,Japan Women's,-0.19544593443981145,2
+402006,Dayana Pierre-Louis,Haiti Women's,-0.19811851255567395,3
+31529,Léa Le Garrec,France Women's,-0.2028037200352094,2
+31531,Lauren James,England Women's,-0.20896523658221766,5
+49889,Oihane Hernández Zurbano,Spain Women's,-0.2108209857254839,6
+8298,Megan Anna Rapinoe,United States Women's,-0.21883568973245113,3
+6818,Hayley Emma Raso,Australia Women's,-0.22141848741531778,7
+47521,Alessia Russo,England Women's,-0.22338925463570386,7
+276303,Thea Bjelde,Norway Women's,-0.2294698180054728,4
+31534,Ella Toone,England Women's,-0.23781180910984387,6
+25634,Aldana Cometti,Argentina Women's,-0.2393409816944951,3
+5094,Ifeoma Onumonu,Nigeria Women's,-0.24374990858571946,4
+403274,Ga-Ram Chun,Korea Republic Women's,-0.25598170229206685,1
+21048,Rosella Ayane,Morocco Women's,-0.26463954858889693,4
+46564,Salma Amani,Morocco Women's,-0.2655716555690845,3
+10274,Nicoline Sørensen,Denmark Women's,-0.26759729976363394,3
+402789,Karla Paola Riley Serracín,Panama Women's,-0.2837219138452663,2
+5082,Marta Vieira da Silva Veiga,Brazil Women's,-0.29692437757706014,2
+135877,Sarah Kassi,Morocco Women's,-0.2985399814205362,3
+222682,Salma Paralluelo Ayingono,Spain Women's,-0.30863678878549694,7
+25747,Bambanani Nolufefe Mbane,South Africa Women's,-0.31051947880467545,4
+4940,Andi Sullivan,United States Women's,-0.3225732130143647,4
+25660,Annalie Longo,New Zealand Women's,-0.33963933701957255,2
+15555,Lauren Hemp,England Women's,-0.34064382976354896,7
+131628,Hellen Nga''ndwe Chanda,Zambia Women's,-0.3451253680104659,1
+402794,Hilary Stacy Jaén Rodríguez,Panama Women's,-0.34621370013304276,3
+388473,Jorelyn Andrea Daniela Carabalí Martínez,Colombia Women's,-0.346690997365963,5
+401872,Thị Diễm My Lê,Vietnam Women's,-0.34676055173541664,3
+403291,Casey Yu-Jin Phair,Korea Republic Women's,-0.34943783038463,3
+401929,Hikaru Naomoto,Japan Women's,-0.35127797860661764,3
+327442,Andreia de Jesus Jacinto,Portugal Women's,-0.35286218762879235,3
+131623,Agness Musase,Zambia Women's,-0.3634521300701092,3
+45144,Joana Filipa Gaspar Silva Marchão,Portugal Women's,-0.37090465015354257,2
+401888,Vạn Sự Ngân Thị,Vietnam Women's,-0.3734023396530626,2
+25558,Chantelle Swaby,Jamaica Women's,-0.37418270290916056,4
+218506,Savannah Marie DeMelo,United States Women's,-0.3837308939381497,2
+24881,Asisat Lamina Oshoala,Nigeria Women's,-0.38805760985907534,4
+49233,Vicki Becho,France Women's,-0.3888532717262896,5
+142944,Lúcia Catarina Sousa Alves,Portugal Women's,-0.3904370910751683,2
+24374,Ingrid Syrstad Engen,Norway Women's,-0.3940495649430949,4
+66217,Indiah-Paige Janita Riley,New Zealand Women's,-0.3981223526944944,3
+131624,Lushomo Mweemba,Zambia Women's,-0.40079616011402,3
+191851,Julie Blakstad,Norway Women's,-0.41420212028686915,1
+402785,Rosario del Carmen Vargas Sarasqueta,Panama Women's,-0.4266533660535587,1
+10097,Frederikke Thøgersen,Denmark Women's,-0.4357478166773927,1
+5003,Emily Ann Sonnett,United States Women's,-0.4395621952967358,2
+49972,Martina Lenzini,Italy Women's,-0.4432162131827955,1
+401930,Riko Ueki,Japan Women's,-0.4437374345967113,5
+87191,Rikke Marie Madsen,Denmark Women's,-0.449038944968034,4
+15621,Louise Quinn,Republic of Ireland Women's,-0.4697648179005312,3
+31540,Katie Zelem,England Women's,-0.4724292696322805,2
+18158,Rebecca Leigh Spencer,Jamaica Women's,-0.4750361964772153,4
+5022,Francisca Ordega,Nigeria Women's,-0.4751780103007081,2
+402461,Daiana Micaela Falfán,Argentina Women's,-0.47975921907937674,3
+5076,Emily Louise van Egmond,Australia Women's,-0.48221677176873845,7
+10229,Emma Stina Blackstenius,Sweden Women's,-0.48702803146055096,7
+401804,Cristín Yorleny Granados Gómez,Costa Rica Women's,-0.4997358701705187,2
+19416,Laura Coombs,England Women's,-0.5080674507694329,2
+24925,Olivia Chance,New Zealand Women's,-0.5133961821553308,2
+34509,Hwa-Yeon Son,Korea Republic Women's,-0.5166768799102742,2
+402003,Ruthny Mathurin,Haiti Women's,-0.5201830974842311,3
+45157,Laurina Fazer,France Women's,-0.5450260420611835,1
+62906,Cloé Zoé Eyja Lacasse,Canada Women's,-0.5488366456773816,3
+10400,Gaëlle Thalmann,Switzerland Women's,-0.5498892448291057,4
+25451,Hye-Ri Kim,Korea Republic Women's,-0.5510885504250739,3
+10392,Emilie Haavi,Norway Women's,-0.5513842376955753,4
+49888,Lady Patricia Andrade Rodríguez,Colombia Women's,-0.5619925961863278,1
+47541,Damaris Berta Egurrola Wienke,Netherlands Women's,-0.566358547624626,5
+273315,Paulina Gramaglia,Argentina Women's,-0.5672193735510895,1
+403282,Daniela Montoya Quiróz,Colombia Women's,-0.5783359794337694,4
+25535,Tiffany Cameron,Jamaica Women's,-0.5792847900929694,3
+34510,Seon-Joo Lim,Korea Republic Women's,-0.579870816002828,1
+25545,Allyson Swaby,Jamaica Women's,-0.5805095218497105,4
+401886,Tuyết Dung Nguyễn Thị,Vietnam Women's,-0.6002479338388843,2
+403286,Hyo-Joo Choo,Korea Republic Women's,-0.6004439021518015,3
+13881,Eva Sofia Jakobsson,Sweden Women's,-0.6116001496150596,4
+15180,Sophie Schmidt,Canada Women's,-0.6214949419070689,3
+15570,Chloe Kelly,England Women's,-0.622031431275758,7
+4981,Kailen Mary Iacovoni Sheridan,Canada Women's,-0.626678521259444,3
+402787,Erika Janeth Hernández Díaz,Panama Women's,-0.6280062697097792,1
+50151,Alba María Redondo Ferrer,Spain Women's,-0.6305106014641625,7
+25745,Sibulele Cecilia Holweni,South Africa Women's,-0.6321266184932804,2
+10143,Alexia Putellas Segura,Spain Women's,-0.6347546629062667,7
+26570,Amalie Vevle Eikeland,Norway Women's,-0.6365330898064353,1
+49831,Ivana Andrés Sanz,Spain Women's,-0.6460303928637472,4
+403277,Daniela Alexandra Árias Rojas,Colombia Women's,-0.652401318758538,5
+402010,Jennyfer Limage,Haiti Women's,-0.6556416575975954,1
+401744,Tahnai Lauren Rivera Annis,Philippines Women's,-0.6595266427162231,1
+401801,Sheika Daleicha Scott Richardson,Costa Rica Women's,-0.66663037422836,3
+25834,Viviane Asseyi,France Women's,-0.6781668778660349,1
+46459,Katja Snoeijs,Netherlands Women's,-0.6791937432461919,4
+131617,Ochumba Oseke Lubandji,Zambia Women's,-0.6829918856403346,2
+25561,Beatriz Zaneratto João,Brazil Women's,-0.6861328958866043,3
+10230,Linda Brigitta Sembrant,Sweden Women's,-0.6864164344924147,1
+327715,Lily Agg,Republic of Ireland Women's,-0.6876989957841674,2
+50150,Irene Guerrero Sanmartín,Spain Women's,-0.6911564682701883,3
+402798,Deysiré Mayte Salazar Biscaino,Panama Women's,-0.6954306023828646,3
+47008,Sjoeke Nüsken,Germany Women's,-0.6982316588745572,1
+15249,Amel Majri,France Women's,-0.7149006963229466,2
+403289,Eun-Sun Park,Korea Republic Women's,-0.7168138843412013,3
+402123,Gabriela de Jesus Thomas Salgado,South Africa Women's,-0.7172121730936045,1
+25746,Kaylin Swart,South Africa Women's,-0.7382379627608741,4
+402176,Tiernny Arlene Wiltshire,Jamaica Women's,-0.7389060068441673,4
+24460,Signe Kallesøe Bruun,Denmark Women's,-0.7412588960674236,3
+403280,Diana Carolina Ospina García Pineda,Colombia Women's,-0.743463842415086,5
+15631,Niamh Charles,England Women's,-0.7455681910203711,1
+402791,Rebeca Margoth Espinosa Justavino,Panama Women's,-0.7468872757282182,1
+32152,Francesca Durante,Italy Women's,-0.7539805603052852,3
+328259,Bruna Santos Nhaia,Brazil Women's,-0.7579806790492841,1
+25728,Karina Sævik,Norway Women's,-0.759296751827274,2
+401941,Siomala Mapepa,Zambia Women's,-0.7658639586503996,3
+46986,Lena Lattwein,Germany Women's,-0.7694785759929847,2
+402792,Wendy Yisbel Natis Bárcenas,Panama Women's,-0.7727063216844193,3
+8297,Adriana Kristina Leon,Canada Women's,-0.7730110529266901,3
+25476,Lea Schüller,Germany Women's,-0.7835773205153709,3
+10224,Sara Caroline Seger,Sweden Women's,-0.7847383422591244,3
+402662,Najat Badri,Morocco Women's,-0.7902421906817496,2
+50146,Esther Gonzalez Rodríguez,Spain Women's,-0.7979627168130825,5
+401646,Sara Iren Lindbak Hørte,Norway Women's,-0.8138687428743653,1
+402781,Yenith Elizabett Bailey de la Cruz,Panama Women's,-0.8145445621127058,3
+45884,Giada Greggi,Italy Women's,-0.8179931860849349,3
+402124,Mapula Nomvula Kgoale,South Africa Women's,-0.82728622210526,3
+402797,Natalia Didelka Mills Urrunaga,Panama Women's,-0.8295564694279641,2
+25480,Haiyan Wu,China PR Women's,-0.8303490527126696,1
+89009,Yasmin Katie Mrabet,Morocco Women's,-0.8315572267240541,1
+25657,Paige Therese Satchell,New Zealand Women's,-0.8431501540471497,1
+10398,Valentina Cernoia,Italy Women's,-0.8514214634568392,1
+402660,Nouhaila Benzina,Morocco Women's,-0.8522642596844271,3
+34499,Hanna Ulrika Bennison,Sweden Women's,-0.8548077743005017,4
+135153,Nesryne El Chad,Morocco Women's,-0.854845417345197,4
+401738,Chandler Blue Isip McDaniel,Philippines Women's,-0.8550913476625654,2
+401928,Takako Seike,Japan Women's,-0.8569672725321542,3
+387290,Yamila Tamara Rodríguez,Argentina Women's,-0.8659647700507532,3
+26585,Annamaria Serturini,Italy Women's,-0.870255523084863,1
+10203,Cristiana Girelli,Italy Women's,-0.876162577377273,2
+402018,Mengyu Shen,China PR Women's,-0.8842831645870985,2
+25543,Geyse da Silva Ferreira,Brazil Women's,-0.8868813812178477,3
+25718,Chiamaka Cynthia Nnadozie,Nigeria Women's,-0.8925163520077684,4
+25601,Deanne Cynthia Rose,Canada Women's,-0.8973398083896235,2
+5074,Shelina Laura Zadorsky,Canada Women's,-0.8974905365445818,1
+401875,Thu Thương Lương Thị,Vietnam Women's,-0.8991285794512723,3
+402790,Carmen Milagros Montenegro Martínez,Panama Women's,-0.9049073856127957,3
+25514,Noko Matlou,South Africa Women's,-0.9119785130453737,2
+402179,Solai Washington,Jamaica Women's,-0.9134314877866282,3
+25768,Adriana María Sachs,Argentina Women's,-0.9141128544773695,1
+401735,Olivia Alexandra Davies Isip McDaniel,Philippines Women's,-0.9148493220742958,3
+131614,Mary Wilombe,Zambia Women's,-0.9244788399000983,2
+10390,Anja Sønstevold,Norway Women's,-0.9279450979272444,3
+15443,Merle Frohms,Germany Women's,-0.9284124964984191,3
+5105,Sofia Huerta,United States Women's,-0.9356319654620554,1
+25717,Mi-Ra Moon,Korea Republic Women's,-0.9391784256923961,3
+135779,Gabriela Nunes da Silva,Brazil Women's,-0.9435947108446828,1
+32699,Josefine Hasbo,Denmark Women's,-0.9480856525200312,4
+337744,Isibeal Atkinson,Republic of Ireland Women's,-0.9620206172169669,2
+276289,Anna Langås Jøsendal,Norway Women's,-0.963109965587878,1
+276304,Guro Bergsvand,Norway Women's,-0.9632641929074863,1
+31555,Courtney Brosnan,Republic of Ireland Women's,-0.9676027361372376,3
+401634,Cortnee Brooke Vine,Australia Women's,-0.9682880158501328,7
+18153,Alisha Lehmann,Switzerland Women's,-0.9698637517889228,2
+32339,Daphne van Domselaar,Netherlands Women's,-0.9795016716568951,5
+401742,Isabella Victoria Sola Flanigan,Philippines Women's,-0.985775204178131,3
+34485,Gabriela Guillén Alvarez,Costa Rica Women's,-0.9877837162796272,1
+50156,Claudia  Zornoza Sánchez,Spain Women's,-0.9936226289257213,2
+402667,Sofia Bouftini,Morocco Women's,-0.9956184890205698,3
+47022,Laura Freigang,Germany Women's,-1.0018329595908328,1
+325210,Ivonne Chacón,Colombia Women's,-1.0083020832286247,2
+49913,Athenea del Castillo Belvide,Spain Women's,-1.0090556741342955,3
+401636,Abbie Larkin,Republic of Ireland Women's,-1.0101266043703514,3
+10417,Viola Calligaris,Switzerland Women's,-1.0106063518855959,2
+24368,Andressa Alves da Silva,Brazil Women's,-1.0128410994169916,2
+32405,Rebecka Blomqvist,Sweden Women's,-1.013973253545309,5
+403292,Eun-Ha Jeoun,Korea Republic Women's,-1.0177901258052218,1
+355040,Gift Nyakno Monday,Nigeria Women's,-1.0178251246085641,1
+8382,Clare Elizabeth Polkinghorne,Australia Women's,-1.0247326631724198,5
+15615,Pauline Peyraud Magnin,France Women's,-1.025085561698042,5
+41950,Evelyne Viens,Canada Women's,-1.026725196048367,3
+24883,Sydney Lohmann,Germany Women's,-1.0268724682413115,1
+276442,Lene Christensen,Denmark Women's,-1.0328162912188954,4
+126508,María Pérez,Spain Women's,-1.0394619027569292,1
+402177,Kalyssa van Zanten,Jamaica Women's,-1.0404340121916442,1
+401802,Daniela Solera Vega,Costa Rica Women's,-1.0421216434191216,3
+26051,Dalila Belén Ippolito,Argentina Women's,-1.051340007976883,2
+402125,Melinda Kgadiete,South Africa Women's,-1.051858337143489,2
+87187,Mille Gejl Jensen,Denmark Women's,-1.0557637859704834,2
+42207,Marissa Maeve Sheva,Republic of Ireland Women's,-1.0731172850092927,3
+10205,Olivia Alma Charlotta Schough,Sweden Women's,-1.0734198487754298,4
+10371,Elisa Bartoli,Italy Women's,-1.0746726546427325,1
+402459,Gabriela Patricia Chávez,Argentina Women's,-1.0805934264242547,1
+25445,Chae-Rim Kang,Korea Republic Women's,-1.0806014924063942,1
+214481,Victoria Esson,New Zealand Women's,-1.0811466785180268,3
+10420,Meriame Terchoun,Switzerland Women's,-1.0849490736829595,4
+402656,Khadija Er-Rmichi,Morocco Women's,-1.0874497752790382,4
+401640,Grace Joanna Ella Jale,New Zealand Women's,-1.0902708494673896,2
+32333,Lynn Wilms,Netherlands Women's,-1.0936083713351865,2
+402117,Tiisetso Makhubela,South Africa Women's,-1.0948791331827743,3
+401800,Alexandra Pinell González,Costa Rica Women's,-1.1028561679392708,2
+389495,Alyssa Paola Thompson,United States Women's,-1.1081613051503485,2
+25488,Yasha Gu,China PR Women's,-1.1092671555641036,2
+402178,Kameron Necole Simmonds,Jamaica Women's,-1.1118956900512043,2
+401938,Eunice Sakala,Zambia Women's,-1.1244696191208716,1
+402463,Érica Noelia Lonigro,Argentina Women's,-1.1310950680648721,2
+402011,Danielle Monique Étienne,Haiti Women's,-1.1317700685092655,1
+45295,Catalina Thomas Coll Lluch,Spain Women's,-1.1343309375568054,4
+25627,Ayaka Yamashita,Japan Women's,-1.1371865074385152,5
+5038,Allysha Lyn Chapman,Canada Women's,-1.1415878548875245,3
+402175,Peyton McNamara,Jamaica Women's,-1.14696111681771,2
+46549,Nicole Anyomi,Germany Women's,-1.1479910180752364,3
+50152,Eva Maria Navarro,Spain Women's,-1.148862409033633,5
+5100,Alyssa Michele Naeher,United States Women's,-1.153457914702539,4
+25697,Lina Mona Andréa Hurtig,Sweden Women's,-1.1628957992900428,6
+387449,Maria Eduarda Ferreira Sampaio,Brazil Women's,-1.167136682333106,2
+62951,Aniek Nouwen,Netherlands Women's,-1.1741565757847319,2
+402132,Ana Ines Palma Capeta,Portugal Women's,-1.1826113521657842,2
+401881,Thị Kiều Chương,Vietnam Women's,-1.1846022339717954,3
+31538,Mary Alexandra Earps,England Women's,-1.1879833514126765,7
+401806,Emilie Vanessa Valenciano Rojas,Costa Rica Women's,-1.1913735542065225,1
+402121,Robyn Kimberly Moodaly,South Africa Women's,-1.1979326262774768,1
+25659,Merel van Dongen,Netherlands Women's,-1.201121971573922,1
+401730,Meryll Serrano,Philippines Women's,-1.2049491669868797,2
+316798,Noxolo Cesane,South Africa Women's,-1.2077297479721842,1
+403284,Jung-Mi Kim,Korea Republic Women's,-1.2088291137298084,2
+34872,Inês Teixeira Pereira,Portugal Women's,-1.2107931294042396,2
+403281,Marcela Restrepo Valencia,Colombia Women's,-1.218121008477546,3
+10109,Sanne Troelsgaard-Nielsen,Denmark Women's,-1.2209365389745337,3
+221888,Kerstin Yasmijn Casparij,Netherlands Women's,-1.2212993733629371,5
+62667,Jennifer Miley Falk,Sweden Women's,-1.2281253086887631,1
+135257,Amber Barrett,Republic of Ireland Women's,-1.2444822783438487,1
+132147,Vast Phiri,Zambia Women's,-1.2498529735218993,2
+131613,Hellen Mubanga,Zambia Women's,-1.2499272420206082,1
+401728,Jennifer Onyi Echegini,Nigeria Women's,-1.2623693917418204,2
+402008,Kerly Théus,Haiti Women's,-1.2630510051761619,3
+389771,Young-Geul Yoon,Korea Republic Women's,-1.267821108527002,1
+63783,Caitlin Dijkstra,Netherlands Women's,-1.2694633957709267,2
+36800,Aurora Watten Mikalsen,Norway Women's,-1.2723303915779556,4
+42787,Mackenzie Arnold,Australia Women's,-1.2732690090116114,7
+10160,Carolina Mendes,Portugal Women's,-1.2882597548296952,1
+10145,Patricia Isabel Sousa Barros Morais,Portugal Women's,-1.2900566098897368,1
+131695,Yu Zhu,China PR Women's,-1.2938715150749487,2
+46558,Jill Bayings,Netherlands Women's,-1.3046007954502932,1
+5071,Monica Hickmann Alves,Brazil Women's,-1.305273479361041,1
+46344,Catalina Pérez Jaramillo,Colombia Women's,-1.3072347608611388,5
+43045,Sandrine Mauron,Switzerland Women's,-1.3099587596036684,4
+49830,María Isabel Rodríguez Rivero,Spain Women's,-1.3182363245876987,3
+32227,Emma Snerle,Denmark Women's,-1.3299786271397063,1
+131590,Claudia Bunge,New Zealand Women's,-1.3301389201602658,2
+401740,Carleigh Bennett Frilles,Philippines Women's,-1.3304485781829576,1
+5021,Kelley Maureen O'Hara,United States Women's,-1.3375642984845217,3
+15550,Bethany England,England Women's,-1.339129132187583,5
+10406,Fabienne Humm,Switzerland Women's,-1.3553134598323926,1
+401999,Maudeline Moryl,Haiti Women's,-1.3586854912157107,1
+389365,Maika Hamano,Japan Women's,-1.3701641560044076,1
+5043,Nichelle Patrice Prince,Canada Women's,-1.3758529502251642,1
+401933,Remina Chiba,Japan Women's,-1.3792837442714974,1
+401739,Dominique Jaylin Abrena Randle,Philippines Women's,-1.3819518738710062,2
+45287,Alexandra Chidiac,Australia Women's,-1.3866975762389944,3
+62713,Zecira Musovic,Sweden Women's,-1.387268977246481,6
+135146,Ijeoma Esther Okoronkwo,Nigeria Women's,-1.3938900684127238,2
+131629,Catherine Musonda,Zambia Women's,-1.3971982828982985,2
+49873,Lara Marti,Switzerland Women's,-1.4018953163188386,1
+403270,Natalia Giraldo Alzáte,Colombia Women's,-1.4116111880927187,1
+401880,Kim Thanh Trần Thị,Vietnam Women's,-1.42039601255032,3
+401725,Olivia Smith,Canada Women's,-1.432458201399106,1
+131581,Letícia Izidoro Lima da Silva,Brazil Women's,-1.433158830061405,3
+401746,Kristen Ryley Sy Bugay,Philippines Women's,-1.4334009899362172,2
+30961,Naomie Feller,France Women's,-1.4336850540867228,1
+4945,Havana Solaun,Jamaica Women's,-1.4632444178708004,1
+47095,Diane Caldwell,Republic of Ireland Women's,-1.4649001924584568,1
+25465,Onome Ebi,Nigeria Women's,-1.490958749979957,1
+402022,Jiaxing Dou,China PR Women's,-1.4956831943503655,1
+402014,Florsie Love Darlina Joseph,Haiti Women's,-1.4995986980956688,1
+401647,Marit Bratberg Lund,Norway Women's,-1.5061432876400134,1
+25611,Vanina Noemí Correa,Argentina Women's,-1.5079245851670258,3
+32216,Aïssatou Tounkara,France Women's,-1.5131387656927024,1
+401722,Glory Ogbonna,Nigeria Women's,-1.5349919208808855,1
+135616,Jiali Tang,China PR Women's,-1.5552172001906395,1
+131587,Gabrielle Rose Rennie,New Zealand Women's,-1.5643911943446316,2
+402021,Chen Gao,China PR Women's,-1.5723607644416542,1
+10157,Silvia Rebelo,Portugal Women's,-1.582714307394644,1
+402015,Shwendesky Macélus Joseph,Haiti Women's,-1.6012350372773,1
+401870,Thị Hằng Khổng,Vietnam Women's,-1.6143532901121707,1
+62907,Ana Vitória Angélica Kliemaschewsk de Araújo,Brazil Women's,-1.6343327320913263,1
+38248,Luna Nørgaard Gewitz,Denmark Women's,-1.661111876469391,1
+402016,Huan Xu,China PR Women's,-1.7307394293844418,1
+132033,Courtney Jade Nevin,Australia Women's,-1.7908589150796093,1
+25472,Ugochi Desire Oparanozie,Nigeria Women's,-1.797779012729021,1
+25549,Tameka Yallop,Australia Women's,-2.6300777801925883,1

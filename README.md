@@ -1,97 +1,107 @@
-# Evaluating soccer players' offensive influence using an xT Weighted PageRank on passing networks 
+# xT-Weighted PageRank on Passing Networks
 
-## Overview
+A soccer-analytics project that ranks players by their **centrality in their team's passing
+network** at the 2023 FIFA Women's World Cup, using a Weighted PageRank (WPR) algorithm on
+StatsBomb event data.
 
-This project introduces an approach to player performance analysis using a custom **Weighted PageRank (WPR)** algorithm. It moves beyond simple pass counts or only crediting key passes that lead to final shots. It holistically evaluates players' offensive influences based on the quality and context of every single pass they made/received within their team's passing network.
+## What this measures
 
-The core of this project is a custom PageRank algorithm applied to passing networks from the 2023 FIFA Women's World Cup. The weight of each pass (an edge in the network graph) is determined by a combination of:
+For every match, each team's passing is modelled as a **directed weighted network** — players are
+nodes, successful passes are edges. Each pass is weighted by two factors:
 
-1.  **Expected Threat (xT) Added:** The change in the probability of scoring resulting from the pass.
-2.  **Pressure:** Bonuses are applied for making or receiving passes while under pressure from opponents.
+1. **Expected Threat added (ΔxT)** — the increase in the probability of scoring that the pass
+   produces, using a **custom xT grid trained on this tournament's own event data**
+   (`Evaluation/wwc2023_trained_xT_grid.csv`, 12×16 cells).
+2. **Pressure** — a small bonus when the passer completes the pass under defensive pressure.
 
-The final WPR score for each player represents their overall influence and importance in creating threatening opportunities for their team.
+Weighted PageRank (damping factor 0.85) is then run on each team's network, giving every player a
+WPR score per match. To compare players across matches, scores are **Z-score normalized per match**
+and then averaged per player, producing the final `average_z_score`.
 
-## Key Features & Methodology
+> **Important:** `average_z_score` measures how central a player is to their team's passing
+> structure under this model. It is **not** a general measure of offensive contribution — it does
+> not track goals, assists, or team results, and it is essentially uncorrelated with match ratings
+> such as Sofascore. It is best used *alongside* outcome-based metrics to understand *role and
+> system*, not to rank who scored or won.
 
-The analysis is conducted through a series of steps, detailed in the Jupyter Notebooks:
+## Pipeline
 
-1.  **Data Preparation:** StatsBomb event data is converted into the SPADL (Soccer Player Action Description Language) format using the `socceraction` library.
-2.  **Expected Threat (xT) Model:** A custom xT model is trained on the full tournament dataset to assign a threat value to every location on the pitch.
-3.  **Weighted Passing Network Construction:** For each match, a directed graph is built where players are nodes and passes are edges. The edge weights are calculated based on the change in xT and pressure bonuses.
-4.  **Weighted PageRank (WPR) Calculation:** A custom-built PageRank algorithm is run on the weighted adjacency matrix of the passing network to calculate each player's influence score for that match.
-5.  **Cross-Match Normalization (Z-Scores):** To compare player performances across different matches and contexts, raw WPR scores are converted to Z-scores, which measure how many standard deviations a player's performance was from the match average.
-6.  **Positional Analysis:** Player position data is integrated to analyze the results, identifying top performers in each role and highlighting versatile players.
+```
+Download_Statsbomb.py        -> downloads StatsBomb open data into data/wwc2023/{events,lineups,...}
+socceraction_load_and_convert_statsbomb_data.ipynb -> converts event data to SPADL (data/spadl-statsbomb.h5)
+socceraction_xT.ipynb        -> trains the custom 12x16 xT grid -> Evaluation/wwc2023_trained_xT_grid.csv
+WWC_PageRank_Core.ipynb      -> per-team weighted passing networks + Weighted PageRank
+                               -> Results/all_matches_wpr_combined.csv
+WWC_PageRank_Final_Processing.ipynb -> per-match Z-scores -> Results/player_rankings_z_score.csv
+Add positions.ipynb          -> enriches with lineup positions -> Results/player_rankings_with_positions.csv
+```
 
-## Results & Visualizations
+## Results — Top 10 players by average_z_score (WWC 2023)
 
-The final output is a ranked list of all players in the tournament based on their average WPR Z-score. The analysis reveals key influencers who may not always top traditional stats leaderboards.
-
-#### Top 10 Ranked Players (WWC 2023)
-
-| Rank | Player | Team | Average Z-Score | Primary Position |
+| Rank | Player | Team | Avg Z-Score | Position |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Khadija Monifa Shaw | Jamaica | 3.02 | Forward |
-| 2 | Barbra Banda | Zambia | 2.79 | Forward |
-| 3 | Thị Thảo Thái | Vietnam | 2.53 | Defensive Midfielder|
-| 4 | K. Rivera Guillou | Philippines | 2.42 | Central Midfielder |
-| 5 | Pernille Harder | Denmark | 2.37 | Attacking Midfielder|
-| ... | ... | ... | ... | ... |
+| 1 | Thị Thảo Thái | Vietnam | 2.44 | Defensive Midfielder |
+| 2 | Marta Cox Villarreal | Panama | 2.18 | Center Forward |
+| 3 | Melchie Daëlle Dumornay | Haiti | 2.13 | Attacking Midfielder |
+| 4 | So-Yun Ji | Korea Republic | 2.01 | Defensive Midfielder |
+| 5 | Deborah Ajibola Abiodun | Nigeria | 1.90 | Central Midfielder |
+| 6 | Khadija Monifa Shaw | Jamaica | 1.88 | Center Forward |
+| 7 | Vanessa Gilles | Canada | 1.82 | Center Back |
+| 8 | Estefanía Banini Ruiz | Argentina | 1.77 | Attacking Midfielder |
+| 9 | Nathalie Björn | Sweden | 1.67 | Right Back |
+| 10 | Barbra Banda | Zambia | 1.66 | Center Forward |
 
-*(This table can be extended with your final results)*
-
----
+Full rankings are in `Results/player_rankings_with_positions.csv`.
 
 ## Setup and Usage
 
-To run this project locally, please follow these steps.
-
 ### 1. Prerequisites
-- Git
-- Python 3.9+
+- Python 3.9+, Jupyter
 
-### 2. Clone the Repository
+### 2. Clone and install
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 3. Set Up the Data
-This repository **does not** contain the raw StatsBomb data, as its redistribution is not permitted. You must download it yourself.
-
-1.  Go to the [StatsBomb/open-data](https://github.com/statsbomb/open-data) repository.
-2.  Download the event & lineup datasets for the **2023 FIFA Women's World Cup** or other matches/tournaments you want to study.
-3.  Create a `data/` folder in the root of this project.
-4.  Place the downloaded data into the `data/` folder, maintaining the following structure:
-    ```
-    data/
-    └── wwc2023/
-        ├── events/
-        │   ├── 3893787.json
-        │   └── ... (all other event files)
-        └── lineups/
-            ├── 3893787.json
-            └── ... (all other lineup files)
-    ```
-5.  The derived xT grid and final CSVs are included in this repository for convenience.
-
-### 4. Install Dependencies
-It is recommended to use a virtual environment.
-```bash
-# Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install the required libraries
+git clone https://github.com/shawnhdx0710/xT-weighted-PageRank-on-passing-networks.git
+cd xT-weighted-PageRank-on-passing-networks
 pip install -r requirements.txt
 ```
 
----
+### 3. Get the data
+StatsBomb's open data is not redistributable, so the raw JSON is **not** in this repository
+(it is git-ignored). Download it yourself:
+
+```bash
+python Download_Statsbomb.py
+```
+This downloads the 2023 FIFA Women's World Cup (and Euro 2022) event/lineup data into
+`data/wwc2023/` and `data/euro2022/`. Alternatively, grab the files manually from
+[StatsBomb/open-data](https://github.com/statsbomb/open-data) and place them in:
+
+```
+data/wwc2023/
+├── events/<match_id>.json
+├── lineups/<match_id>.json
+└── three-sixty/<match_id>.json
+```
+
+### 4. Run
+The trained xT grid (`Evaluation/`) and final results (`Results/`) are already included, so you can
+run the main pipeline immediately. To reproduce the grid from scratch, run the two socceraction
+notebooks in order first.
+
+Run the notebooks in order:
+1. `WWC_PageRank_Core.ipynb` — builds networks + computes WPR
+2. `WWC_PageRank_Final_Processing.ipynb` — Z-scores and final ranking
+3. `Add positions.ipynb` — position enrichment
+
+*(Optional: rerun `socceraction_load_and_convert_statsbomb_data.ipynb` and `socceraction_xT.ipynb`
+first to retrain the xT grid.)*
 
 ## Acknowledgements & Data Source
-
-*   This project uses open data provided by **StatsBomb**. All data is managed and accessed via the [StatsBomb/open-data](https://github.com/statsbomb/open-data) repository and is subject to their user agreement. A huge thank you to StatsBomb for making this data available to the public.
-*   This project utilizes the [socceraction](https://github.com/ML-KULeuven/socceraction) library for handling event stream data. The library is licensed under the MIT License.
+- Data: **StatsBomb** open data (see their [open-data](https://github.com/statsbomb/open-data)
+  repository and user agreement).
+- Libraries: [socceraction](https://github.com/ML-KULeuven/socceraction) (MIT), and the standard
+  scientific Python stack.
+- xT concept: [Karun Singh's Expected Threat](https://karun.in/blog/expected-threat.html).
 
 ## License
-
-The original code in this repository is licensed under the [MIT License](LICENSE).
+[MIT](LICENSE)

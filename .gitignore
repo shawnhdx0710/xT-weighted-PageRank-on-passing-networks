@@ -1,3 +1,6 @@
+# Raw StatsBomb data + derived SPADL files (see README)
+/data/
+
 # Ignore StatsBomb JSON to comply with their terms.
 **/events/
 **/lineups/
