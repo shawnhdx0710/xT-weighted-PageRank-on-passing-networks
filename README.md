@@ -53,6 +53,15 @@ Add positions.ipynb          -> enriches with lineup positions -> Results/player
 
 Full rankings are in `Results/player_rankings_with_positions.csv`.
 
+### Sofascore comparison data
+
+The evaluation in the paper compares `average_z_score` against **Sofascore ratings** for the 50
+highest-rated players of the tournament (`Evaluation/Top 50 Sofascore (standardized).csv`).
+Sofascore ratings are **proprietary to Sofascore** and are included here solely for comparison and
+reproducibility of the paper's evaluation, with attribution to Sofascore
+(<https://www.sofascore.com>); they are subject to Sofascore's terms. The team-outcome analyses in
+the paper use only StatsBomb data and do not depend on this file.
+
 ## Setup and Usage
 
 ### 1. Prerequisites
@@ -95,6 +104,18 @@ Run the notebooks in order:
 
 *(Optional: rerun `socceraction_load_and_convert_statsbomb_data.ipynb` and `socceraction_xT.ipynb`
 first to retrain the xT grid.)*
+
+## Reproducibility
+
+- **Main results:** executing the three notebooks in order (`WWC_PageRank_Core` →
+  `WWC_PageRank_Final_Processing` → `Add positions`) on the raw StatsBomb data reproduces the
+  committed `Results/` files (615 ranked players) exactly.
+- **xT grid:** `socceraction_xT.ipynb` retrains the grid deterministically. With `socceraction
+  1.5.3`, retraining the grid from the converted SPADL data reproduces
+  `Evaluation/wwc2023_trained_xT_grid.csv` bit-for-bit.
+- **Sofascore comparison:** the correlation and the scatter plot in the paper use Sofascore's
+  proprietary ratings (`Evaluation/Top 50 Sofascore (standardized).csv`), included with attribution
+  for comparison only. All other analysis uses only StatsBomb open data.
 
 ## Acknowledgements & Data Source
 - Data: **StatsBomb** open data (see their [open-data](https://github.com/statsbomb/open-data)
