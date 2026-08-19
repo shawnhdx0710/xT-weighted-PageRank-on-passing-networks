@@ -7,6 +7,5 @@ requests
 socceraction
 tables          # HDF5 (SPADL conversion)
 matplotlib
-matplotsoccer
 plotly
 kaleido==0.2.1  # static 3D figure export (must match plotly 6.x)
