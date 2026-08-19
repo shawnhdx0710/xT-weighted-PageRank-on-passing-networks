@@ -1,611 +1,616 @@
-player_id,player,team,average_z_score,matches_played,primary_position,simplified_position,detailed_position
-401879,Thị Thảo Thái,Vietnam Women's,2.441726623152269,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-361339,Marta Alexandra Cox Villarreal,Panama Women's,2.1764491416693343,3,Center Forward,Forward,Forward
-142735,Melchie Daëlle Dumornay,Haiti Women's,2.1281192480723705,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-4647,So-Yun Ji,Korea Republic Women's,2.008019073553137,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-401723,Deborah Ajibola Abiodun,Nigeria Women's,1.9035295367366112,1,Left Center Midfield,Midfielder,Left Center Midfield
-25554,Khadija Monifa Shaw,Jamaica Women's,1.878462016774778,3,Center Forward,Forward,Forward
-30854,Vanessa Brigitte Gilles,Canada Women's,1.8161024550682177,3,Left Center Back,Defender,Left Center Back
-4944,Estefanía Romina Banini Ruiz,Argentina Women's,1.7686812433213457,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-26093,Gun Nathalie Björn,Sweden Women's,1.673899191859677,6,Right Back,Defender,Right Back
-131619,Barbra Banda,Zambia Women's,1.6639543349588617,3,Center Forward,Forward,Forward
-402663,Ghizlane Chebbak,Morocco Women's,1.6041899788935488,4,Left Defensive Midfield,Midfielder,Defensive Midfielder
-26156,Rasheedat Busayo Ajibade,Nigeria Women's,1.5961159653296448,3,Right Wing,Forward,Winger
-402784,Carina Alicia Baltrip-Reyes,Panama Women's,1.5656215458605285,3,Left Back,Defender,Left Back
-225182,Anna Sandberg,Sweden Women's,1.536372886685691,1,Left Back,Defender,Left Back
-402025,Linyan Zhang,China PR Women's,1.5236781554710277,3,Left Midfield,Midfielder,Left Midfield
-105708,Kerolin Nicoli Israel Ferraz,Brazil Women's,1.4893826100997405,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-10252,Alex Greenwood,England Women's,1.4037206001495888,7,Left Center Back,Defender,Left Center Back
-32215,Leicy Maria Santos Herrera,Colombia Women's,1.373405089262938,5,Center Attacking Midfield,Midfielder,Attacking Midfielder
-402666,Fatima Zahra Tagnaout,Morocco Women's,1.369478387953072,4,Left Midfield,Midfielder,Left Midfield
-25662,Catherine Joan Bott,New Zealand Women's,1.3427853248298212,3,Right Back,Defender,Right Back
-5084,Denise O'Sullivan,Republic of Ireland Women's,1.3246126476370736,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-32854,Racheal Kundananji,Zambia Women's,1.3166200957360823,3,Left Midfield,Midfielder,Left Midfield
-4638,Drew Spence,Jamaica Women's,1.3115561259356578,4,Right Defensive Midfield,Midfielder,Defensive Midfielder
-4999,Lindsey Michelle Horan,United States Women's,1.2981165071373113,4,Left Center Midfield,Midfielder,Left Center Midfield
-401885,Thị Thanh Nhã Nguyễn,Vietnam Women's,1.2901448625606475,2,Left Wing,Forward,Winger
-25447,Sel-Gi Jang,Korea Republic Women's,1.288023550800267,3,Left Back,Defender,Left Back
-131814,Shiori Miyake,Japan Women's,1.268387895062841,1,Right Center Back,Defender,Right Center Back
-32355,Felicitas Rauch,Germany Women's,1.2681483512497094,1,Left Back,Defender,Left Back
-403278,María Catalina Usme Pineda,Colombia Women's,1.257789427035209,5,Center Attacking Midfield,Midfielder,Attacking Midfielder
-62666,Ingrid Filippa Angeldal,Sweden Women's,1.241878236967653,6,Right Defensive Midfield,Midfielder,Defensive Midfielder
-10108,Pernille Mosegaard Harder,Denmark Women's,1.24093516578632,4,Center Attacking Midfield,Midfielder,Attacking Midfielder
-131631,Evarine Susan Katongo,Zambia Women's,1.2095112527706326,3,Left Center Midfield,Midfielder,Left Center Midfield
-386339,Linda Lizeth Caicedo Alegría,Colombia Women's,1.2045872967789728,5,Left Wing,Forward,Winger
-370851,Sophie Wais Braun,Argentina Women's,1.1996345671266362,3,Right Back,Defender,Right Back
-10399,Kathrin Julia Hendrich,Germany Women's,1.1981145342522492,3,Right Center Back,Defender,Right Center Back
-50153,Rocío Gálvez Luna,Spain Women's,1.1872866895091412,1,Left Center Back,Defender,Left Center Back
-5052,Thembi Kgatlana,South Africa Women's,1.1769243485825172,4,Center Forward,Forward,Forward
-10395,Maren Nævdal Mjelde,Norway Women's,1.1642239050979024,4,Right Center Back,Defender,Right Center Back
-25538,Jody Brown,Jamaica Women's,1.1143336778483162,4,Left Midfield,Midfielder,Left Midfield
-402655,Sakina Ouzraoui Diki,Morocco Women's,1.0775363011425174,4,Right Midfield,Midfielder,Right Midfield
-15620,Katie McCabe,Republic of Ireland Women's,1.076604513767359,3,Left Wing Back,Defender,Left Wing Back
-401877,Thu Thảo Trần Thị,Vietnam Women's,1.0737968341379822,3,Right Wing Back,Defender,Right Wing Back
-131616,Margaret Belemu,Zambia Women's,1.0657409886250797,3,Right Back,Defender,Right Back
-25615,Flavia Lorena Benítez,Argentina Women's,1.061928834494147,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-10117,Sakina Karchaoui,France Women's,1.0587872732025647,4,Left Back,Defender,Left Back
-21062,Alexandra Riley,New Zealand Women's,1.0583568742467906,3,Left Back,Defender,Left Back
-10404,Noelle Maritz,Switzerland Women's,1.050190871780755,4,Right Center Back,Defender,Right Center Back
-10088,Katrine Veje,Denmark Women's,1.0490814255754513,4,Left Back,Defender,Left Back
-4659,Ramona Bachmann,Switzerland Women's,1.0451306042337871,4,Left Wing,Forward,Winger
-10167,Tatiana Vanessa Ferreira Pinto,Portugal Women's,1.010966277252334,3,Right Center Midfield,Midfielder,Right Center Midfield
-4979,Katrina Gorry,Australia Women's,0.9997363422062148,7,Right Defensive Midfield,Midfielder,Defensive Midfielder
-4951,Rebecca Quinn,Canada Women's,0.9929165409676134,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-30969,Elisa De Almeida,France Women's,0.991120509668558,3,Left Center Back,Defender,Left Center Back
-5028,Katie Bowen,New Zealand Women's,0.9873848732853804,3,Left Center Back,Defender,Left Center Back
-46972,Luana Bühler,Switzerland Women's,0.9794328056972902,1,Right Center Back,Defender,Right Center Back
-25491,Marina Hegering,Germany Women's,0.975216852164582,1,Left Center Back,Defender,Left Center Back
-46639,Ona Batlle Pascual,Spain Women's,0.9740778339137572,7,Right Back,Defender,Right Back
-10649,Lieke Martens,Netherlands Women's,0.96630946175244,5,Left Center Forward,Forward,Forward
-225115,Katrina Jacqueline Rivera Guillou,Philippines Women's,0.9630097759824028,3,Left Midfield,Midfielder,Left Midfield
-10151,Jennifer Hermoso Fuentes,Spain Women's,0.959365816205856,7,Left Center Midfield,Midfielder,Left Center Midfield
-32101,Julia Stierli,Switzerland Women's,0.948056618563106,4,Left Center Back,Defender,Left Center Back
-30970,Nérilia Mondesir,Haiti Women's,0.9412355648927578,3,Left Wing,Forward,Winger
-401732,Jaclyn Katrina Demis Sawicki,Philippines Women's,0.9398210880905684,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-5078,Alanna Stephanie Kennedy,Australia Women's,0.9148535603859356,5,Left Center Back,Defender,Left Center Back
-10650,Jill Roord,Netherlands Women's,0.9137220382271192,5,Right Center Midfield,Midfielder,Right Center Midfield
-135755,Ashleigh Plumptre,Nigeria Women's,0.9128527490343364,4,Left Back,Defender,Left Back
-10178,Lucy Bronze,England Women's,0.9087495758611268,7,Right Wing Back,Defender,Right Wing Back
-53188,Mayra Tatiana Ramírez Ramírez,Colombia Women's,0.898448842006004,5,Center Forward,Forward,Forward
-15357,Kadeisha Buchanan,Canada Women's,0.8975559650980337,3,Right Center Back,Defender,Right Center Back
-401748,Sara Kristine Bantan Eggesvik,Philippines Women's,0.8925486272757293,3,Left Midfield,Midfielder,Left Midfield
-131583,Qiaozhu Chen,China PR Women's,0.8831139397879469,3,Left Back,Defender,Left Back
-87185,Stine Ballisager Pedersen,Denmark Women's,0.8753781656151327,3,Right Center Back,Defender,Right Center Back
-224842,Stina Olivia Lennartsson,Sweden Women's,0.8723349897853115,1,Right Back,Defender,Right Back
-25453,Geum-Min Lee,Korea Republic Women's,0.866108116170465,2,Right Center Midfield,Midfielder,Right Center Midfield
-10161,María Francesca Caldentey Oliver,Spain Women's,0.8607533105608169,6,Left Wing,Forward,Winger
-402126,Hildah Tholakele Magaia,South Africa Women's,0.8575966258825838,4,Right Wing,Forward,Winger
-10645,Sherida Spitse,Netherlands Women's,0.8575251566532908,5,Right Center Back,Defender,Right Center Back
-10141,Ana Borges,Portugal Women's,0.8552573707497549,3,Right Center Back,Defender,Right Center Back
-10370,Cecilia Salvai,Italy Women's,0.8513734912882508,2,Left Center Back,Defender,Left Center Back
-49835,Teresa Abelleira Dueñas,Spain Women's,0.8482098335004382,7,Center Defensive Midfield,Midfielder,Defensive Midfielder
-5053,Linda Maserame Motlhalo,South Africa Women's,0.8299024999024917,4,Center Attacking Midfield,Midfielder,Attacking Midfielder
-32054,Jéssica da Silva,Portugal Women's,0.8260542244965823,3,Right Center Forward,Forward,Forward
-4642,Millie Bright,England Women's,0.8255088957386025,7,Center Back,Defender,Center Back
-131694,Martha Tembo,Zambia Women's,0.8198363193467112,3,Left Back,Defender,Left Back
-25632,Yui Hasegawa,Japan Women's,0.8151661689006842,5,Right Defensive Midfield,Midfielder,Defensive Midfielder
-401733,Sarina Isabel Calpo Bolden,Philippines Women's,0.811402729557491,3,Right Center Forward,Forward,Forward
-402467,Romina Stefania Núñez,Argentina Women's,0.8090337392576369,3,Right Center Midfield,Midfielder,Right Center Midfield
-15284,Aitana Bonmati Conca,Spain Women's,0.8062069375626402,7,Right Center Midfield,Midfielder,Right Center Midfield
-403290,Yu-Ri Choe,Korea Republic Women's,0.8022764559653405,3,Right Midfield,Midfielder,Right Midfield
-25511,Jermaine Seoposenwe,South Africa Women's,0.8022508436034457,4,Right Wing,Forward,Winger
-401645,Mathilde Hauge Harviken,Norway Women's,0.7988659699399998,4,Left Center Back,Defender,Left Center Back
-402118,Karabo Dhlamini,South Africa Women's,0.7972393374481633,3,Left Back,Defender,Left Back
-25608,Jun Endo,Japan Women's,0.7969763231417887,4,Left Wing Back,Defender,Left Wing Back
-25559,Tamires Cássia Dias de Britto,Brazil Women's,0.7961998664570968,3,Left Back,Defender,Left Back
-25770,Lisa Boattin,Italy Women's,0.7948890354883451,3,Left Back,Defender,Left Back
-10125,Wendie Renard,France Women's,0.7916819401907219,4,Right Center Back,Defender,Right Center Back
-34477,Mariana De Los Angeles Benavidez,Costa Rica Women's,0.7882966541228696,3,Left Center Back,Defender,Left Center Back
-10111,Simone Boye-Sørensen,Denmark Women's,0.7712867617697676,4,Left Center Back,Defender,Left Center Back
-16382,Heather Payne,Republic of Ireland Women's,0.759733476183419,2,Right Wing Back,Defender,Right Wing Back
-25520,Lebogang Ramalepe,South Africa Women's,0.7572599522056503,4,Right Back,Defender,Right Back
-34480,Katherine Maria Alvarado Aguilar,Costa Rica Women's,0.7539039257749386,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-23413,Megan Connolly,Republic of Ireland Women's,0.7432465822591263,3,Left Center Back,Defender,Left Center Back
-4658,Keira Walsh,England Women's,0.7389568608383777,6,Left Defensive Midfield,Midfielder,Defensive Midfielder
-5000,Stephanie-Elise Catley,Australia Women's,0.7364322821278149,7,Left Back,Defender,Left Back
-131579,Lina Yang,China PR Women's,0.7200012159851917,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-19777,Niamh Fahey,Republic of Ireland Women's,0.7197520114615942,3,Right Center Back,Defender,Right Center Back
-26092,Amanda Ilestedt,Sweden Women's,0.7196753268415685,7,Right Center Back,Defender,Right Center Back
-25521,Kholosa Biyana,South Africa Women's,0.7166069097942293,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-401808,Fabiola Villalobos Morales,Costa Rica Women's,0.7126718438099559,3,Right Center Back,Defender,Right Center Back
-4633,Magdalena Lilly Eriksson,Sweden Women's,0.7080408298498743,7,Left Center Back,Defender,Left Center Back
-41010,Kayla McCoy,Jamaica Women's,0.693445050637283,1,Center Forward,Forward,Forward
-392266,Jacqueline Anne Hand,New Zealand Women's,0.6899561573400314,3,Right Wing,Forward,Winger
-131586,Kyra Lillee Cooney-Cross,Australia Women's,0.6717096608099409,7,Left Defensive Midfield,Midfielder,Defensive Midfielder
-34483,Priscila Chinchilla,Costa Rica Women's,0.6716790636309603,3,Center Forward,Forward,Forward
-131570,Rafaelle Leone Carvalho Souza,Brazil Women's,0.6677300618059684,3,Left Center Back,Defender,Left Center Back
-389446,Jessika Rebecca Macayan Cowart,Philippines Women's,0.6667872566601268,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-15290,Ashley Elizabeth Marie Lawrence,Canada Women's,0.6577251469170738,3,Left Back,Defender,Left Back
-10405,Lia Wälti,Switzerland Women's,0.6563707132053545,4,Center Defensive Midfield,Midfielder,Defensive Midfielder
-11338,Caitlin Jade Foord,Australia Women's,0.6515259231603748,7,Left Midfield,Midfielder,Left Midfield
-25612,Jessie Alexandra Fleming,Canada Women's,0.6480115521856659,2,Center Attacking Midfield,Midfielder,Attacking Midfielder
-49945,Manuela Vanegas Cataño,Colombia Women's,0.6429202752935428,4,Left Back,Defender,Left Back
-10165,Irene Paredes Hernandez,Spain Women's,0.6337299962229811,7,Right Center Back,Defender,Right Center Back
-106836,Michelle Alozie,Nigeria Women's,0.6291164090453932,4,Right Back,Defender,Right Back
-10261,Sara Doorsoun-Khajeh,Germany Women's,0.6113263637216532,2,Left Center Back,Defender,Left Center Back
-25557,Deneisha Selena Blackwood,Jamaica Women's,0.6083840792777413,4,Left Back,Defender,Left Back
-10159,Diana Micaela Abreu de Sousa e Silva,Portugal Women's,0.6063368225644408,2,Left Center Forward,Forward,Forward
-25478,Lena Oberdorf,Germany Women's,0.6045339394331395,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-131575,Mengwen Li,China PR Women's,0.6019768820391401,3,Right Back,Defender,Right Back
-402793,Katherine Lineth Castillo Macías,Panama Women's,0.600494655472863,2,Right Back,Defender,Right Back
-402661,Ibtissam Jraïdi,Morocco Women's,0.5979557665483269,3,Center Forward,Forward,Forward
-10121,Eugénie Le Sommer,France Women's,0.5952176883059025,4,Left Center Forward,Forward,Forward
-401889,Như Huỳnh,Vietnam Women's,0.5949235783195091,3,Center Forward,Forward,Forward
-10215,Fridolina Rolfö,Sweden Women's,0.5906200300245461,6,Left Wing,Forward,Winger
-25638,Moeka Minami,Japan Women's,0.5736987266332323,5,Left Center Back,Defender,Left Center Back
-5095,Ellie Madison Carpenter,Australia Women's,0.5730497096556463,7,Right Back,Defender,Right Back
-389489,Adriana Leal da Silva,Brazil Women's,0.5622125761832734,3,Left Midfield,Midfielder,Left Midfield
-10666,Dominique Johanna Anna Petrone Janssen,Netherlands Women's,0.5620565448324174,5,Left Center Back,Defender,Left Center Back
-5088,Crystal Alyssia Dunn Soubrier,United States Women's,0.5606561930004479,4,Left Back,Defender,Left Back
-10228,Manuela Giugliano,Italy Women's,0.5565494810285981,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-19422,Jessica Carter,England Women's,0.5532284663875403,6,Right Center Back,Defender,Right Center Back
-401926,Hana Takahashi,Japan Women's,0.5520760817952292,3,Right Center Back,Defender,Right Center Back
-401731,Angela Beard,Philippines Women's,0.5501774335595183,3,Left Center Back,Defender,Left Center Back
-401803,María Paula Coto González,Costa Rica Women's,0.5370089310755954,3,Right Back,Defender,Right Back
-35406,Ruesha Littlejohn,Republic of Ireland Women's,0.5350257252055349,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-6811,Julie Beth Ertz,United States Women's,0.5328098276604031,4,Right Center Back,Defender,Right Center Back
-402665,Zineb Redouani,Morocco Women's,0.5251903978886139,4,Left Back,Defender,Left Back
-62910,Ana Rita Silva Seiça,Portugal Women's,0.5208746969989331,1,Left Center Back,Defender,Left Center Back
-402127,Wendy Shongwe,South Africa Women's,0.5202769291348898,1,Right Wing,Forward,Winger
-10658,Danielle van de Donk,Netherlands Women's,0.5181631237685105,4,Left Center Midfield,Midfielder,Left Center Midfield
-25640,María Florencia Bonsegundo,Argentina Women's,0.5142007829955776,3,Left Wing,Forward,Winger
-10514,Guro Reiten,Norway Women's,0.5106908696533861,4,Left Center Midfield,Midfielder,Left Center Midfield
-10656,Lineth Beerensteyn,Netherlands Women's,0.5057849424947619,3,Right Center Forward,Forward,Forward
-53993,Roselord Borgella,Haiti Women's,0.5021077613470202,3,Center Forward,Forward,Forward
-62962,Esmee Brugts,Netherlands Women's,0.5016903336384787,5,Left Wing Back,Defender,Left Wing Back
-401883,Loan Hoàng Thị,Vietnam Women's,0.4986540790581757,3,Left Wing Back,Defender,Left Wing Back
-34550,Hye-Ji Hong,Korea Republic Women's,0.4966252005480817,1,Center Back,Defender,Center Back
-135571,Chiara Beccari,Italy Women's,0.4931296971961703,3,Center Forward,Forward,Forward
-25743,Luana Bertolucci Paixão,Brazil Women's,0.4880568245842971,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-402466,Camila Gómez Ares,Argentina Women's,0.4870072317346009,1,Right Center Midfield,Midfielder,Right Center Midfield
-25658,Hannah Wilkinson,New Zealand Women's,0.4850597989424964,3,Center Forward,Forward,Forward
-5055,Lynn Raenie Williams,United States Women's,0.4844463509338873,2,Right Wing,Forward,Winger
-401642,Malia Grace Steinmetz,New Zealand Women's,0.4759224765233393,3,Center Defensive Midfield,Midfielder,Defensive Midfielder
-31629,Anissa Lahmari,Morocco Women's,0.4736757357910326,3,Right Center Forward,Forward,Forward
-22798,So-Hyun Cho,Korea Republic Women's,0.4723316487806235,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-182466,Lauren Eduarda Leal Costa,Brazil Women's,0.4704741681681297,2,Right Center Back,Defender,Right Center Back
-34478,María Paula Salas,Costa Rica Women's,0.4689879494451729,3,Center Forward,Forward,Forward
-49172,Sophia Olivia Smith,United States Women's,0.4681799945032419,4,Left Wing,Forward,Winger
-107491,Emily Ann Fox,United States Women's,0.4555422439971219,4,Right Back,Defender,Right Back
-25633,Eliana Noemí Stábile,Argentina Women's,0.4538244440894123,3,Left Back,Defender,Left Back
-402024,Lingwei Yao,China PR Women's,0.4520720602968493,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-30958,Melissa Herrera Monge,Costa Rica Women's,0.4511405234523073,3,Right Midfield,Midfielder,Right Midfield
-401745,Quinley Mirielle Campomanes Quezada-Keča,Philippines Women's,0.4480897681161866,3,Right Midfield,Midfielder,Right Midfield
-10272,Onema Grace Geyoro,France Women's,0.4476923353864775,5,Right Defensive Midfield,Midfielder,Defensive Midfielder
-219423,Naomi Haile Girma,United States Women's,0.4458180036788957,4,Left Center Back,Defender,Left Center Back
-10220,Kosovare Asllani,Sweden Women's,0.4421455994723108,6,Center Attacking Midfield,Midfielder,Attacking Midfielder
-10408,Ana-Maria Crnogorčević,Switzerland Women's,0.4418174817461523,4,Center Forward,Forward,Forward
-25490,Rui Zhang,China PR Women's,0.4400568170272379,2,Center Attacking Midfield,Midfielder,Attacking Midfielder
-63788,Victoria Pelova,Netherlands Women's,0.4270583074177326,5,Right Wing Back,Defender,Right Wing Back
-35693,Mary Boio Fowler,Australia Women's,0.4258165860758769,6,Left Center Forward,Forward,Forward
-31784,Maëlle Lakrar,France Women's,0.4144853051056493,4,Right Center Back,Defender,Right Center Back
-25624,Risa Shimizu,Japan Women's,0.4119985733831616,5,Right Wing Back,Defender,Right Wing Back
-50003,Antonia Ronnycleide da Costa Silva,Brazil Women's,0.4086959281192803,3,Right Back,Defender,Right Back
-403271,Ana María Guzmán Zapata,Colombia Women's,0.4084249898689545,2,Left Back,Defender,Left Back
-402796,Schiandra Yael González Jurado,Panama Women's,0.4076715360111284,3,Left Center Midfield,Midfielder,Left Center Midfield
-276288,Tuva Hansen,Norway Women's,0.4021104788463728,4,Left Back,Defender,Left Back
-62905,Catarina Amado,Portugal Women's,0.4020460781126136,2,Left Back,Defender,Left Back
-402019,Chengshu Wu,China PR Women's,0.4001709979586074,3,Right Midfield,Midfielder,Right Midfield
-5085,Alexandra Morgan Carrasco,United States Women's,0.3988050067248087,4,Center Forward,Forward,Forward
-10222,Jonna Ann-Charlotte Andersson,Sweden Women's,0.3975840768616112,6,Left Back,Defender,Left Back
-25469,Halimatu Ibrahim Ayinde,Nigeria Women's,0.3850819243801053,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-10263,Sara Däbritz,Germany Women's,0.3828313228065137,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-25556,Kathellen Sousa Feitoza,Brazil Women's,0.3778728074704409,1,Right Center Back,Defender,Right Center Back
-50020,Antionette Oyedupe Payne,Nigeria Women's,0.3687500215180959,4,Right Center Midfield,Midfielder,Right Center Midfield
-47117,Benedetta Orsi,Italy Women's,0.3685069891861533,1,Right Center Back,Defender,Right Center Back
-10407,Eseosa Aigbogun,Switzerland Women's,0.3675080371779995,4,Right Back,Defender,Right Back
-389488,Ariadina Alves Borges,Brazil Women's,0.3656431043709506,3,Right Midfield,Midfielder,Right Midfield
-31630,Coumba Sow,Switzerland Women's,0.3558848095494988,4,Right Center Midfield,Midfielder,Right Center Midfield
-62908,Christy Onyenaturuchi Ucheibe,Nigeria Women's,0.355711132563089,4,Center Defensive Midfield,Midfielder,Defensive Midfielder
-10418,Eve Perisset,France Women's,0.3536099187752128,3,Right Back,Defender,Right Back
-401878,Bích Thùy Nguyễn Thị,Vietnam Women's,0.3456049637868384,3,Right Wing,Forward,Winger
-4643,Georgia Stanway,England Women's,0.3445698380842895,7,Right Defensive Midfield,Midfielder,Defensive Midfielder
-10140,Dolores Isabel Jacome Silva,Portugal Women's,0.343490705825947,2,Center Defensive Midfield,Midfielder,Defensive Midfielder
-401924,Rion Ishikawa,Japan Women's,0.3367659207689883,1,Right Center Back,Defender,Right Center Back
-401737,Hali Moriah Candido Long,Philippines Women's,0.3308125533426501,3,Right Center Back,Defender,Right Center Back
-402002,Betina Petit-Frère,Haiti Women's,0.3282002809413928,3,Right Center Back,Defender,Right Center Back
-30971,Sandie Toletti,France Women's,0.3266470553666931,4,Left Defensive Midfield,Midfielder,Defensive Midfielder
-46999,Chantal Hagel,Germany Women's,0.3227693649895372,3,Left Back,Defender,Left Back
-25470,Osinachi Marvis Ohale,Nigeria Women's,0.2946448790069542,4,Right Center Back,Defender,Right Center Back
-46847,Kethna Louis,Haiti Women's,0.2918069745646688,3,Left Back,Defender,Left Back
-25466,Vilde Bøe Risa,Norway Women's,0.2844180256123376,4,Right Center Midfield,Midfielder,Right Center Midfield
-4967,Raquel Rodriguez,Costa Rica Women's,0.2768975913427002,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-401876,Thị Hải Linh Trần,Vietnam Women's,0.2768701863920641,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-25482,Jiahui Lou,China PR Women's,0.2748119806720682,3,Right Center Forward,Forward,Forward
-403283,Carolina Arias Vidal,Colombia Women's,0.2666720272862766,5,Right Back,Defender,Right Back
-34486,Gloriana Jesus Villalobos Vega,Costa Rica Women's,0.2577219019143423,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-389494,Sinead Farrelly,Republic of Ireland Women's,0.247453539962648,3,Left Wing,Forward,Winger
-24461,Shuang Wang,China PR Women's,0.2438060868796895,3,Left Midfield,Midfielder,Left Midfield
-25516,Refiloe Jane,South Africa Women's,0.2414116605472259,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-34875,Andreia Alexandra Norton,Portugal Women's,0.2322459023329265,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-401635,Clare Hunt,Australia Women's,0.2296889383497645,7,Right Center Back,Defender,Right Center Back
-25450,Young-Ju Lee,Korea Republic Women's,0.227490661856844,1,Center Defensive Midfield,Midfielder,Defensive Midfielder
-25602,Mariana Valeria Larroquette,Argentina Women's,0.2214066503422575,3,Center Forward,Forward,Forward
-4961,Samantha May Kerr,Australia Women's,0.2168353709642384,4,Center Forward,Forward,Forward
-402465,Julieta Micaela Cruz Navarrete,Argentina Women's,0.2050760667994068,2,Right Back,Defender,Right Back
-31636,Clara Mateo,France Women's,0.2000197149928899,2,Right Midfield,Midfielder,Right Midfield
-15789,Rikke Læntver Sevecke,Denmark Women's,0.1998387130038302,4,Right Back,Defender,Right Back
-402001,Dougenie Tabita Kerbie Joseph,Haiti Women's,0.1944553147387635,3,Left Center Back,Defender,Left Center Back
-25663,Elizabeth Doon Hassett,New Zealand Women's,0.1907081450334324,3,Left Center Midfield,Midfielder,Left Center Midfield
-401932,Hinata Miyazawa,Japan Women's,0.1837762349784879,5,Right Attacking Midfield,Midfielder,Attacking Midfielder
-299860,Fuka Nagano,Japan Women's,0.1823326198217282,5,Left Defensive Midfield,Midfielder,Defensive Midfielder
-327719,Atlanta Reigan Primus,Jamaica Women's,0.1675642582107055,4,Center Attacking Midfield,Midfielder,Attacking Midfielder
-359388,Aldrith Ivana Quintero Humphries,Panama Women's,0.1672115209004095,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-15178,Alexandra Popp,Germany Women's,0.1667730272336801,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-25785,Jayde Yuk Fun Riviere,Canada Women's,0.1626893076093253,3,Right Back,Defender,Right Back
-10386,Caroline Graham Hansen,Norway Women's,0.1607045524167922,4,Right Midfield,Midfielder,Right Midfield
-4989,Rebekah Ashley Stott,New Zealand Women's,0.1567158492696037,3,Right Center Back,Defender,Right Center Back
-142768,Kyra Carusa,Republic of Ireland Women's,0.1559792956855895,3,Center Forward,Forward,Forward
-24706,Sophie Roman Haug,Norway Women's,0.1547256112473738,3,Center Forward,Forward,Forward
-62913,Francisca Ramos Ribeiro Nazareth Sousa,Portugal Women's,0.1541448317138833,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-25617,Miriam Anahí Mayorga,Argentina Women's,0.1540672413204015,2,Right Center Back,Defender,Right Center Back
-32230,Karen Holmgaard,Denmark Women's,0.1420958621965888,4,Left Defensive Midfield,Midfielder,Defensive Midfielder
-15421,Kenza Dali,France Women's,0.1406642274036071,4,Right Midfield,Midfielder,Right Midfield
-324160,Sofia Nicole Dador Harrison,Philippines Women's,0.1322096319022621,3,Left Back,Defender,Left Back
-10419,Géraldine Reuteler,Switzerland Women's,0.1218081050369138,4,Left Center Midfield,Midfielder,Left Center Midfield
-349028,Giulia Dragoni,Italy Women's,0.1184388880067738,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-5058,Rachel Daly,England Women's,0.1179428458008996,7,Left Wing Back,Defender,Left Wing Back
-131580,Xin Zhang,China PR Women's,0.1178024536556833,2,Right Midfield,Midfielder,Right Midfield
-46987,Jule Brand,Germany Women's,0.1170730256354301,3,Right Wing,Forward,Winger
-402012,Sherly Jeudy,Haiti Women's,0.1148387293492908,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-131618,Ireen Lungu,Zambia Women's,0.1053642685147622,2,Right Center Midfield,Midfielder,Right Center Midfield
-276443,Kathrine Møller Kühl,Denmark Women's,0.1020064551463175,4,Right Defensive Midfield,Midfielder,Defensive Midfielder
-10211,Barbara Bonansea,Italy Women's,0.0997590928870684,3,Left Wing,Forward,Winger
-87195,Janni Thomsen,Denmark Women's,0.0903780921030349,4,Right Wing,Forward,Winger
-49836,Olga  Carmona García,Spain Women's,0.0879978540239054,6,Left Back,Defender,Left Back
-294448,María Paula Elizondo,Costa Rica Women's,0.0828204661410632,2,Left Back,Defender,Left Back
-10516,Frida Maanum,Norway Women's,0.0822154249704773,4,Right Center Midfield,Midfielder,Right Center Midfield
-403287,Seo-Yeon Shim,Korea Republic Women's,0.0766452593789766,3,Left Center Back,Defender,Left Center Back
-25729,Klara Bühl,Germany Women's,0.0713922530803173,3,Left Wing,Forward,Winger
-46830,Batcheba Louis,Haiti Women's,0.0713831473800747,3,Right Wing,Forward,Winger
-10647,Stephanie van der Gragt,Netherlands Women's,0.0700810778331482,5,Center Back,Defender,Center Back
-25696,Madelen Fatimma Maria Janogy,Sweden Women's,0.0670532963269843,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-401884,Thị Vân Dương,Vietnam Women's,0.0532279282301714,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-15471,Selma Bacha,France Women's,0.0370413867659985,4,Left Midfield,Midfielder,Left Midfield
-62710,Johanna Rytting-Kaneryd,Sweden Women's,0.0292548362935139,7,Right Wing,Forward,Winger
-32694,Laia Codina Panedas,Spain Women's,0.023474921608116,4,Left Center Back,Defender,Left Center Back
-10259,Lina Magull,Germany Women's,0.0189791139332256,2,Center Attacking Midfield,Midfielder,Attacking Midfielder
-15648,Melanie Leupolz,Germany Women's,0.0165369227702813,1,Left Defensive Midfield,Midfielder,Defensive Midfielder
-10162,Carole da Silva Costa,Portugal Women's,0.0146752914696029,3,Center Back,Defender,Center Back
-401633,"Aine O""Gorman",Republic of Ireland Women's,0.0120940999179509,1,Right Wing Back,Defender,Right Wing Back
-25461,Uchenna Kanu,Nigeria Women's,0.0114112774575998,4,Right Wing,Forward,Winger
-10385,Ada Stolsmo Hegerberg,Norway Women's,0.0110867847131774,2,Left Back,Defender,Left Back
-402788,Emily Masiel Cedeño Coba,Panama Women's,0.0020618528902541,3,Right Midfield,Midfielder,Right Midfield
-49904,Lorena Bedoya Durango,Colombia Women's,-0.0028560846961969,5,Left Defensive Midfield,Midfielder,Defensive Midfielder
-26091,Jordyn Pamela Huitema,Canada Women's,-0.016494406470473,3,Left Wing,Forward,Winger
-402658,Hanane Aït El Haj,Morocco Women's,-0.0200480484745096,4,Right Back,Defender,Right Back
-401890,Hải Yến Phạm,Vietnam Women's,-0.0223537753911438,3,Center Forward,Forward,Forward
-46224,Lucia Di Guglielmo,Italy Women's,-0.0226481905706308,3,Right Back,Defender,Right Back
-10208,Elena Linari,Italy Women's,-0.0270241810217051,3,Right Center Back,Defender,Right Center Back
-402119,Bongeka Gamede,South Africa Women's,-0.0289697810338229,4,Left Center Back,Defender,Left Center Back
-10654,Jackie Groenen,Netherlands Women's,-0.0466904909721656,5,Center Defensive Midfield,Midfielder,Defensive Midfielder
-32105,Seraina Piubel,Switzerland Women's,-0.0566533235264939,4,Right Wing,Forward,Winger
-5044,Débora Cristiane de Oliveira,Brazil Women's,-0.0616601561651352,3,Left Center Forward,Forward,Forward
-131653,Honoka Hayashi,Japan Women's,-0.0638554443884557,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-10221,Elin Ingrid Johanna Rubensson,Sweden Women's,-0.064759794262829,7,Left Defensive Midfield,Midfielder,Defensive Midfielder
-31783,Estelle Cascarino,France Women's,-0.0656910776418363,3,Left Center Back,Defender,Left Center Back
-5020,Christine Margaret Sinclair,Canada Women's,-0.074697512857873,3,Center Forward,Forward,Forward
-15257,Saki Kumagai,Japan Women's,-0.0775446808583344,5,Center Back,Defender,Center Back
-401939,Susan Banda,Zambia Women's,-0.0775542014797966,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-402013,Roseline Éloissaint,Haiti Women's,-0.0781973349304725,3,Right Wing,Forward,Winger
-31641,Elodie Nakkach,Morocco Women's,-0.0786409713218225,4,Right Defensive Midfield,Midfielder,Defensive Midfielder
-32143,Diana Catarina Ribeiro Gomes,Portugal Women's,-0.0802172103899463,2,Right Center Back,Defender,Right Center Back
-25484,Yao Wei,China PR Women's,-0.080371359136007,3,Left Center Back,Defender,Left Center Back
-338631,Oluwatosin Blessing Demehin,Nigeria Women's,-0.0818068374089474,4,Left Center Back,Defender,Left Center Back
-25541,Valentina Giacinti,Italy Women's,-0.0869469800738179,3,Center Forward,Forward,Forward
-401925,Aoba Fujino,Japan Women's,-0.0907370537608296,5,Right Attacking Midfield,Midfielder,Attacking Midfielder
-402786,Yomira Tibisay Pinzón Ríos,Panama Women's,-0.0922510171689548,3,Left Center Back,Defender,Left Center Back
-25553,Trudi Sudan Carter,Jamaica Women's,-0.0946797287500331,2,Left Wing,Forward,Winger
-276579,Nadine Riesen,Switzerland Women's,-0.099053458972068,4,Left Back,Defender,Left Back
-131645,Julia Angela Grosso,Canada Women's,-0.1000338275405118,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-401931,Miyabi Moriya,Japan Women's,-0.1012442159256838,2,Right Wing Back,Defender,Right Wing Back
-221887,Wieke Hendrikje Maria Kaptein,Netherlands Women's,-0.1043213749173309,1,Left Center Midfield,Midfielder,Left Center Midfield
-25485,Shanshan Wang,China PR Women's,-0.1046313473181561,3,Right Center Back,Defender,Right Center Back
-135588,Lineth Cedeno,Panama Women's,-0.107916185975905,3,Center Forward,Forward,Forward
-107917,Trinity Rain Moyer-Rodman,United States Women's,-0.1087163900558278,4,Right Wing,Forward,Winger
-53406,Chelsea Ariane Surpris,Haiti Women's,-0.1338128533850544,2,Right Back,Defender,Right Back
-10374,Svenja Huth,Germany Women's,-0.1343334687520465,3,Right Back,Defender,Right Back
-25546,Cheyna Lee Matthews,Jamaica Women's,-0.1373066438131124,4,Right Midfield,Midfielder,Right Midfield
-18145,Ria Percival,New Zealand Women's,-0.1374201325044361,3,Right Center Midfield,Midfielder,Right Center Midfield
-32162,Arianna Caruso,Italy Women's,-0.1402200747575619,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-34873,Fátima Alexandra Figueira Pinto,Portugal Women's,-0.1422133841870402,1,Left Defensive Midfield,Midfielder,Defensive Midfielder
-10137,Kadidiatou Diani,France Women's,-0.1541216411105577,5,Center Forward,Forward,Forward
-401874,Thu Trần Thị,Vietnam Women's,-0.1543764389492372,3,Left Center Back,Defender,Left Center Back
-224831,Amalie Jørgensen Vangsgaard,Denmark Women's,-0.1562452860835834,4,Center Forward,Forward,Forward
-361135,Valeria del Campo Gutiérrez,Costa Rica Women's,-0.1593880487547405,2,Right Back,Defender,Right Back
-4949,Rosemary Kathleen Lavelle,United States Women's,-0.1676115643580037,3,Right Center Midfield,Midfielder,Right Center Midfield
-21014,Vyan Sampson,Jamaica Women's,-0.17272240721298,4,Left Defensive Midfield,Midfielder,Defensive Midfielder
-395287,Riley Tanner Rintala,Panama Women's,-0.1730804968121543,3,Left Midfield,Midfielder,Left Midfield
-401873,Thị Mỹ Anh Nguyễn,Vietnam Women's,-0.1742345339782131,2,Right Wing,Forward,Winger
-15564,Lucy Quinn,Republic of Ireland Women's,-0.1743785911153044,2,Right Wing,Forward,Winger
-85500,Mina Tanaka,Japan Women's,-0.176875202904123,5,Center Forward,Forward,Forward
-401741,Alicia Balicoco Barker,Philippines Women's,-0.178918561672282,3,Right Back,Defender,Right Back
-131625,Avell Chitundu,Zambia Women's,-0.1823006725672765,3,Right Midfield,Midfielder,Right Midfield
-45638,Sofia Cantore,Italy Women's,-0.1845790903341478,3,Right Wing,Forward,Winger
-276577,Telma Raquel Velosa Encarnação,Portugal Women's,-0.1900099363951712,3,Left Center Forward,Forward,Forward
-25635,Hina Sugita,Japan Women's,-0.1954459344398114,2,Left Wing Back,Defender,Left Wing Back
-402006,Dayana Pierre-Louis,Haiti Women's,-0.1981185125556739,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-31529,Léa Le Garrec,France Women's,-0.2028037200352094,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-31531,Lauren James,England Women's,-0.2089652365822176,5,Left Wing,Forward,Winger
-49889,Oihane Hernández Zurbano,Spain Women's,-0.2108209857254839,6,Right Back,Defender,Right Back
-8298,Megan Anna Rapinoe,United States Women's,-0.2188356897324511,3,Left Wing,Forward,Winger
-6818,Hayley Emma Raso,Australia Women's,-0.2214184874153177,7,Right Midfield,Midfielder,Right Midfield
-47521,Alessia Russo,England Women's,-0.2233892546357038,7,Right Center Forward,Forward,Forward
-276303,Thea Bjelde,Norway Women's,-0.2294698180054728,4,Right Back,Defender,Right Back
-31534,Ella Toone,England Women's,-0.2378118091098438,6,Left Center Midfield,Midfielder,Left Center Midfield
-25634,Aldana Cometti,Argentina Women's,-0.2393409816944951,3,Left Center Back,Defender,Left Center Back
-5094,Ifeoma Onumonu,Nigeria Women's,-0.2437499085857194,4,Center Forward,Forward,Forward
-403274,Ga-Ram Chun,Korea Republic Women's,-0.2559817022920668,1,Right Midfield,Midfielder,Right Midfield
-21048,Rosella Ayane,Morocco Women's,-0.2646395485888969,4,Left Center Forward,Forward,Forward
-46564,Salma Amani,Morocco Women's,-0.2655716555690845,3,Center Attacking Midfield,Midfielder,Attacking Midfielder
-10274,Nicoline Sørensen,Denmark Women's,-0.2675972997636339,3,Left Wing,Forward,Winger
-402789,Karla Paola Riley Serracín,Panama Women's,-0.2837219138452663,2,Center Forward,Forward,Forward
-5082,Marta Vieira da Silva Veiga,Brazil Women's,-0.2969243775770601,2,Right Center Forward,Forward,Forward
-135877,Sarah Kassi,Morocco Women's,-0.2985399814205362,3,Right Back,Defender,Right Back
-222682,Salma Paralluelo Ayingono,Spain Women's,-0.3086367887854969,7,Left Wing,Forward,Winger
-25747,Bambanani Nolufefe Mbane,South Africa Women's,-0.3105194788046754,4,Right Center Back,Defender,Right Center Back
-4940,Andi Sullivan,United States Women's,-0.3225732130143647,4,Center Defensive Midfield,Midfielder,Defensive Midfielder
-25660,Annalie Longo,New Zealand Women's,-0.3396393370195725,2,Left Center Midfield,Midfielder,Left Center Midfield
-15555,Lauren Hemp,England Women's,-0.3406438297635489,7,Left Center Forward,Forward,Forward
-131628,Hellen Nga''ndwe Chanda,Zambia Women's,-0.3451253680104659,1,Right Center Midfield,Midfielder,Right Center Midfield
-402794,Hilary Stacy Jaén Rodríguez,Panama Women's,-0.3462137001330427,3,Right Back,Defender,Right Back
-388473,Jorelyn Andrea Daniela Carabalí Martínez,Colombia Women's,-0.346690997365963,5,Right Center Back,Defender,Right Center Back
-401872,Thị Diễm My Lê,Vietnam Women's,-0.3467605517354166,3,Center Back,Defender,Center Back
-403291,Casey Yu-Jin Phair,Korea Republic Women's,-0.34943783038463,3,Center Forward,Forward,Forward
-401929,Hikaru Naomoto,Japan Women's,-0.3512779786066176,3,Left Attacking Midfield,Midfielder,Attacking Midfielder
-327442,Andreia de Jesus Jacinto,Portugal Women's,-0.3528621876287923,3,Left Center Midfield,Midfielder,Left Center Midfield
-131623,Agness Musase,Zambia Women's,-0.3634521300701092,3,Right Center Back,Defender,Right Center Back
-45144,Joana Filipa Gaspar Silva Marchão,Portugal Women's,-0.3709046501535425,2,Left Wing Back,Defender,Left Wing Back
-401888,Vạn Sự Ngân Thị,Vietnam Women's,-0.3734023396530626,2,Left Wing,Forward,Winger
-25558,Chantelle Swaby,Jamaica Women's,-0.3741827029091605,4,Left Center Back,Defender,Left Center Back
-218506,Savannah Marie DeMelo,United States Women's,-0.3837308939381497,2,Right Center Midfield,Midfielder,Right Center Midfield
-24881,Asisat Lamina Oshoala,Nigeria Women's,-0.3880576098590753,4,Center Forward,Forward,Forward
-49233,Vicki Becho,France Women's,-0.3888532717262896,5,Right Midfield,Midfielder,Right Midfield
-142944,Lúcia Catarina Sousa Alves,Portugal Women's,-0.3904370910751683,2,Right Wing Back,Defender,Right Wing Back
-24374,Ingrid Syrstad Engen,Norway Women's,-0.3940495649430949,4,Center Defensive Midfield,Midfielder,Defensive Midfielder
-66217,Indiah-Paige Janita Riley,New Zealand Women's,-0.3981223526944944,3,Right Wing,Forward,Winger
-131624,Lushomo Mweemba,Zambia Women's,-0.40079616011402,3,Left Center Back,Defender,Left Center Back
-191851,Julie Blakstad,Norway Women's,-0.4142021202868691,1,Left Midfield,Midfielder,Left Midfield
-402785,Rosario del Carmen Vargas Sarasqueta,Panama Women's,-0.4266533660535587,1,Left Center Back,Defender,Left Center Back
-10097,Frederikke Thøgersen,Denmark Women's,-0.4357478166773927,1,Right Center Back,Defender,Right Center Back
-5003,Emily Ann Sonnett,United States Women's,-0.4395621952967358,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-49972,Martina Lenzini,Italy Women's,-0.4432162131827955,1,Right Back,Defender,Right Back
-401930,Riko Ueki,Japan Women's,-0.4437374345967113,5,Center Forward,Forward,Forward
-87191,Rikke Marie Madsen,Denmark Women's,-0.449038944968034,4,Left Wing,Forward,Winger
-15621,Louise Quinn,Republic of Ireland Women's,-0.4697648179005312,3,Center Back,Defender,Center Back
-31540,Katie Zelem,England Women's,-0.4724292696322805,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-18158,Rebecca Leigh Spencer,Jamaica Women's,-0.4750361964772153,4,Goalkeeper,Goalkeeper,Goalkeeper
-5022,Francisca Ordega,Nigeria Women's,-0.4751780103007081,2,Right Wing,Forward,Winger
-402461,Daiana Micaela Falfán,Argentina Women's,-0.4797592190793767,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-5076,Emily Louise van Egmond,Australia Women's,-0.4822167717687384,7,Right Center Forward,Forward,Forward
-10229,Emma Stina Blackstenius,Sweden Women's,-0.4870280314605509,7,Center Forward,Forward,Forward
-401804,Cristín Yorleny Granados Gómez,Costa Rica Women's,-0.4997358701705187,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-19416,Laura Coombs,England Women's,-0.5080674507694329,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-24925,Olivia Chance,New Zealand Women's,-0.5133961821553308,2,Left Wing,Forward,Winger
-34509,Hwa-Yeon Son,Korea Republic Women's,-0.5166768799102742,2,Right Center Forward,Forward,Forward
-402003,Ruthny Mathurin,Haiti Women's,-0.5201830974842311,3,Left Back,Defender,Left Back
-45157,Laurina Fazer,France Women's,-0.5450260420611835,1,Center Forward,Forward,Forward
-62906,Cloé Zoé Eyja Lacasse,Canada Women's,-0.5488366456773816,3,Right Wing,Forward,Winger
-10400,Gaëlle Thalmann,Switzerland Women's,-0.5498892448291057,4,Goalkeeper,Goalkeeper,Goalkeeper
-25451,Hye-Ri Kim,Korea Republic Women's,-0.5510885504250739,3,Right Center Back,Defender,Right Center Back
-10392,Emilie Haavi,Norway Women's,-0.5513842376955753,4,Left Midfield,Midfielder,Left Midfield
-49888,Lady Patricia Andrade Rodríguez,Colombia Women's,-0.5619925961863278,1,Right Wing,Forward,Winger
-47541,Damaris Berta Egurrola Wienke,Netherlands Women's,-0.566358547624626,5,Center Defensive Midfield,Midfielder,Defensive Midfielder
-273315,Paulina Gramaglia,Argentina Women's,-0.5672193735510895,1,Center Forward,Forward,Forward
-403282,Daniela Montoya Quiróz,Colombia Women's,-0.5783359794337694,4,Left Defensive Midfield,Midfielder,Defensive Midfielder
-25535,Tiffany Cameron,Jamaica Women's,-0.5792847900929694,3,Right Back,Defender,Right Back
-34510,Seon-Joo Lim,Korea Republic Women's,-0.579870816002828,1,Center Back,Defender,Center Back
-25545,Allyson Swaby,Jamaica Women's,-0.5805095218497105,4,Right Center Back,Defender,Right Center Back
-401886,Tuyết Dung Nguyễn Thị,Vietnam Women's,-0.6002479338388843,2,Left Wing,Forward,Winger
-403286,Hyo-Joo Choo,Korea Republic Women's,-0.6004439021518015,3,Right Wing Back,Defender,Right Wing Back
-13881,Eva Sofia Jakobsson,Sweden Women's,-0.6116001496150596,4,Right Wing,Forward,Winger
-15180,Sophie Schmidt,Canada Women's,-0.6214949419070689,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-15570,Chloe Kelly,England Women's,-0.622031431275758,7,Right Wing,Forward,Winger
-4981,Kailen Mary Iacovoni Sheridan,Canada Women's,-0.626678521259444,3,Goalkeeper,Goalkeeper,Goalkeeper
-402787,Erika Janeth Hernández Díaz,Panama Women's,-0.6280062697097792,1,Right Midfield,Midfielder,Right Midfield
-50151,Alba María Redondo Ferrer,Spain Women's,-0.6305106014641625,7,Right Wing,Forward,Winger
-25745,Sibulele Cecilia Holweni,South Africa Women's,-0.6321266184932804,2,Left Back,Defender,Left Back
-10143,Alexia Putellas Segura,Spain Women's,-0.6347546629062667,7,Left Center Midfield,Midfielder,Left Center Midfield
-26570,Amalie Vevle Eikeland,Norway Women's,-0.6365330898064353,1,Right Wing,Forward,Winger
-49831,Ivana Andrés Sanz,Spain Women's,-0.6460303928637472,4,Left Center Back,Defender,Left Center Back
-403277,Daniela Alexandra Árias Rojas,Colombia Women's,-0.652401318758538,5,Left Center Back,Defender,Left Center Back
-402010,Jennyfer Limage,Haiti Women's,-0.6556416575975954,1,Right Center Back,Defender,Right Center Back
-401744,Tahnai Lauren Rivera Annis,Philippines Women's,-0.6595266427162231,1,Right Back,Defender,Right Back
-401801,Sheika Daleicha Scott Richardson,Costa Rica Women's,-0.66663037422836,3,Center Forward,Forward,Forward
-25834,Viviane Asseyi,France Women's,-0.6781668778660349,1,Left Midfield,Midfielder,Left Midfield
-46459,Katja Snoeijs,Netherlands Women's,-0.6791937432461919,4,Left Center Forward,Forward,Forward
-131617,Ochumba Oseke Lubandji,Zambia Women's,-0.6829918856403346,2,Right Center Midfield,Midfielder,Right Center Midfield
-25561,Beatriz Zaneratto João,Brazil Women's,-0.6861328958866043,3,Left Midfield,Midfielder,Left Midfield
-10230,Linda Brigitta Sembrant,Sweden Women's,-0.6864164344924147,1,Right Wing,Forward,Winger
-327715,Lily Agg,Republic of Ireland Women's,-0.6876989957841674,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-50150,Irene Guerrero Sanmartín,Spain Women's,-0.6911564682701883,3,Right Center Midfield,Midfielder,Right Center Midfield
-402798,Deysiré Mayte Salazar Biscaino,Panama Women's,-0.6954306023828646,3,Center Defensive Midfield,Midfielder,Defensive Midfielder
-47008,Sjoeke Nüsken,Germany Women's,-0.6982316588745572,1,Left Center Back,Defender,Left Center Back
-15249,Amel Majri,France Women's,-0.7149006963229466,2,Left Midfield,Midfielder,Left Midfield
-403289,Eun-Sun Park,Korea Republic Women's,-0.7168138843412013,3,Center Forward,Forward,Forward
-402123,Gabriela de Jesus Thomas Salgado,South Africa Women's,-0.7172121730936045,1,Right Wing,Forward,Winger
-25746,Kaylin Swart,South Africa Women's,-0.7382379627608741,4,Goalkeeper,Goalkeeper,Goalkeeper
-402176,Tiernny Arlene Wiltshire,Jamaica Women's,-0.7389060068441673,4,Right Back,Defender,Right Back
-24460,Signe Kallesøe Bruun,Denmark Women's,-0.7412588960674236,3,Center Forward,Forward,Forward
-403280,Diana Carolina Ospina García Pineda,Colombia Women's,-0.743463842415086,5,Right Defensive Midfield,Midfielder,Defensive Midfielder
-15631,Niamh Charles,England Women's,-0.7455681910203711,1,Right Wing Back,Defender,Right Wing Back
-402791,Rebeca Margoth Espinosa Justavino,Panama Women's,-0.7468872757282182,1,Left Center Back,Defender,Left Center Back
-32152,Francesca Durante,Italy Women's,-0.7539805603052852,3,Goalkeeper,Goalkeeper,Goalkeeper
-328259,Bruna Santos Nhaia,Brazil Women's,-0.7579806790492841,1,Right Back,Defender,Right Back
-25728,Karina Sævik,Norway Women's,-0.759296751827274,2,Left Midfield,Midfielder,Left Midfield
-401941,Siomala Mapepa,Zambia Women's,-0.7658639586503996,3,Right Midfield,Midfielder,Right Midfield
-46986,Lena Lattwein,Germany Women's,-0.7694785759929847,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-402792,Wendy Yisbel Natis Bárcenas,Panama Women's,-0.7727063216844193,3,Right Center Back,Defender,Right Center Back
-8297,Adriana Kristina Leon,Canada Women's,-0.7730110529266901,3,Right Wing,Forward,Winger
-25476,Lea Schüller,Germany Women's,-0.7835773205153709,3,Center Forward,Forward,Forward
-10224,Sara Caroline Seger,Sweden Women's,-0.7847383422591244,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-402662,Najat Badri,Morocco Women's,-0.7902421906817496,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-50146,Esther Gonzalez Rodríguez,Spain Women's,-0.7979627168130825,5,Center Forward,Forward,Forward
-401646,Sara Iren Lindbak Hørte,Norway Women's,-0.8138687428743653,1,Right Back,Defender,Right Back
-402781,Yenith Elizabett Bailey de la Cruz,Panama Women's,-0.8145445621127058,3,Goalkeeper,Goalkeeper,Goalkeeper
-45884,Giada Greggi,Italy Women's,-0.8179931860849349,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-402124,Mapula Nomvula Kgoale,South Africa Women's,-0.82728622210526,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-402797,Natalia Didelka Mills Urrunaga,Panama Women's,-0.8295564694279641,2,Center Forward,Forward,Forward
-25480,Haiyan Wu,China PR Women's,-0.8303490527126696,1,Right Back,Defender,Right Back
-89009,Yasmin Katie Mrabet,Morocco Women's,-0.8315572267240541,1,Left Center Back,Defender,Left Center Back
-25657,Paige Therese Satchell,New Zealand Women's,-0.8431501540471497,1,Left Center Forward,Forward,Forward
-10398,Valentina Cernoia,Italy Women's,-0.8514214634568392,1,Center Defensive Midfield,Midfielder,Defensive Midfielder
-402660,Nouhaila Benzina,Morocco Women's,-0.8522642596844271,3,Left Center Back,Defender,Left Center Back
-34499,Hanna Ulrika Bennison,Sweden Women's,-0.8548077743005017,4,Right Defensive Midfield,Midfielder,Defensive Midfielder
-135153,Nesryne El Chad,Morocco Women's,-0.854845417345197,4,Right Center Back,Defender,Right Center Back
-401738,Chandler Blue Isip McDaniel,Philippines Women's,-0.8550913476625654,2,Right Center Forward,Forward,Forward
-401928,Takako Seike,Japan Women's,-0.8569672725321542,3,Left Attacking Midfield,Midfielder,Attacking Midfielder
-387290,Yamila Tamara Rodríguez,Argentina Women's,-0.8659647700507532,3,Right Wing,Forward,Winger
-26585,Annamaria Serturini,Italy Women's,-0.870255523084863,1,Right Wing,Forward,Winger
-10203,Cristiana Girelli,Italy Women's,-0.876162577377273,2,Center Attacking Midfield,Midfielder,Attacking Midfielder
-402018,Mengyu Shen,China PR Women's,-0.8842831645870985,2,Right Center Forward,Forward,Forward
-25543,Geyse da Silva Ferreira,Brazil Women's,-0.8868813812178477,3,Right Center Forward,Forward,Forward
-25718,Chiamaka Cynthia Nnadozie,Nigeria Women's,-0.8925163520077684,4,Goalkeeper,Goalkeeper,Goalkeeper
-25601,Deanne Cynthia Rose,Canada Women's,-0.8973398083896235,2,Right Wing,Forward,Winger
-5074,Shelina Laura Zadorsky,Canada Women's,-0.8974905365445818,1,Right Center Back,Defender,Right Center Back
-401875,Thu Thương Lương Thị,Vietnam Women's,-0.8991285794512723,3,Right Center Back,Defender,Right Center Back
-402790,Carmen Milagros Montenegro Martínez,Panama Women's,-0.9049073856127956,3,Left Center Midfield,Midfielder,Left Center Midfield
-25514,Noko Matlou,South Africa Women's,-0.9119785130453736,2,Left Center Back,Defender,Left Center Back
-402179,Solai Washington,Jamaica Women's,-0.9134314877866282,3,Right Midfield,Midfielder,Right Midfield
-25768,Adriana María Sachs,Argentina Women's,-0.9141128544773696,1,Right Center Back,Defender,Right Center Back
-401735,Olivia Alexandra Davies Isip McDaniel,Philippines Women's,-0.9148493220742958,3,Goalkeeper,Goalkeeper,Goalkeeper
-131614,Mary Wilombe,Zambia Women's,-0.9244788399000984,2,Left Center Midfield,Midfielder,Left Center Midfield
-10390,Anja Sønstevold,Norway Women's,-0.9279450979272444,3,Right Back,Defender,Right Back
-15443,Merle Frohms,Germany Women's,-0.9284124964984192,3,Goalkeeper,Goalkeeper,Goalkeeper
-5105,Sofia Huerta,United States Women's,-0.9356319654620554,1,Right Back,Defender,Right Back
-25717,Mi-Ra Moon,Korea Republic Women's,-0.939178425692396,3,Center Forward,Forward,Forward
-135779,Gabriela Nunes da Silva,Brazil Women's,-0.9435947108446828,1,Right Center Forward,Forward,Forward
-32699,Josefine Hasbo,Denmark Women's,-0.9480856525200312,4,Right Defensive Midfield,Midfielder,Defensive Midfielder
-337744,Isibeal Atkinson,Republic of Ireland Women's,-0.9620206172169667,2,Left Wing Back,Defender,Left Wing Back
-276289,Anna Langås Jøsendal,Norway Women's,-0.963109965587878,1,Right Midfield,Midfielder,Right Midfield
-276304,Guro Bergsvand,Norway Women's,-0.9632641929074864,1,Left Center Back,Defender,Left Center Back
-31555,Courtney Brosnan,Republic of Ireland Women's,-0.9676027361372376,3,Goalkeeper,Goalkeeper,Goalkeeper
-401634,Cortnee Brooke Vine,Australia Women's,-0.9682880158501328,7,Right Wing,Forward,Winger
-18153,Alisha Lehmann,Switzerland Women's,-0.9698637517889228,2,Left Wing,Forward,Winger
-32339,Daphne van Domselaar,Netherlands Women's,-0.9795016716568952,5,Goalkeeper,Goalkeeper,Goalkeeper
-401742,Isabella Victoria Sola Flanigan,Philippines Women's,-0.985775204178131,3,Left Center Forward,Forward,Forward
-34485,Gabriela Guillén Alvarez,Costa Rica Women's,-0.9877837162796272,1,Left Midfield,Midfielder,Left Midfield
-50156,Claudia  Zornoza Sánchez,Spain Women's,-0.9936226289257212,2,Center Defensive Midfield,Midfielder,Defensive Midfielder
-402667,Sofia Bouftini,Morocco Women's,-0.9956184890205698,3,Right Midfield,Midfielder,Right Midfield
-47022,Laura Freigang,Germany Women's,-1.0018329595908328,1,Center Attacking Midfield,Midfielder,Attacking Midfielder
-325210,Ivonne Chacón,Colombia Women's,-1.0083020832286247,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-49913,Athenea del Castillo Belvide,Spain Women's,-1.0090556741342955,3,Left Wing,Forward,Winger
-401636,Abbie Larkin,Republic of Ireland Women's,-1.0101266043703514,3,Right Wing,Forward,Winger
-10417,Viola Calligaris,Switzerland Women's,-1.010606351885596,2,Right Back,Defender,Right Back
-24368,Andressa Alves da Silva,Brazil Women's,-1.0128410994169916,2,Right Center Forward,Forward,Forward
-32405,Rebecka Blomqvist,Sweden Women's,-1.013973253545309,5,Center Forward,Forward,Forward
-403292,Eun-Ha Jeoun,Korea Republic Women's,-1.0177901258052218,1,Center Forward,Forward,Forward
-355040,Gift Nyakno Monday,Nigeria Women's,-1.017825124608564,1,Right Wing,Forward,Winger
-8382,Clare Elizabeth Polkinghorne,Australia Women's,-1.0247326631724198,5,Left Center Back,Defender,Left Center Back
-15615,Pauline Peyraud Magnin,France Women's,-1.025085561698042,5,Goalkeeper,Goalkeeper,Goalkeeper
-41950,Evelyne Viens,Canada Women's,-1.026725196048367,3,Center Forward,Forward,Forward
-24883,Sydney Lohmann,Germany Women's,-1.0268724682413115,1,Left Wing,Forward,Winger
-276442,Lene Christensen,Denmark Women's,-1.0328162912188954,4,Goalkeeper,Goalkeeper,Goalkeeper
-126508,María Pérez,Spain Women's,-1.0394619027569292,1,Center Defensive Midfield,Midfielder,Defensive Midfielder
-402177,Kalyssa van Zanten,Jamaica Women's,-1.0404340121916442,1,Right Wing,Forward,Winger
-401802,Daniela Solera Vega,Costa Rica Women's,-1.0421216434191216,3,Goalkeeper,Goalkeeper,Goalkeeper
-26051,Dalila Belén Ippolito,Argentina Women's,-1.051340007976883,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-402125,Melinda Kgadiete,South Africa Women's,-1.051858337143489,2,Center Forward,Forward,Forward
-87187,Mille Gejl Jensen,Denmark Women's,-1.0557637859704834,2,Left Wing,Forward,Winger
-42207,Marissa Maeve Sheva,Republic of Ireland Women's,-1.0731172850092927,3,Right Wing Back,Defender,Right Wing Back
-10205,Olivia Alma Charlotta Schough,Sweden Women's,-1.0734198487754298,4,Left Wing,Forward,Winger
-10371,Elisa Bartoli,Italy Women's,-1.0746726546427323,1,Right Back,Defender,Right Back
-402459,Gabriela Patricia Chávez,Argentina Women's,-1.0805934264242547,1,Right Back,Defender,Right Back
-25445,Chae-Rim Kang,Korea Republic Women's,-1.0806014924063942,1,Right Defensive Midfield,Midfielder,Defensive Midfielder
-214481,Victoria Esson,New Zealand Women's,-1.0811466785180268,3,Goalkeeper,Goalkeeper,Goalkeeper
-10420,Meriame Terchoun,Switzerland Women's,-1.0849490736829597,4,Right Wing,Forward,Winger
-402656,Khadija Er-Rmichi,Morocco Women's,-1.0874497752790382,4,Goalkeeper,Goalkeeper,Goalkeeper
-401640,Grace Joanna Ella Jale,New Zealand Women's,-1.0902708494673896,2,Center Defensive Midfield,Midfielder,Defensive Midfielder
-32333,Lynn Wilms,Netherlands Women's,-1.0936083713351863,2,Right Center Back,Defender,Right Center Back
-402117,Tiisetso Makhubela,South Africa Women's,-1.0948791331827743,3,Right Defensive Midfield,Midfielder,Defensive Midfielder
-401800,Alexandra Pinell González,Costa Rica Women's,-1.1028561679392708,2,Left Center Midfield,Midfielder,Left Center Midfield
-389495,Alyssa Paola Thompson,United States Women's,-1.1081613051503485,2,Right Wing,Forward,Winger
-25488,Yasha Gu,China PR Women's,-1.1092671555641036,2,Left Midfield,Midfielder,Left Midfield
-402178,Kameron Necole Simmonds,Jamaica Women's,-1.1118956900512045,2,Center Forward,Forward,Forward
-401938,Eunice Sakala,Zambia Women's,-1.1244696191208716,1,Goalkeeper,Goalkeeper,Goalkeeper
-402463,Érica Noelia Lonigro,Argentina Women's,-1.131095068064872,2,Center Forward,Forward,Forward
-402011,Danielle Monique Étienne,Haiti Women's,-1.1317700685092655,1,Left Defensive Midfield,Midfielder,Defensive Midfielder
-45295,Catalina Thomas Coll Lluch,Spain Women's,-1.1343309375568054,4,Goalkeeper,Goalkeeper,Goalkeeper
-25627,Ayaka Yamashita,Japan Women's,-1.1371865074385152,5,Goalkeeper,Goalkeeper,Goalkeeper
-5038,Allysha Lyn Chapman,Canada Women's,-1.1415878548875245,3,Left Back,Defender,Left Back
-402175,Peyton McNamara,Jamaica Women's,-1.14696111681771,2,Right Center Midfield,Midfielder,Right Center Midfield
-46549,Nicole Anyomi,Germany Women's,-1.1479910180752364,3,Left Wing,Forward,Winger
-50152,Eva Maria Navarro,Spain Women's,-1.148862409033633,5,Right Wing,Forward,Winger
-5100,Alyssa Michele Naeher,United States Women's,-1.153457914702539,4,Goalkeeper,Goalkeeper,Goalkeeper
-25697,Lina Mona Andréa Hurtig,Sweden Women's,-1.1628957992900428,6,Left Wing,Forward,Winger
-387449,Maria Eduarda Ferreira Sampaio,Brazil Women's,-1.167136682333106,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-62951,Aniek Nouwen,Netherlands Women's,-1.174156575784732,2,Left Center Back,Defender,Left Center Back
-402132,Ana Ines Palma Capeta,Portugal Women's,-1.1826113521657842,2,Center Attacking Midfield,Midfielder,Attacking Midfielder
-401881,Thị Kiều Chương,Vietnam Women's,-1.1846022339717954,3,Right Center Back,Defender,Right Center Back
-31538,Mary Alexandra Earps,England Women's,-1.1879833514126763,7,Goalkeeper,Goalkeeper,Goalkeeper
-401806,Emilie Vanessa Valenciano Rojas,Costa Rica Women's,-1.1913735542065225,1,Center Attacking Midfield,Midfielder,Attacking Midfielder
-402121,Robyn Kimberly Moodaly,South Africa Women's,-1.1979326262774768,1,Right Defensive Midfield,Midfielder,Defensive Midfielder
-25659,Merel van Dongen,Netherlands Women's,-1.201121971573922,1,Left Wing Back,Defender,Left Wing Back
-401730,Meryll Serrano,Philippines Women's,-1.2049491669868797,2,Right Midfield,Midfielder,Right Midfield
-316798,Noxolo Cesane,South Africa Women's,-1.2077297479721842,1,Right Wing,Forward,Winger
-403284,Jung-Mi Kim,Korea Republic Women's,-1.2088291137298084,2,Goalkeeper,Goalkeeper,Goalkeeper
-34872,Inês Teixeira Pereira,Portugal Women's,-1.2107931294042396,2,Goalkeeper,Goalkeeper,Goalkeeper
-403281,Marcela Restrepo Valencia,Colombia Women's,-1.218121008477546,3,Right Wing,Forward,Winger
-10109,Sanne Troelsgaard-Nielsen,Denmark Women's,-1.2209365389745337,3,Left Defensive Midfield,Midfielder,Defensive Midfielder
-221888,Kerstin Yasmijn Casparij,Netherlands Women's,-1.2212993733629371,5,Right Wing Back,Defender,Right Wing Back
-62667,Jennifer Miley Falk,Sweden Women's,-1.2281253086887631,1,Goalkeeper,Goalkeeper,Goalkeeper
-135257,Amber Barrett,Republic of Ireland Women's,-1.2444822783438487,1,Center Forward,Forward,Forward
-132147,Vast Phiri,Zambia Women's,-1.2498529735218993,2,Left Center Back,Defender,Left Center Back
-131613,Hellen Mubanga,Zambia Women's,-1.2499272420206082,1,Right Center Midfield,Midfielder,Right Center Midfield
-401728,Jennifer Onyi Echegini,Nigeria Women's,-1.2623693917418204,2,Left Center Midfield,Midfielder,Left Center Midfield
-402008,Kerly Théus,Haiti Women's,-1.263051005176162,3,Goalkeeper,Goalkeeper,Goalkeeper
-389771,Young-Geul Yoon,Korea Republic Women's,-1.267821108527002,1,Goalkeeper,Goalkeeper,Goalkeeper
-63783,Caitlin Dijkstra,Netherlands Women's,-1.2694633957709267,2,Right Defensive Midfield,Midfielder,Defensive Midfielder
-36800,Aurora Watten Mikalsen,Norway Women's,-1.2723303915779556,4,Goalkeeper,Goalkeeper,Goalkeeper
-42787,Mackenzie Arnold,Australia Women's,-1.2732690090116114,7,Goalkeeper,Goalkeeper,Goalkeeper
-10160,Carolina Mendes,Portugal Women's,-1.2882597548296952,1,Right Center Forward,Forward,Forward
-10145,Patricia Isabel Sousa Barros Morais,Portugal Women's,-1.2900566098897368,1,Goalkeeper,Goalkeeper,Goalkeeper
-131695,Yu Zhu,China PR Women's,-1.293871515074949,2,Goalkeeper,Goalkeeper,Goalkeeper
-46558,Jill Bayings,Netherlands Women's,-1.3046007954502932,1,Left Attacking Midfield,Midfielder,Attacking Midfielder
-5071,Monica Hickmann Alves,Brazil Women's,-1.305273479361041,1,Right Back,Defender,Right Back
-46344,Catalina Pérez Jaramillo,Colombia Women's,-1.3072347608611388,5,Goalkeeper,Goalkeeper,Goalkeeper
-43045,Sandrine Mauron,Switzerland Women's,-1.3099587596036684,4,Left Center Midfield,Midfielder,Left Center Midfield
-49830,María Isabel Rodríguez Rivero,Spain Women's,-1.318236324587699,3,Goalkeeper,Goalkeeper,Goalkeeper
-32227,Emma Snerle,Denmark Women's,-1.3299786271397065,1,Right Wing,Forward,Winger
-131590,Claudia Bunge,New Zealand Women's,-1.3301389201602658,2,Right Center Back,Defender,Right Center Back
-401740,Carleigh Bennett Frilles,Philippines Women's,-1.3304485781829576,1,Right Center Forward,Forward,Forward
-5021,Kelley Maureen O'Hara,United States Women's,-1.3375642984845215,3,Left Back,Defender,Left Back
-15550,Bethany England,England Women's,-1.339129132187583,5,Center Forward,Forward,Forward
-10406,Fabienne Humm,Switzerland Women's,-1.3553134598323926,1,Left Wing,Forward,Winger
-401999,Maudeline Moryl,Haiti Women's,-1.3586854912157107,1,Right Defensive Midfield,Midfielder,Defensive Midfielder
-389365,Maika Hamano,Japan Women's,-1.3701641560044076,1,Right Center Back,Defender,Right Center Back
-5043,Nichelle Patrice Prince,Canada Women's,-1.3758529502251642,1,Center Attacking Midfield,Midfielder,Attacking Midfielder
-401933,Remina Chiba,Japan Women's,-1.3792837442714974,1,Left Wing,Forward,Winger
-401739,Dominique Jaylin Abrena Randle,Philippines Women's,-1.3819518738710062,2,Right Back,Defender,Right Back
-45287,Alexandra Chidiac,Australia Women's,-1.3866975762389944,3,Right Midfield,Midfielder,Right Midfield
-62713,Zecira Musovic,Sweden Women's,-1.387268977246481,6,Goalkeeper,Goalkeeper,Goalkeeper
-135146,Ijeoma Esther Okoronkwo,Nigeria Women's,-1.3938900684127238,2,Right Wing,Forward,Winger
-131629,Catherine Musonda,Zambia Women's,-1.3971982828982985,2,Goalkeeper,Goalkeeper,Goalkeeper
-49873,Lara Marti,Switzerland Women's,-1.4018953163188386,1,Right Back,Defender,Right Back
-403270,Natalia Giraldo Alzáte,Colombia Women's,-1.411611188092719,1,Goalkeeper,Goalkeeper,Goalkeeper
-401880,Kim Thanh Trần Thị,Vietnam Women's,-1.42039601255032,3,Goalkeeper,Goalkeeper,Goalkeeper
-401725,Olivia Smith,Canada Women's,-1.432458201399106,1,Right Defensive Midfield,Midfielder,Defensive Midfielder
-131581,Letícia Izidoro Lima da Silva,Brazil Women's,-1.433158830061405,3,Goalkeeper,Goalkeeper,Goalkeeper
-401746,Kristen Ryley Sy Bugay,Philippines Women's,-1.4334009899362172,2,Left Defensive Midfield,Midfielder,Defensive Midfielder
-30961,Naomie Feller,France Women's,-1.4336850540867228,1,Center Attacking Midfield,Midfielder,Attacking Midfielder
-4945,Havana Solaun,Jamaica Women's,-1.4632444178708004,1,Right Midfield,Midfielder,Right Midfield
-47095,Diane Caldwell,Republic of Ireland Women's,-1.4649001924584568,1,Right Center Back,Defender,Right Center Back
-25465,Onome Ebi,Nigeria Women's,-1.490958749979957,1,Right Center Midfield,Midfielder,Right Center Midfield
-402022,Jiaxing Dou,China PR Women's,-1.4956831943503657,1,Left Center Back,Defender,Left Center Back
-402014,Florsie Love Darlina Joseph,Haiti Women's,-1.4995986980956688,1,Right Wing,Forward,Winger
-401647,Marit Bratberg Lund,Norway Women's,-1.5061432876400134,1,Left Back,Defender,Left Back
-25611,Vanina Noemí Correa,Argentina Women's,-1.5079245851670258,3,Goalkeeper,Goalkeeper,Goalkeeper
-32216,Aïssatou Tounkara,France Women's,-1.5131387656927024,1,Left Back,Defender,Left Back
-401722,Glory Ogbonna,Nigeria Women's,-1.5349919208808855,1,Left Back,Defender,Left Back
-135616,Jiali Tang,China PR Women's,-1.5552172001906397,1,Center Forward,Forward,Forward
-131587,Gabrielle Rose Rennie,New Zealand Women's,-1.5643911943446316,2,Center Forward,Forward,Forward
-402021,Chen Gao,China PR Women's,-1.5723607644416542,1,Right Back,Defender,Right Back
-10157,Silvia Rebelo,Portugal Women's,-1.582714307394644,1,Left Center Back,Defender,Left Center Back
-402015,Shwendesky Macélus Joseph,Haiti Women's,-1.6012350372773,1,Left Center Forward,Forward,Forward
-401870,Thị Hằng Khổng,Vietnam Women's,-1.6143532901121709,1,Goalkeeper,Goalkeeper,Goalkeeper
-62907,Ana Vitória Angélica Kliemaschewsk de Araújo,Brazil Women's,-1.6343327320913263,1,Right Midfield,Midfielder,Right Midfield
-38248,Luna Nørgaard Gewitz,Denmark Women's,-1.661111876469391,1,Center Attacking Midfield,Midfielder,Attacking Midfielder
-402016,Huan Xu,China PR Women's,-1.7307394293844418,1,Goalkeeper,Goalkeeper,Goalkeeper
-132033,Courtney Jade Nevin,Australia Women's,-1.7908589150796093,1,Right Back,Defender,Right Back
-25472,Ugochi Desire Oparanozie,Nigeria Women's,-1.797779012729021,1,Right Center Midfield,Midfielder,Right Center Midfield
-25549,Tameka Yallop,Australia Women's,-2.6300777801925883,1,Left Defensive Midfield,Midfielder,Defensive Midfielder
+player_id,player,team,average_z_score,matches_played,primary_position,simplified_position,detailed_position,position_frequency,matches_with_position_data,num_positions_played,all_positions,is_versatile
+25554.0,Khadija Monifa Shaw,Jamaica Women's,2.9657468154049305,3,Center Forward,Forward,Forward,8/8,3,1,Center Forward,False
+131619.0,Barbra Banda,Zambia Women's,2.8142398365918453,3,Center Forward,Forward,Forward,4/4,3,1,Center Forward,False
+401879.0,Thị Thảo Thái,Vietnam Women's,2.6014734927793897,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/3,2,2,"Left Defensive Midfield, Right Defensive Midfield",True
+225115.0,Katrina Jacqueline Rivera Guillou,Philippines Women's,2.508920844145772,3,Left Midfield,Midfielder,Central Midfielder,3/6,3,3,"Left Center Forward, Left Midfield, Right Center Forward",True
+361339.0,Marta Alexandra Cox Villarreal,Panama Women's,2.234781226931928,3,Center Forward,Forward,Forward,2/6,3,4,"Center Forward, Right Center Midfield, Center Attacking Midfield, Left Wing",True
+10108.0,Pernille Mosegaard Harder,Denmark Women's,2.2229147760137926,4,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/6,4,3,"Center Attacking Midfield, Center Forward, Left Center Midfield",True
+401885.0,Thị Thanh Nhã Nguyễn,Vietnam Women's,2.1948745556508147,2,Left Wing,Forward,Winger,3/5,2,3,"Left Wing, Center Forward, Right Wing",True
+5052.0,Thembi Kgatlana,South Africa Women's,2.115524880795764,4,Center Forward,Forward,Forward,4/5,4,2,"Center Forward, Left Center Forward",True
+5085.0,Alexandra Morgan Carrasco,United States Women's,1.9627154373041509,4,Center Forward,Forward,Forward,5/5,4,1,Center Forward,False
+30970.0,Nérilia Mondesir,Haiti Women's,1.9536500055642056,3,Left Wing,Forward,Winger,3/6,3,3,"Center Forward, Left Wing, Left Center Midfield",True
+26156.0,Rasheedat Busayo Ajibade,Nigeria Women's,1.9271185793907757,3,Right Wing,Forward,Winger,3/7,3,3,"Right Wing, Left Wing, Right Wing Back",True
+32854.0,Racheal Kundananji,Zambia Women's,1.8472777426781115,3,Left Midfield,Midfielder,Central Midfielder,3/6,3,3,"Left Midfield, Right Midfield, Left Wing",True
+402666.0,Fatima Zahra Tagnaout,Morocco Women's,1.8178054245018511,4,Left Midfield,Midfielder,Central Midfielder,4/4,4,1,Left Midfield,False
+4944.0,Estefanía Romina Banini Ruiz,Argentina Women's,1.7857230674253424,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/6,3,4,"Center Attacking Midfield, Left Wing, Left Center Midfield, Left Midfield",True
+142735.0,Melchie Daëlle Dumornay,Haiti Women's,1.756064114293394,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,5/7,3,3,"Center Attacking Midfield, Right Wing, Right Defensive Midfield",True
+4647.0,So-Yun Ji,Korea Republic Women's,1.6744539732586183,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/10,3,5,"Left Center Midfield, Left Defensive Midfield, Center Defensive Midfield, Right Defensive Midfield, Center Attacking Midfield",True
+402025.0,Linyan Zhang,China PR Women's,1.633819312646817,3,Left Midfield,Midfielder,Central Midfielder,3/7,3,5,"Left Wing, Left Midfield, Center Forward, Right Midfield, Left Center Forward",True
+401723.0,Deborah Ajibola Abiodun,Nigeria Women's,1.56739897323535,1,Left Center Midfield,Midfielder,Central Midfielder,1/1,1,1,Left Center Midfield,False
+386339.0,Linda Lizeth Caicedo Alegría,Colombia Women's,1.4923444489044646,5,Left Wing,Forward,Winger,7/11,5,3,"Right Wing, Left Wing, Left Wing Back",True
+53188.0,Mayra Tatiana Ramírez Ramírez,Colombia Women's,1.480588011572141,5,Center Forward,Forward,Forward,7/13,5,5,"Center Forward, Right Wing, Right Wing Back, Left Midfield, Left Wing",True
+142768.0,Kyra Carusa,Republic of Ireland Women's,1.4540835613490437,3,Center Forward,Forward,Forward,3/3,3,1,Center Forward,False
+402663.0,Ghizlane Chebbak,Morocco Women's,1.434104163535749,4,Left Defensive Midfield,Midfielder,Defensive Midfielder,4/5,4,2,"Left Defensive Midfield, Center Attacking Midfield",True
+25658.0,Hannah Wilkinson,New Zealand Women's,1.429310124870845,3,Center Forward,Forward,Forward,2/3,3,2,"Center Forward, Left Center Forward",True
+10408.0,Ana-Maria Crnogorčević,Switzerland Women's,1.3987636463847115,4,Center Forward,Forward,Forward,3/6,4,4,"Left Wing, Right Center Midfield, Center Forward, Left Center Forward",True
+392266.0,Jacqueline Anne Hand,New Zealand Women's,1.3841728446879398,3,Right Wing,Forward,Winger,4/8,3,4,"Left Wing, Right Wing, Center Forward, Right Center Forward",True
+10649.0,Lieke Martens,Netherlands Women's,1.3668408252661546,5,Left Center Forward,Forward,Forward,6/13,5,7,"Left Center Forward, Center Attacking Midfield, Left Wing Back, Left Midfield, Right Center Forward, Left Attacking Midfield, Left Center Midfield",True
+32215.0,Leicy Maria Santos Herrera,Colombia Women's,1.341940701442702,5,Center Attacking Midfield,Midfielder,Attacking Midfielder,6/14,5,6,"Left Wing, Center Attacking Midfield, Left Attacking Midfield, Right Wing, Right Midfield, Center Forward",True
+10656.0,Lineth Beerensteyn,Netherlands Women's,1.3293456210792287,3,Right Center Forward,Forward,Forward,4/9,3,3,"Right Center Forward, Left Wing, Center Forward",True
+401889.0,Như Huỳnh,Vietnam Women's,1.317413972195627,3,Center Forward,Forward,Forward,4/5,3,2,"Center Forward, Left Wing",True
+402126.0,Hildah Tholakele Magaia,South Africa Women's,1.3098545790798384,4,Right Wing,Forward,Winger,5/10,4,3,"Left Wing, Right Wing, Left Midfield",True
+5084.0,Denise O'Sullivan,Republic of Ireland Women's,1.2810825130732495,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/4,3,2,"Right Wing, Right Defensive Midfield",True
+4999.0,Lindsey Michelle Horan,United States Women's,1.244212361564871,4,Left Center Midfield,Midfielder,Central Midfielder,4/5,4,2,"Left Center Midfield, Center Attacking Midfield",True
+34478.0,María Paula Salas,Costa Rica Women's,1.2417839412913343,3,Center Forward,Forward,Forward,3/5,3,2,"Center Attacking Midfield, Center Forward",True
+25662.0,Catherine Joan Bott,New Zealand Women's,1.2398955674502945,3,Right Back,Defender,Fullback/Wing-Back,3/4,3,2,"Right Back, Right Wing Back",True
+225182.0,Anna Sandberg,Sweden Women's,1.2302361889402929,1,Left Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Back,False
+30854.0,Vanessa Brigitte Gilles,Canada Women's,1.2285828584012437,3,Left Center Back,Defender,Fullback/Wing-Back,3/5,3,3,"Left Center Back, Left Center Forward, Right Center Back",True
+53993.0,Roselord Borgella,Haiti Women's,1.2118259710881902,3,Center Forward,Forward,Forward,2/5,3,4,"Left Defensive Midfield, Center Attacking Midfield, Center Forward, Right Center Forward",True
+32054.0,Jéssica da Silva,Portugal Women's,1.2112750697808188,3,Right Center Forward,Forward,Forward,4/5,3,2,"Right Center Forward, Left Center Forward",True
+31629.0,Anissa Lahmari,Morocco Women's,1.204904934249564,3,Right Center Forward,Forward,Forward,1/3,3,3,"Right Center Forward, Center Attacking Midfield, Left Center Forward",True
+4638.0,Drew Spence,Jamaica Women's,1.2014361700065763,4,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/5,4,4,"Right Defensive Midfield, Left Defensive Midfield, Left Center Midfield, Right Center Midfield",True
+41010.0,Kayla McCoy,Jamaica Women's,1.2011653230255843,1,Center Forward,Forward,Forward,1/1,1,1,Center Forward,False
+4961.0,Samantha May Kerr,Australia Women's,1.2007266312672638,4,Center Forward,Forward,Forward,3/8,4,4,"Center Forward, Right Center Forward, Left Center Forward, Right Midfield",True
+10151.0,Jennifer Hermoso Fuentes,Spain Women's,1.1970772949558257,7,Left Center Midfield,Midfielder,Central Midfielder,6/15,7,3,"Left Center Midfield, Center Forward, Center Attacking Midfield",True
+403278.0,María Catalina Usme Pineda,Colombia Women's,1.1788578535986374,5,Center Attacking Midfield,Midfielder,Attacking Midfielder,6/18,5,4,"Center Attacking Midfield, Left Defensive Midfield, Center Forward, Right Wing",True
+4659.0,Ramona Bachmann,Switzerland Women's,1.174316770488136,4,Left Wing,Forward,Winger,2/7,4,6,"Center Forward, Left Center Midfield, Left Attacking Midfield, Left Wing, Right Wing, Center Attacking Midfield",True
+11338.0,Caitlin Jade Foord,Australia Women's,1.1649537277622504,7,Left Midfield,Midfielder,Central Midfielder,5/11,7,5,"Left Center Forward, Left Midfield, Left Wing, Center Forward, Right Attacking Midfield",True
+401733.0,Sarina Isabel Calpo Bolden,Philippines Women's,1.1595192390949067,3,Right Center Forward,Forward,Forward,3/4,3,2,"Right Center Forward, Left Center Forward",True
+25612.0,Jessie Alexandra Fleming,Canada Women's,1.1556262290791697,2,Center Attacking Midfield,Midfielder,Attacking Midfielder,2/3,2,2,"Center Attacking Midfield, Left Defensive Midfield",True
+34483.0,Priscila Chinchilla,Costa Rica Women's,1.135125285157226,3,Center Forward,Forward,Forward,2/6,3,4,"Center Forward, Left Midfield, Left Wing, Right Wing",True
+105708.0,Kerolin Nicoli Israel Ferraz,Brazil Women's,1.130492363819349,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/5,3,3,"Right Defensive Midfield, Left Center Midfield, Left Defensive Midfield",True
+10121.0,Eugénie Le Sommer,France Women's,1.1269360891533458,4,Left Center Forward,Forward,Forward,4/6,4,3,"Left Center Forward, Right Center Forward, Center Attacking Midfield",True
+35693.0,Mary Boio Fowler,Australia Women's,1.1200578167495088,6,Left Center Forward,Forward,Forward,3/10,6,6,"Center Attacking Midfield, Left Center Midfield, Left Center Forward, Right Center Forward, Left Defensive Midfield, Center Forward",True
+10385.0,Ada Stolsmo Hegerberg,Norway Women's,1.116709928505477,2,Left Back,Defender,Fullback/Wing-Back,1/3,2,3,"Left Back, Left Center Forward, Center Forward",True
+10159.0,Diana Micaela Abreu de Sousa e Silva,Portugal Women's,1.114296091029003,2,Left Center Forward,Forward,Forward,4/5,2,2,"Left Center Forward, Center Attacking Midfield",True
+49172.0,Sophia Olivia Smith,United States Women's,1.108677688177604,4,Left Wing,Forward,Winger,4/6,4,2,"Left Wing, Center Forward",True
+25482.0,Jiahui Lou,China PR Women's,1.1053302375192084,3,Right Center Forward,Forward,Forward,2/5,3,3,"Center Forward, Right Center Forward, Left Center Forward",True
+24706.0,Sophie Roman Haug,Norway Women's,1.088313158309654,3,Center Forward,Forward,Forward,3/4,3,2,"Center Forward, Right Center Forward",True
+10514.0,Guro Reiten,Norway Women's,1.0863429747418367,4,Left Center Midfield,Midfielder,Central Midfielder,4/6,4,3,"Left Center Midfield, Left Back, Left Midfield",True
+131631.0,Evarine Susan Katongo,Zambia Women's,1.0847648066862436,3,Left Center Midfield,Midfielder,Central Midfielder,2/4,3,3,"Left Center Midfield, Right Defensive Midfield, Center Attacking Midfield",True
+32355.0,Felicitas Rauch,Germany Women's,1.0810883020661546,1,Left Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Back,False
+10167.0,Tatiana Vanessa Ferreira Pinto,Portugal Women's,1.0530340886535403,3,Right Center Midfield,Midfielder,Central Midfielder,2/6,3,5,"Left Defensive Midfield, Right Defensive Midfield, Right Wing Back, Right Center Midfield, Left Center Midfield",True
+5053.0,Linda Maserame Motlhalo,South Africa Women's,1.035104841713372,4,Center Attacking Midfield,Midfielder,Attacking Midfielder,2/6,4,5,"Left Defensive Midfield, Right Defensive Midfield, Center Attacking Midfield, Right Center Forward, Right Center Midfield",True
+30958.0,Melissa Herrera Monge,Costa Rica Women's,1.0295978801005872,3,Right Midfield,Midfielder,Central Midfielder,2/5,3,3,"Right Midfield, Right Wing, Left Wing",True
+10137.0,Kadidiatou Diani,France Women's,1.0278089904436631,5,Center Forward,Forward,Forward,3/6,5,3,"Right Center Forward, Center Forward, Left Center Forward",True
+25538.0,Jody Brown,Jamaica Women's,1.0239269064225316,4,Left Midfield,Midfielder,Central Midfielder,4/7,4,4,"Left Midfield, Right Midfield, Center Attacking Midfield, Left Wing",True
+15620.0,Katie McCabe,Republic of Ireland Women's,1.0218408303394213,3,Left Wing Back,Defender,Fullback/Wing-Back,4/7,3,4,"Left Wing Back, Left Center Forward, Left Wing, Left Midfield",True
+402655.0,Sakina Ouzraoui Diki,Morocco Women's,1.0060040828344,4,Right Midfield,Midfielder,Central Midfielder,4/5,4,2,"Right Midfield, Left Midfield",True
+25511.0,Jermaine Seoposenwe,South Africa Women's,1.0015574916450642,4,Right Wing,Forward,Winger,4/12,4,4,"Center Attacking Midfield, Right Wing, Left Wing, Right Midfield",True
+25453.0,Geum-Min Lee,Korea Republic Women's,0.9747857990143284,2,Right Center Midfield,Midfielder,Central Midfielder,2/5,2,4,"Right Center Midfield, Center Forward, Center Attacking Midfield, Right Defensive Midfield",True
+25632.0,Yui Hasegawa,Japan Women's,0.9744993350420256,5,Right Defensive Midfield,Midfielder,Defensive Midfielder,4/8,5,2,"Right Defensive Midfield, Left Defensive Midfield",True
+135571.0,Chiara Beccari,Italy Women's,0.9652843189045536,3,Center Forward,Forward,Forward,2/8,3,5,"Center Forward, Right Center Forward, Left Wing, Right Wing, Right Midfield",True
+46830.0,Batcheba Louis,Haiti Women's,0.9405710665397928,3,Right Wing,Forward,Winger,2/3,3,2,"Left Wing, Right Wing",True
+62666.0,Ingrid Filippa Angeldal,Sweden Women's,0.9311679360329383,6,Right Defensive Midfield,Midfielder,Defensive Midfielder,6/7,6,2,"Right Defensive Midfield, Left Defensive Midfield",True
+50153.0,Rocío Gálvez Luna,Spain Women's,0.9290656985361152,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+402019.0,Chengshu Wu,China PR Women's,0.925949091023756,3,Right Midfield,Midfielder,Central Midfielder,2/5,3,4,"Right Wing, Right Midfield, Left Center Forward, Right Center Forward",True
+370851.0,Sophie Wais Braun,Argentina Women's,0.9222913612377388,3,Right Back,Defender,Fullback/Wing-Back,2/5,3,3,"Right Back, Center Defensive Midfield, Right Defensive Midfield",True
+402793.0,Katherine Lineth Castillo Macías,Panama Women's,0.9155861912055532,2,Right Back,Defender,Fullback/Wing-Back,2/3,2,2,"Right Wing Back, Right Back",True
+25602.0,Mariana Valeria Larroquette,Argentina Women's,0.8540909402281769,3,Center Forward,Forward,Forward,5/6,3,2,"Right Wing, Center Forward",True
+26091.0,Jordyn Pamela Huitema,Canada Women's,0.8516090692302992,3,Left Wing,Forward,Winger,4/6,3,3,"Center Forward, Left Wing, Center Attacking Midfield",True
+131814.0,Shiori Miyake,Japan Women's,0.8470330283115599,1,Right Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Center Back,False
+10215.0,Fridolina Rolfö,Sweden Women's,0.8405015710630305,6,Left Wing,Forward,Winger,5/9,6,4,"Left Wing, Center Attacking Midfield, Right Center Midfield, Left Attacking Midfield",True
+26093.0,Gun Nathalie Björn,Sweden Women's,0.838877710291991,6,Right Back,Defender,Fullback/Wing-Back,6/9,6,4,"Right Back, Right Wing Back, Left Defensive Midfield, Right Center Back",True
+22798.0,So-Hyun Cho,Korea Republic Women's,0.8361079803333465,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/8,3,5,"Right Center Midfield, Right Defensive Midfield, Left Center Midfield, Center Defensive Midfield, Right Center Back",True
+10161.0,María Francesca Caldentey Oliver,Spain Women's,0.8342493546467261,6,Left Wing,Forward,Winger,7/9,6,2,"Left Wing, Right Wing",True
+25447.0,Sel-Gi Jang,Korea Republic Women's,0.8322985325273234,3,Left Back,Defender,Fullback/Wing-Back,3/7,3,3,"Left Back, Left Wing Back, Left Center Back",True
+402467.0,Romina Stefania Núñez,Argentina Women's,0.8256099483612839,3,Right Center Midfield,Midfielder,Central Midfielder,1/4,3,4,"Right Center Midfield, Right Defensive Midfield, Right Wing, Right Midfield",True
+10650.0,Jill Roord,Netherlands Women's,0.8122030572428164,5,Right Center Midfield,Midfielder,Central Midfielder,5/9,5,4,"Right Center Midfield, Center Attacking Midfield, Left Center Forward, Right Attacking Midfield",True
+10220.0,Kosovare Asllani,Sweden Women's,0.7982033758194359,6,Center Attacking Midfield,Midfielder,Attacking Midfielder,6/7,6,2,"Center Attacking Midfield, Right Attacking Midfield",True
+5044.0,Débora Cristiane de Oliveira,Brazil Women's,0.7960688827527599,3,Left Center Forward,Forward,Forward,3/4,3,2,"Left Center Forward, Left Wing Back",True
+10252.0,Alex Greenwood,England Women's,0.7960019443510223,7,Left Center Back,Defender,Fullback/Wing-Back,7/8,7,2,"Left Back, Left Center Back",True
+401748.0,Sara Kristine Bantan Eggesvik,Philippines Women's,0.7899419475320003,3,Left Midfield,Midfielder,Central Midfielder,3/6,3,3,"Left Midfield, Left Center Midfield, Right Defensive Midfield",True
+50020.0,Antionette Oyedupe Payne,Nigeria Women's,0.7840117099994139,4,Right Center Midfield,Midfielder,Central Midfielder,4/7,4,2,"Center Attacking Midfield, Right Center Midfield",True
+4979.0,Katrina Gorry,Australia Women's,0.7728668950752997,7,Right Defensive Midfield,Midfielder,Defensive Midfielder,7/8,7,2,"Right Defensive Midfield, Left Defensive Midfield",True
+15284.0,Aitana Bonmati Conca,Spain Women's,0.7457394617257691,7,Right Center Midfield,Midfielder,Central Midfielder,7/8,7,2,"Right Center Midfield, Right Defensive Midfield",True
+402784.0,Carina Alicia Baltrip-Reyes,Panama Women's,0.7297745292656046,3,Left Back,Defender,Fullback/Wing-Back,4/6,3,3,"Left Back, Right Center Back, Left Wing Back",True
+46639.0,Ona Batlle Pascual,Spain Women's,0.727579741494733,7,Right Back,Defender,Fullback/Wing-Back,6/9,7,2,"Left Back, Right Back",True
+24881.0,Asisat Lamina Oshoala,Nigeria Women's,0.7116240100079717,4,Center Forward,Forward,Forward,5/6,4,2,"Center Forward, Left Center Forward",True
+402788.0,Emily Masiel Cedeño Coba,Panama Women's,0.7093208777244066,3,Right Midfield,Midfielder,Central Midfielder,2/4,3,2,"Right Midfield, Right Wing",True
+403290.0,Yu-Ri Choe,Korea Republic Women's,0.7038024126971818,3,Right Midfield,Midfielder,Central Midfielder,2/8,3,7,"Left Midfield, Left Wing, Right Midfield, Right Center Forward, Left Center Forward, Left Defensive Midfield, Right Defensive Midfield",True
+32105.0,Seraina Piubel,Switzerland Women's,0.701974053057471,4,Right Wing,Forward,Winger,3/8,4,5,"Right Wing, Left Wing, Right Attacking Midfield, Right Center Forward, Left Center Midfield",True
+10399.0,Kathrin Julia Hendrich,Germany Women's,0.689445748672572,3,Right Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Center Back,False
+401877.0,Thu Thảo Trần Thị,Vietnam Women's,0.6832866735216959,3,Right Wing Back,Defender,Fullback/Wing-Back,4/4,3,1,Right Wing Back,False
+389494.0,Sinead Farrelly,Republic of Ireland Women's,0.680042428813933,3,Left Wing,Forward,Winger,2/3,3,2,"Left Wing, Right Wing",True
+10178.0,Lucy Bronze,England Women's,0.6693574686125585,7,Right Wing Back,Defender,Fullback/Wing-Back,6/11,7,3,"Right Back, Right Wing Back, Right Center Back",True
+46972.0,Luana Bühler,Switzerland Women's,0.6516175728131708,1,Right Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Center Back,False
+85500.0,Mina Tanaka,Japan Women's,0.6445301796616845,5,Center Forward,Forward,Forward,5/5,5,1,Center Forward,False
+25559.0,Tamires Cássia Dias de Britto,Brazil Women's,0.6404179037890791,3,Left Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Back, Left Center Back",True
+25640.0,María Florencia Bonsegundo,Argentina Women's,0.6379803883996441,3,Left Wing,Forward,Winger,3/5,3,3,"Left Wing, Left Center Midfield, Left Midfield",True
+46987.0,Jule Brand,Germany Women's,0.6280408078839662,3,Right Wing,Forward,Winger,6/10,3,2,"Right Wing, Left Wing",True
+15290.0,Ashley Elizabeth Marie Lawrence,Canada Women's,0.6049434142757032,3,Left Back,Defender,Fullback/Wing-Back,4/7,3,2,"Left Back, Right Back",True
+401932.0,Hinata Miyazawa,Japan Women's,0.6032061145091134,5,Right Attacking Midfield,Midfielder,Attacking Midfielder,2/6,5,3,"Right Attacking Midfield, Left Attacking Midfield, Left Wing",True
+25615.0,Flavia Lorena Benítez,Argentina Women's,0.5960068327998326,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/2,2,1,Left Defensive Midfield,False
+16382.0,Heather Payne,Republic of Ireland Women's,0.5904864907393257,2,Right Wing Back,Defender,Fullback/Wing-Back,2/3,2,2,"Right Wing Back, Right Center Back",True
+25541.0,Valentina Giacinti,Italy Women's,0.5838771033961332,3,Center Forward,Forward,Forward,2/4,3,3,"Right Center Forward, Center Forward, Left Center Forward",True
+135755.0,Ashleigh Plumptre,Nigeria Women's,0.5829694504909082,4,Left Back,Defender,Fullback/Wing-Back,4/5,4,2,"Left Back, Left Center Back",True
+402789.0,Karla Paola Riley Serracín,Panama Women's,0.5792778243264817,2,Center Forward,Forward,Forward,2/2,2,1,Center Forward,False
+389489.0,Adriana Leal da Silva,Brazil Women's,0.5777772311624068,3,Left Midfield,Midfielder,Central Midfielder,3/5,3,3,"Left Midfield, Right Midfield, Right Wing Back",True
+24461.0,Shuang Wang,China PR Women's,0.5606988796460662,3,Left Midfield,Midfielder,Central Midfielder,2/8,3,5,"Left Midfield, Right Midfield, Center Forward, Left Center Forward, Right Center Forward",True
+131583.0,Qiaozhu Chen,China PR Women's,0.556746124413709,3,Left Back,Defender,Fullback/Wing-Back,4/5,3,2,"Left Back, Left Midfield",True
+31636.0,Clara Mateo,France Women's,0.5549127155388184,2,Right Midfield,Midfielder,Central Midfielder,2/3,2,2,"Right Midfield, Center Attacking Midfield",True
+10386.0,Caroline Graham Hansen,Norway Women's,0.5432267247991569,4,Right Midfield,Midfielder,Central Midfielder,3/6,4,4,"Right Wing, Right Midfield, Left Midfield, Right Center Midfield",True
+49945.0,Manuela Vanegas Cataño,Colombia Women's,0.5338982323638616,4,Left Back,Defender,Fullback/Wing-Back,5/6,4,2,"Left Back, Left Center Back",True
+34480.0,Katherine Maria Alvarado Aguilar,Costa Rica Women's,0.5326345303904731,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/5,3,3,"Left Defensive Midfield, Right Defensive Midfield, Left Center Midfield",True
+10404.0,Noelle Maritz,Switzerland Women's,0.5219398934231658,4,Right Center Back,Defender,Fullback/Wing-Back,3/4,4,2,"Right Center Back, Left Back",True
+107917.0,Trinity Rain Moyer-Rodman,United States Women's,0.5156356945139546,4,Right Wing,Forward,Winger,5/5,4,1,Right Wing,False
+131580.0,Xin Zhang,China PR Women's,0.5152828968935196,2,Right Midfield,Midfielder,Central Midfielder,2/4,2,3,"Center Forward, Left Midfield, Right Midfield",True
+49835.0,Teresa Abelleira Dueñas,Spain Women's,0.5142417559026032,7,Center Defensive Midfield,Midfielder,Defensive Midfielder,7/8,7,2,"Center Defensive Midfield, Left Defensive Midfield",True
+4951.0,Rebecca Quinn,Canada Women's,0.5139245141349297,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/3,3,1,Right Defensive Midfield,False
+10395.0,Maren Nævdal Mjelde,Norway Women's,0.508782836006337,4,Right Center Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Center Back,False
+389488.0,Ariadina Alves Borges,Brazil Women's,0.5087682311302504,3,Right Midfield,Midfielder,Central Midfielder,3/3,3,1,Right Midfield,False
+131579.0,Lina Yang,China PR Women's,0.5079722401112364,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/3,3,1,Left Defensive Midfield,False
+30969.0,Elisa De Almeida,France Women's,0.5005643013839195,3,Left Center Back,Defender,Fullback/Wing-Back,3/7,3,3,"Left Center Back, Right Back, Right Center Back",True
+10088.0,Katrine Veje,Denmark Women's,0.4958660423622625,4,Left Back,Defender,Fullback/Wing-Back,5/7,4,3,"Left Back, Left Wing Back, Left Center Back",True
+25770.0,Lisa Boattin,Italy Women's,0.4953046384377975,3,Left Back,Defender,Fullback/Wing-Back,5/6,3,2,"Left Back, Left Center Back",True
+25608.0,Jun Endo,Japan Women's,0.4873907090866427,4,Left Wing Back,Defender,Fullback/Wing-Back,4/5,4,2,"Left Wing Back, Left Back",True
+10228.0,Manuela Giugliano,Italy Women's,0.4821329343436113,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/6,3,5,"Right Defensive Midfield, Left Center Midfield, Left Defensive Midfield, Center Defensive Midfield, Right Center Midfield",True
+5078.0,Alanna Stephanie Kennedy,Australia Women's,0.4666044870227088,5,Left Center Back,Defender,Fullback/Wing-Back,6/7,5,2,"Left Center Back, Left Center Forward",True
+395287.0,Riley Tanner Rintala,Panama Women's,0.4613809812484075,3,Left Midfield,Midfielder,Central Midfielder,2/6,3,3,"Left Midfield, Center Forward, Left Wing",True
+10370.0,Cecilia Salvai,Italy Women's,0.4613000390269828,2,Left Center Back,Defender,Fullback/Wing-Back,3/3,2,1,Left Center Back,False
+31630.0,Coumba Sow,Switzerland Women's,0.45721337153566,4,Right Center Midfield,Midfielder,Central Midfielder,4/5,4,2,"Right Center Midfield, Center Defensive Midfield",True
+401878.0,Bích Thùy Nguyễn Thị,Vietnam Women's,0.4546544723496588,3,Right Wing,Forward,Winger,4/4,3,1,Right Wing,False
+62962.0,Esmee Brugts,Netherlands Women's,0.4539553408826829,5,Left Wing Back,Defender,Fullback/Wing-Back,5/5,5,1,Left Wing Back,False
+10645.0,Sherida Spitse,Netherlands Women's,0.4533872330418778,5,Right Center Back,Defender,Fullback/Wing-Back,5/5,5,1,Right Center Back,False
+19777.0,Niamh Fahey,Republic of Ireland Women's,0.4448709364468682,3,Right Center Back,Defender,Fullback/Wing-Back,3/4,3,2,"Right Center Back, Center Back",True
+5000.0,Stephanie-Elise Catley,Australia Women's,0.4417628870102859,7,Left Back,Defender,Fullback/Wing-Back,8/11,7,2,"Left Back, Left Wing Back",True
+10117.0,Sakina Karchaoui,France Women's,0.4399391233983402,4,Left Back,Defender,Fullback/Wing-Back,5/5,4,1,Left Back,False
+224842.0,Stina Olivia Lennartsson,Sweden Women's,0.4397802351588333,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+131616.0,Margaret Belemu,Zambia Women's,0.4308606240867689,3,Right Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Back,False
+47521.0,Alessia Russo,England Women's,0.4297744039901177,7,Right Center Forward,Forward,Forward,5/8,7,2,"Center Forward, Right Center Forward",True
+32101.0,Julia Stierli,Switzerland Women's,0.4291393160786225,4,Left Center Back,Defender,Fullback/Wing-Back,4/4,4,1,Left Center Back,False
+106836.0,Michelle Alozie,Nigeria Women's,0.4252885439777099,4,Right Back,Defender,Fullback/Wing-Back,4/6,4,3,"Right Back, Right Wing Back, Left Wing Back",True
+15178.0,Alexandra Popp,Germany Women's,0.4154673898615204,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/6,3,2,"Center Attacking Midfield, Center Forward",True
+5094.0,Ifeoma Onumonu,Nigeria Women's,0.414409959843507,4,Center Forward,Forward,Forward,3/7,4,4,"Center Forward, Right Wing, Left Midfield, Right Midfield",True
+4658.0,Keira Walsh,England Women's,0.4028238116661879,6,Left Defensive Midfield,Midfielder,Defensive Midfielder,5/9,6,2,"Center Defensive Midfield, Left Defensive Midfield",True
+402665.0,Zineb Redouani,Morocco Women's,0.4005701997429817,4,Left Back,Defender,Fullback/Wing-Back,5/5,4,1,Left Back,False
+10405.0,Lia Wälti,Switzerland Women's,0.3932058048727881,4,Center Defensive Midfield,Midfielder,Defensive Midfielder,6/6,4,1,Center Defensive Midfield,False
+401742.0,Isabella Victoria Sola Flanigan,Philippines Women's,0.3918087764130338,3,Left Center Forward,Forward,Forward,3/6,3,4,"Left Midfield, Left Center Forward, Right Center Forward, Right Midfield",True
+224831.0,Amalie Jørgensen Vangsgaard,Denmark Women's,0.3905040864071455,4,Center Forward,Forward,Forward,4/8,4,4,"Center Forward, Right Wing, Right Midfield, Right Defensive Midfield",True
+10658.0,Danielle van de Donk,Netherlands Women's,0.3718348514603438,4,Left Center Midfield,Midfielder,Central Midfielder,6/7,4,2,"Left Center Midfield, Right Center Midfield",True
+63788.0,Victoria Pelova,Netherlands Women's,0.3704551424459864,5,Right Wing Back,Defender,Fullback/Wing-Back,6/8,5,3,"Right Wing Back, Right Center Midfield, Right Midfield",True
+10261.0,Sara Doorsoun-Khajeh,Germany Women's,0.3694442408241755,2,Left Center Back,Defender,Fullback/Wing-Back,2/2,2,1,Left Center Back,False
+10229.0,Emma Stina Blackstenius,Sweden Women's,0.3683841090133373,7,Center Forward,Forward,Forward,8/9,7,2,"Center Forward, Center Attacking Midfield",True
+21062.0,Alexandra Riley,New Zealand Women's,0.3658731326521536,3,Left Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Back, Left Center Back",True
+10272.0,Onema Grace Geyoro,France Women's,0.3623480293327644,5,Right Defensive Midfield,Midfielder,Defensive Midfielder,5/9,5,3,"Right Defensive Midfield, Left Defensive Midfield, Left Center Midfield",True
+25478.0,Lena Oberdorf,Germany Women's,0.360155350956668,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/3,2,2,"Right Defensive Midfield, Left Wing",True
+10211.0,Barbara Bonansea,Italy Women's,0.3592945707509064,3,Left Wing,Forward,Winger,3/5,3,2,"Left Wing, Right Wing",True
+10263.0,Sara Däbritz,Germany Women's,0.3583709491830931,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/4,3,2,"Left Defensive Midfield, Right Defensive Midfield",True
+135588.0,Lineth Cedeno,Panama Women's,0.3546647731292611,3,Center Forward,Forward,Forward,3/7,3,4,"Left Midfield, Center Defensive Midfield, Left Wing, Center Forward",True
+25696.0,Madelen Fatimma Maria Janogy,Sweden Women's,0.3518016448767491,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/3,3,1,Center Attacking Midfield,False
+401744.0,Tahnai Lauren Rivera Annis,Philippines Women's,0.3481133868731073,1,Right Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Back, Right Midfield",True
+25461.0,Uchenna Kanu,Nigeria Women's,0.3472859927883499,4,Right Wing,Forward,Winger,3/8,4,4,"Left Wing, Right Wing, Center Forward, Left Midfield",True
+4643.0,Georgia Stanway,England Women's,0.3467003211701172,7,Right Defensive Midfield,Midfielder,Defensive Midfielder,5/10,7,3,"Right Center Midfield, Right Defensive Midfield, Center Defensive Midfield",True
+401642.0,Malia Grace Steinmetz,New Zealand Women's,0.3463333278405338,3,Center Defensive Midfield,Midfielder,Defensive Midfielder,2/5,3,4,"Center Defensive Midfield, Right Center Midfield, Right Defensive Midfield, Left Defensive Midfield",True
+5020.0,Christine Margaret Sinclair,Canada Women's,0.3438236813596853,3,Center Forward,Forward,Forward,2/3,3,2,"Center Attacking Midfield, Center Forward",True
+25521.0,Kholosa Biyana,South Africa Women's,0.3409992313556177,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/4,3,3,"Right Defensive Midfield, Left Defensive Midfield, Center Defensive Midfield",True
+131570.0,Rafaelle Leone Carvalho Souza,Brazil Women's,0.3409660229790384,3,Left Center Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Center Back, Center Back",True
+327719.0,Atlanta Reigan Primus,Jamaica Women's,0.340119701469683,4,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/7,4,4,"Center Attacking Midfield, Right Center Midfield, Left Wing, Left Center Midfield",True
+6818.0,Hayley Emma Raso,Australia Women's,0.3387069127084002,7,Right Midfield,Midfielder,Central Midfielder,6/9,7,3,"Right Midfield, Right Wing, Center Forward",True
+402661.0,Ibtissam Jraïdi,Morocco Women's,0.3278567626816174,4,Center Forward,Forward,Forward,2/4,4,3,"Left Center Forward, Center Forward, Right Center Forward",True
+402118.0,Karabo Dhlamini,South Africa Women's,0.3261488382206797,3,Left Back,Defender,Fullback/Wing-Back,4/4,3,1,Left Back,False
+10165.0,Irene Paredes Hernandez,Spain Women's,0.3250335955297157,7,Right Center Back,Defender,Fullback/Wing-Back,7/8,7,2,"Right Center Back, Left Center Back",True
+10141.0,Ana Borges,Portugal Women's,0.3219124717994001,3,Right Center Back,Defender,Fullback/Wing-Back,2/4,3,2,"Right Center Back, Right Back",True
+4642.0,Millie Bright,England Women's,0.3160084391672922,7,Center Back,Midfielder,Fullback/Wing-Back,5/10,7,3,"Right Center Back, Center Back, Right Center Forward",True
+402012.0,Sherly Jeudy,Haiti Women's,0.3143049470453134,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/5,3,3,"Right Defensive Midfield, Center Attacking Midfield, Left Center Forward",True
+25490.0,Rui Zhang,China PR Women's,0.3134473175641137,2,Center Attacking Midfield,Midfielder,Attacking Midfielder,1/2,2,2,"Center Attacking Midfield, Right Defensive Midfield",True
+131575.0,Mengwen Li,China PR Women's,0.3099306220568349,3,Right Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Back,False
+401929.0,Hikaru Naomoto,Japan Women's,0.3057825510971852,3,Left Attacking Midfield,Midfielder,Attacking Midfielder,2/3,3,2,"Left Attacking Midfield, Right Wing",True
+401925.0,Aoba Fujino,Japan Women's,0.3041078067347412,5,Right Attacking Midfield,Midfielder,Attacking Midfielder,3/6,5,3,"Right Attacking Midfield, Right Wing, Left Midfield",True
+15555.0,Lauren Hemp,England Women's,0.2999892443652028,7,Left Center Forward,Forward,Forward,5/13,7,7,"Left Wing, Right Wing, Left Center Forward, Right Midfield, Left Center Midfield, Center Forward, Right Wing Back",True
+62710.0,Johanna Rytting-Kaneryd,Sweden Women's,0.298943613118135,7,Right Wing,Forward,Winger,6/7,7,2,"Right Wing, Right Wing Back",True
+10222.0,Jonna Ann-Charlotte Andersson,Sweden Women's,0.2986536907544679,6,Left Back,Defender,Fullback/Wing-Back,7/9,6,2,"Left Back, Left Wing Back",True
+34486.0,Gloriana Jesus Villalobos Vega,Costa Rica Women's,0.284146443268885,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/5,3,3,"Center Attacking Midfield, Left Midfield, Right Defensive Midfield",True
+25520.0,Lebogang Ramalepe,South Africa Women's,0.2835023456287669,4,Right Back,Defender,Fullback/Wing-Back,5/5,4,1,Right Back,False
+401645.0,Mathilde Hauge Harviken,Norway Women's,0.265647093140638,4,Left Center Back,Defender,Fullback/Wing-Back,4/4,4,1,Left Center Back,False
+25633.0,Eliana Noemí Stábile,Argentina Women's,0.2653994216560215,3,Left Back,Defender,Fullback/Wing-Back,3/3,3,1,Left Back,False
+401876.0,Thị Hải Linh Trần,Vietnam Women's,0.256950753319119,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/5,3,2,"Right Defensive Midfield, Left Defensive Midfield",True
+10666.0,Dominique Johanna Anna Petrone Janssen,Netherlands Women's,0.2502857369154403,5,Left Center Back,Defender,Fullback/Wing-Back,6/9,5,4,"Left Center Back, Center Back, Left Wing Back, Left Back",True
+34477.0,Mariana De Los Angeles Benavidez,Costa Rica Women's,0.2458407068235473,3,Left Center Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Center Back, Center Back",True
+10259.0,Lina Magull,Germany Women's,0.2443975049391769,2,Center Attacking Midfield,Midfielder,Attacking Midfielder,2/2,2,1,Center Attacking Midfield,False
+131586.0,Kyra Lillee Cooney-Cross,Australia Women's,0.2442805127020456,7,Left Defensive Midfield,Midfielder,Defensive Midfielder,8/15,7,6,"Left Defensive Midfield, Center Defensive Midfield, Right Back, Right Defensive Midfield, Left Wing, Left Attacking Midfield",True
+5095.0,Ellie Madison Carpenter,Australia Women's,0.2352515796198724,7,Right Back,Defender,Fullback/Wing-Back,7/11,7,3,"Right Back, Left Center Back, Right Wing Back",True
+62910.0,Ana Rita Silva Seiça,Portugal Women's,0.2324933811672112,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+401890.0,Hải Yến Phạm,Vietnam Women's,0.2252889021924175,3,Center Forward,Forward,Forward,3/3,3,1,Center Forward,False
+15421.0,Kenza Dali,France Women's,0.225179444862865,4,Right Midfield,Midfielder,Central Midfielder,5/12,4,4,"Left Midfield, Right Midfield, Left Defensive Midfield, Right Defensive Midfield",True
+359388.0,Aldrith Ivana Quintero Humphries,Panama Women's,0.225107271625683,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/7,3,4,"Right Center Midfield, Center Defensive Midfield, Right Defensive Midfield, Left Defensive Midfield",True
+10125.0,Wendie Renard,France Women's,0.2100600301623079,4,Right Center Back,Defender,Fullback/Wing-Back,4/7,4,2,"Right Center Back, Left Center Back",True
+34875.0,Andreia Alexandra Norton,Portugal Women's,0.2093935073886327,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/6,3,3,"Left Center Forward, Center Attacking Midfield, Left Center Midfield",True
+25743.0,Luana Bertolucci Paixão,Brazil Women's,0.2083486111246162,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/4,3,2,"Left Defensive Midfield, Right Defensive Midfield",True
+87195.0,Janni Thomsen,Denmark Women's,0.2079118682412254,4,Right Wing,Forward,Winger,4/9,4,4,"Right Back, Right Wing Back, Right Wing, Right Midfield",True
+25624.0,Risa Shimizu,Japan Women's,0.206347195430865,5,Right Wing Back,Defender,Fullback/Wing-Back,5/6,5,2,"Right Wing Back, Right Back",True
+10418.0,Eve Perisset,France Women's,0.2045447522508108,3,Right Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Back,False
+15357.0,Kadeisha Buchanan,Canada Women's,0.2043923313504348,3,Right Center Back,Defender,Fullback/Wing-Back,5/5,3,1,Right Center Back,False
+5055.0,Lynn Raenie Williams,United States Women's,0.2006311706335547,2,Right Wing,Forward,Winger,2/2,2,1,Right Wing,False
+402466.0,Camila Gómez Ares,Argentina Women's,0.1984797343035407,1,Right Center Midfield,Midfielder,Central Midfielder,1/1,1,1,Right Center Midfield,False
+10419.0,Géraldine Reuteler,Switzerland Women's,0.197533484824823,4,Left Center Midfield,Midfielder,Central Midfielder,4/4,4,1,Left Center Midfield,False
+131694.0,Martha Tembo,Zambia Women's,0.1969573423579673,3,Left Back,Defender,Fullback/Wing-Back,6/6,3,1,Left Back,False
+401803.0,María Paula Coto González,Costa Rica Women's,0.195362964256469,3,Right Back,Defender,Fullback/Wing-Back,2/4,3,3,"Right Back, Left Back, Right Wing Back",True
+35406.0,Ruesha Littlejohn,Republic of Ireland Women's,0.1919785484154451,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/3,3,1,Left Defensive Midfield,False
+62913.0,Francisca Ramos Ribeiro Nazareth Sousa,Portugal Women's,0.1841394651668659,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/4,3,2,"Center Attacking Midfield, Center Defensive Midfield",True
+349028.0,Giulia Dragoni,Italy Women's,0.1824872725740387,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,3/6,3,3,"Center Attacking Midfield, Left Center Midfield, Left Wing",True
+401808.0,Fabiola Villalobos Morales,Costa Rica Women's,0.1696180944384883,3,Right Center Back,Defender,Fullback/Wing-Back,4/4,3,1,Right Center Back,False
+401745.0,Quinley Mirielle Campomanes Quezada-Keča,Philippines Women's,0.1667112634937761,3,Right Midfield,Midfielder,Central Midfielder,3/5,3,2,"Right Midfield, Right Center Midfield",True
+50003.0,Antonia Ronnycleide da Costa Silva,Brazil Women's,0.1630341356401275,3,Right Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Back,False
+23413.0,Megan Connolly,Republic of Ireland Women's,0.1490420604624558,3,Left Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Left Center Back,False
+10274.0,Nicoline Sørensen,Denmark Women's,0.1488082480979159,3,Left Wing,Forward,Winger,3/4,3,2,"Right Wing, Left Wing",True
+34550.0,Hye-Ji Hong,Korea Republic Women's,0.1446476504292601,1,Center Back,Midfielder,Fullback/Wing-Back,1/2,1,2,"Center Back, Right Center Back",True
+5028.0,Katie Bowen,New Zealand Women's,0.1434637206337229,3,Left Center Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Center Back, Center Back",True
+26092.0,Amanda Ilestedt,Sweden Women's,0.1375653618592622,7,Right Center Back,Defender,Fullback/Wing-Back,7/8,7,2,"Right Center Back, Center Back",True
+25491.0,Marina Hegering,Germany Women's,0.136757295806734,1,Left Center Back,Defender,Fullback/Wing-Back,1/2,1,2,"Left Center Back, Right Defensive Midfield",True
+4633.0,Magdalena Lilly Eriksson,Sweden Women's,0.1353839155495393,7,Left Center Back,Defender,Fullback/Wing-Back,8/8,7,1,Left Center Back,False
+25663.0,Elizabeth Doon Hassett,New Zealand Women's,0.1338435641766913,3,Left Center Midfield,Midfielder,Central Midfielder,2/4,3,3,"Left Center Midfield, Right Center Midfield, Left Midfield",True
+25556.0,Kathellen Sousa Feitoza,Brazil Women's,0.1290541930874129,1,Right Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Center Back,False
+15648.0,Melanie Leupolz,Germany Women's,0.1243621856836444,1,Left Defensive Midfield,Midfielder,Defensive Midfielder,1/1,1,1,Left Defensive Midfield,False
+402024.0,Lingwei Yao,China PR Women's,0.1207455310592559,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/2,2,1,Right Defensive Midfield,False
+10516.0,Frida Maanum,Norway Women's,0.1193104229220123,4,Right Center Midfield,Midfielder,Central Midfielder,4/5,4,2,"Right Center Midfield, Left Center Midfield",True
+25557.0,Deneisha Selena Blackwood,Jamaica Women's,0.1180673031533821,4,Left Back,Defender,Fullback/Wing-Back,4/4,4,1,Left Back,False
+31534.0,Ella Toone,England Women's,0.1167897739081318,6,Left Center Midfield,Midfielder,Central Midfielder,4/8,6,3,"Left Center Midfield, Center Attacking Midfield, Left Wing",True
+401732.0,Jaclyn Katrina Demis Sawicki,Philippines Women's,0.1148243333815796,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/6,3,3,"Right Defensive Midfield, Center Defensive Midfield, Left Defensive Midfield",True
+19422.0,Jessica Carter,England Women's,0.110241421792748,6,Right Center Back,Defender,Fullback/Wing-Back,5/9,6,4,"Left Center Back, Right Center Back, Left Back, Center Back",True
+5058.0,Rachel Daly,England Women's,0.1051820513698778,7,Left Wing Back,Defender,Fullback/Wing-Back,6/10,7,5,"Center Forward, Left Wing Back, Left Wing, Left Midfield, Left Back",True
+62905.0,Catarina Amado,Portugal Women's,0.1044062905875183,2,Left Back,Defender,Fullback/Wing-Back,2/3,2,2,"Left Wing Back, Left Back",True
+10407.0,Eseosa Aigbogun,Switzerland Women's,0.1022893599507649,4,Right Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Back,False
+30971.0,Sandie Toletti,France Women's,0.0989400187099218,4,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/5,4,3,"Left Defensive Midfield, Center Defensive Midfield, Right Defensive Midfield",True
+25638.0,Moeka Minami,Japan Women's,0.090317393499921,5,Left Center Back,Defender,Fullback/Wing-Back,5/5,5,1,Left Center Back,False
+32162.0,Arianna Caruso,Italy Women's,0.0866398167940935,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/5,3,4,"Left Defensive Midfield, Center Defensive Midfield, Right Defensive Midfield, Left Midfield",True
+182466.0,Lauren Eduarda Leal Costa,Brazil Women's,0.0721993225770984,2,Right Center Back,Defender,Fullback/Wing-Back,3/3,2,1,Right Center Back,False
+402796.0,Schiandra Yael González Jurado,Panama Women's,0.0686290533841819,3,Left Center Midfield,Midfielder,Central Midfielder,2/6,3,3,"Left Center Midfield, Left Defensive Midfield, Right Defensive Midfield",True
+401883.0,Loan Hoàng Thị,Vietnam Women's,0.0662117912822206,3,Left Wing Back,Defender,Fullback/Wing-Back,3/3,3,1,Left Wing Back,False
+25834.0,Viviane Asseyi,France Women's,0.0629879772232817,1,Left Midfield,Midfielder,Central Midfielder,1/2,2,2,"Left Midfield, Center Forward",True
+25553.0,Trudi Sudan Carter,Jamaica Women's,0.0623499096649449,2,Left Wing,Forward,Winger,2/4,2,3,"Right Midfield, Left Wing, Right Wing",True
+401930.0,Riko Ueki,Japan Women's,0.0610903377972832,5,Center Forward,Forward,Forward,5/7,5,3,"Center Forward, Left Wing, Right Center Forward",True
+107491.0,Emily Ann Fox,United States Women's,0.058835739281804,4,Right Back,Defender,Fullback/Wing-Back,4/5,4,2,"Right Back, Right Wing Back",True
+46564.0,Salma Amani,Morocco Women's,0.0526925304845219,3,Center Attacking Midfield,Midfielder,Attacking Midfielder,2/3,3,2,"Right Center Forward, Center Attacking Midfield",True
+4949.0,Rosemary Kathleen Lavelle,United States Women's,0.0486109034109471,3,Right Center Midfield,Midfielder,Central Midfielder,4/5,3,2,"Right Center Midfield, Right Defensive Midfield",True
+62908.0,Christy Onyenaturuchi Ucheibe,Nigeria Women's,0.0471215645917829,4,Center Defensive Midfield,Midfielder,Defensive Midfielder,3/8,4,4,"Right Defensive Midfield, Left Center Midfield, Center Defensive Midfield, Left Defensive Midfield",True
+25729.0,Klara Bühl,Germany Women's,0.043351415628458,3,Left Wing,Forward,Winger,4/6,3,2,"Left Wing, Right Wing",True
+25469.0,Halimatu Ibrahim Ayinde,Nigeria Women's,0.0426975762958673,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/5,3,3,"Left Defensive Midfield, Center Defensive Midfield, Right Defensive Midfield",True
+403271.0,Ana María Guzmán Zapata,Colombia Women's,0.0399206282367376,2,Left Back,Defender,Fullback/Wing-Back,1/2,2,2,"Left Back, Right Back",True
+45638.0,Sofia Cantore,Italy Women's,0.036350853081202,3,Right Wing,Forward,Winger,3/8,3,6,"Right Wing, Left Wing, Left Center Forward, Center Forward, Right Midfield, Right Wing Back",True
+25466.0,Vilde Bøe Risa,Norway Women's,0.0237662130591943,4,Right Center Midfield,Midfielder,Central Midfielder,3/5,4,2,"Center Defensive Midfield, Right Center Midfield",True
+401926.0,Hana Takahashi,Japan Women's,0.0199558417991118,3,Right Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Center Back,False
+87191.0,Rikke Marie Madsen,Denmark Women's,0.0181564438340305,4,Left Wing,Forward,Winger,4/6,4,3,"Left Wing, Right Wing, Left Midfield",True
+276443.0,Kathrine Møller Kühl,Denmark Women's,0.013576364573384,4,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/5,4,4,"Right Defensive Midfield, Left Center Midfield, Left Defensive Midfield, Center Attacking Midfield",True
+15471.0,Selma Bacha,France Women's,0.0132498733314248,4,Left Midfield,Midfielder,Central Midfielder,6/8,4,2,"Left Midfield, Right Midfield",True
+10111.0,Simone Boye-Sørensen,Denmark Women's,0.0116017839016008,4,Left Center Back,Defender,Fullback/Wing-Back,5/7,4,2,"Left Center Back, Center Back",True
+87185.0,Stine Ballisager Pedersen,Denmark Women's,0.0063857520048328,3,Right Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Center Back,False
+10140.0,Dolores Isabel Jacome Silva,Portugal Women's,-0.0035969384486577,2,Center Defensive Midfield,Midfielder,Defensive Midfielder,2/3,2,2,"Right Defensive Midfield, Center Defensive Midfield",True
+131645.0,Julia Angela Grosso,Canada Women's,-0.0063896437617518,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/4,3,2,"Left Defensive Midfield, Center Attacking Midfield",True
+276577.0,Telma Raquel Velosa Encarnação,Portugal Women's,-0.0083010920710769,3,Left Center Forward,Forward,Forward,3/6,3,3,"Left Center Forward, Right Center Forward, Center Attacking Midfield",True
+32230.0,Karen Holmgaard,Denmark Women's,-0.0111011967777527,4,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/6,4,3,"Left Defensive Midfield, Center Defensive Midfield, Right Defensive Midfield",True
+47117.0,Benedetta Orsi,Italy Women's,-0.0138431254322984,1,Right Center Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Center Back, Right Back",True
+403283.0,Carolina Arias Vidal,Colombia Women's,-0.0160784714323055,5,Right Back,Defender,Fullback/Wing-Back,6/6,5,1,Right Back,False
+131618.0,Ireen Lungu,Zambia Women's,-0.0205236443553543,2,Right Center Midfield,Midfielder,Central Midfielder,1/2,2,2,"Right Center Midfield, Right Defensive Midfield",True
+402465.0,Julieta Micaela Cruz Navarrete,Argentina Women's,-0.0217570504301362,2,Right Back,Defender,Fullback/Wing-Back,3/4,2,2,"Right Back, Left Defensive Midfield",True
+49836.0,Olga  Carmona García,Spain Women's,-0.023327889895818,6,Left Back,Defender,Fullback/Wing-Back,7/8,6,2,"Left Back, Right Back",True
+222682.0,Salma Paralluelo Ayingono,Spain Women's,-0.0269334070943978,7,Left Wing,Forward,Winger,7/14,7,4,"Right Wing, Left Wing, Left Center Midfield, Center Forward",True
+31784.0,Maëlle Lakrar,France Women's,-0.029748702717374,4,Right Center Back,Defender,Fullback/Wing-Back,3/4,4,2,"Right Back, Right Center Back",True
+4967.0,Raquel Rodriguez,Costa Rica Women's,-0.0386268414905405,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/4,2,4,"Right Defensive Midfield, Left Defensive Midfield, Right Center Midfield, Center Attacking Midfield",True
+10374.0,Svenja Huth,Germany Women's,-0.0430421337676499,3,Right Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Back,False
+21048.0,Rosella Ayane,Morocco Women's,-0.0466909686760056,4,Left Center Forward,Forward,Forward,2/4,4,2,"Left Center Forward, Center Forward",True
+299860.0,Fuka Nagano,Japan Women's,-0.0521181005182919,5,Left Defensive Midfield,Midfielder,Defensive Midfielder,5/7,5,2,"Left Defensive Midfield, Right Defensive Midfield",True
+34873.0,Fátima Alexandra Figueira Pinto,Portugal Women's,-0.0528654414759197,1,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/4,1,3,"Left Defensive Midfield, Left Center Midfield, Center Defensive Midfield",True
+25546.0,Cheyna Lee Matthews,Jamaica Women's,-0.0584205030087611,4,Right Midfield,Midfielder,Central Midfielder,4/6,4,3,"Right Midfield, Left Midfield, Right Back",True
+5076.0,Emily Louise van Egmond,Australia Women's,-0.0682311914897899,7,Right Center Forward,Forward,Forward,5/11,7,7,"Right Center Forward, Right Defensive Midfield, Right Center Midfield, Center Defensive Midfield, Left Center Back, Left Wing, Left Defensive Midfield",True
+5088.0,Crystal Alyssia Dunn Soubrier,United States Women's,-0.0768383437201549,4,Left Back,Defender,Fullback/Wing-Back,4/5,4,2,"Left Back, Left Wing Back",True
+401873.0,Thị Mỹ Anh Nguyễn,Vietnam Women's,-0.0796118813919379,2,Right Wing,Forward,Winger,1/3,2,3,"Right Wing, Left Wing, Left Wing Back",True
+10097.0,Frederikke Thøgersen,Denmark Women's,-0.0932335336977065,1,Right Center Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Center Back, Right Wing",True
+276288.0,Tuva Hansen,Norway Women's,-0.0952064825809937,4,Left Back,Defender,Fullback/Wing-Back,4/4,4,1,Left Back,False
+25476.0,Lea Schüller,Germany Women's,-0.0953478347562134,3,Center Forward,Forward,Forward,3/5,3,2,"Center Forward, Center Attacking Midfield",True
+6811.0,Julie Beth Ertz,United States Women's,-0.0967817228120197,4,Right Center Back,Defender,Fullback/Wing-Back,5/6,4,2,"Right Center Back, Center Back",True
+403291.0,Casey Yu-Jin Phair,Korea Republic Women's,-0.1005009450500246,3,Center Forward,Forward,Forward,1/6,3,6,"Center Forward, Right Center Back, Left Center Midfield, Left Center Forward, Right Defensive Midfield, Left Wing",True
+10654.0,Jackie Groenen,Netherlands Women's,-0.1016951565745604,5,Center Defensive Midfield,Midfielder,Defensive Midfielder,5/11,5,5,"Left Center Midfield, Left Defensive Midfield, Right Defensive Midfield, Center Defensive Midfield, Right Center Midfield",True
+46999.0,Chantal Hagel,Germany Women's,-0.1023511338233696,3,Left Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Back, Left Center Back",True
+402127.0,Wendy Shongwe,South Africa Women's,-0.1107261395722465,2,Right Wing,Forward,Winger,2/3,2,2,"Right Wing, Left Wing",True
+401884.0,Thị Vân Dương,Vietnam Women's,-0.1187697670560611,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/5,3,2,"Right Defensive Midfield, Left Defensive Midfield",True
+25660.0,Annalie Longo,New Zealand Women's,-0.1211643890812591,2,Left Center Midfield,Midfielder,Central Midfielder,1/3,2,3,"Left Center Midfield, Left Defensive Midfield, Right Center Midfield",True
+389446.0,Jessika Rebecca Macayan Cowart,Philippines Women's,-0.1239571095459609,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/6,3,3,"Left Defensive Midfield, Center Back, Left Center Back",True
+221887.0,Wieke Hendrikje Maria Kaptein,Netherlands Women's,-0.1259741301417238,1,Left Center Midfield,Midfielder,Central Midfielder,1/1,1,1,Left Center Midfield,False
+25450.0,Young-Ju Lee,Korea Republic Women's,-0.1376356911556923,1,Center Defensive Midfield,Midfielder,Defensive Midfielder,1/2,1,2,"Center Defensive Midfield, Right Wing",True
+402013.0,Roseline Éloissaint,Haiti Women's,-0.138908285954773,3,Right Wing,Forward,Winger,2/7,3,5,"Right Wing, Right Back, Right Center Midfield, Center Forward, Left Wing",True
+46459.0,Katja Snoeijs,Netherlands Women's,-0.1404933884629092,4,Left Center Forward,Forward,Forward,2/9,5,7,"Left Center Forward, Right Center Back, Right Wing, Center Attacking Midfield, Right Center Forward, Right Attacking Midfield, Center Forward",True
+401633.0,"Aine O""Gorman",Republic of Ireland Women's,-0.1457634181407666,1,Right Wing Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Wing Back,False
+31531.0,Lauren James,England Women's,-0.1508358616412093,5,Left Wing,Forward,Winger,3/9,5,5,"Right Wing, Left Wing, Center Attacking Midfield, Left Center Midfield, Right Center Forward",True
+131628.0,Hellen Nga''ndwe Chanda,Zambia Women's,-0.158192593404466,1,Right Center Midfield,Midfielder,Central Midfielder,1/1,1,1,Right Center Midfield,False
+402002.0,Betina Petit-Frère,Haiti Women's,-0.1597775286060466,3,Right Center Back,Defender,Fullback/Wing-Back,3/5,3,2,"Right Center Back, Right Back",True
+219423.0,Naomi Haile Girma,United States Women's,-0.1680144144351936,4,Left Center Back,Defender,Fullback/Wing-Back,4/4,4,1,Left Center Back,False
+49233.0,Vicki Becho,France Women's,-0.1770573539313273,5,Right Midfield,Midfielder,Central Midfielder,6/11,5,6,"Right Midfield, Center Attacking Midfield, Center Forward, Right Center Forward, Right Defensive Midfield, Left Defensive Midfield",True
+49904.0,Lorena Bedoya Durango,Colombia Women's,-0.1863954466165711,5,Left Defensive Midfield,Midfielder,Defensive Midfielder,5/10,5,3,"Right Defensive Midfield, Left Defensive Midfield, Left Center Midfield",True
+10647.0,Stephanie van der Gragt,Netherlands Women's,-0.1883295934547028,5,Center Back,Midfielder,Fullback/Wing-Back,8/10,5,3,"Center Back, Center Forward, Right Center Back",True
+401924.0,Rion Ishikawa,Japan Women's,-0.1936666733406512,1,Right Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Center Back,False
+31641.0,Elodie Nakkach,Morocco Women's,-0.1993502121664411,4,Right Defensive Midfield,Midfielder,Defensive Midfielder,6/6,4,1,Right Defensive Midfield,False
+50151.0,Alba María Redondo Ferrer,Spain Women's,-0.1997550004381958,7,Right Wing,Forward,Winger,6/12,7,3,"Right Wing, Center Forward, Left Center Midfield",True
+294448.0,María Paula Elizondo,Costa Rica Women's,-0.2002509540017996,2,Left Back,Defender,Fullback/Wing-Back,1/2,2,2,"Left Back, Left Wing Back",True
+401740.0,Carleigh Bennett Frilles,Philippines Women's,-0.2031904811373023,1,Right Center Forward,Forward,Forward,1/2,1,2,"Right Center Forward, Left Center Forward",True
+18145.0,Ria Percival,New Zealand Women's,-0.2055862154779608,3,Right Center Midfield,Midfielder,Central Midfielder,1/4,3,4,"Right Center Midfield, Center Defensive Midfield, Left Center Midfield, Right Defensive Midfield",True
+131625.0,Avell Chitundu,Zambia Women's,-0.2094949238414209,3,Right Midfield,Midfielder,Central Midfielder,2/4,3,3,"Right Midfield, Left Midfield, Right Wing",True
+25617.0,Miriam Anahí Mayorga,Argentina Women's,-0.2219304670770333,2,Right Center Back,Defender,Fullback/Wing-Back,2/2,2,1,Right Center Back,False
+8298.0,Megan Anna Rapinoe,United States Women's,-0.2225255733462722,3,Left Wing,Forward,Winger,3/5,3,2,"Center Forward, Left Wing",True
+66217.0,Indiah-Paige Janita Riley,New Zealand Women's,-0.2246280071185458,3,Right Wing,Forward,Winger,2/6,3,4,"Right Wing, Left Wing, Right Center Midfield, Right Midfield",True
+25516.0,Refiloe Jane,South Africa Women's,-0.225051202663629,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,3/4,2,2,"Right Defensive Midfield, Left Center Midfield",True
+25785.0,Jayde Yuk Fun Riviere,Canada Women's,-0.2362547722376176,3,Right Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Back,False
+46224.0,Lucia Di Guglielmo,Italy Women's,-0.243868654381312,3,Right Back,Defender,Fullback/Wing-Back,4/4,3,1,Right Back,False
+46847.0,Kethna Louis,Haiti Women's,-0.2453564767992277,3,Left Back,Defender,Fullback/Wing-Back,3/7,3,3,"Left Back, Left Defensive Midfield, Left Center Back",True
+401635.0,Clare Hunt,Australia Women's,-0.248305685125393,7,Right Center Back,Defender,Fullback/Wing-Back,8/8,7,1,Right Center Back,False
+31529.0,Léa Le Garrec,France Women's,-0.2501577087690475,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/3,2,3,"Right Defensive Midfield, Right Midfield, Right Center Midfield",True
+32694.0,Laia Codina Panedas,Spain Women's,-0.252482237348944,4,Left Center Back,Defender,Fullback/Wing-Back,5/5,4,1,Left Center Back,False
+24460.0,Signe Kallesøe Bruun,Denmark Women's,-0.2552945391356689,3,Center Forward,Forward,Forward,3/6,3,4,"Left Wing, Center Forward, Left Center Midfield, Right Back",True
+401888.0,Vạn Sự Ngân Thị,Vietnam Women's,-0.2556084462389232,2,Left Wing,Forward,Winger,2/4,2,2,"Left Wing, Right Wing",True
+403274.0,Ga-Ram Chun,Korea Republic Women's,-0.2586210896587228,1,Right Midfield,Midfielder,Central Midfielder,1/3,2,3,"Right Midfield, Right Center Midfield, Left Midfield",True
+49889.0,Oihane Hernández Zurbano,Spain Women's,-0.2631184762889149,6,Right Back,Defender,Fullback/Wing-Back,6/8,6,3,"Right Back, Left Back, Right Wing",True
+24925.0,Olivia Chance,New Zealand Women's,-0.2638504987636511,2,Left Wing,Forward,Winger,2/2,2,1,Left Wing,False
+15570.0,Chloe Kelly,England Women's,-0.2723568217130144,7,Right Wing,Forward,Winger,4/12,7,7,"Right Wing, Left Wing, Left Center Forward, Right Center Forward, Center Forward, Right Midfield, Left Wing Back",True
+25470.0,Osinachi Marvis Ohale,Nigeria Women's,-0.2744614446312097,4,Right Center Back,Defender,Fullback/Wing-Back,6/6,4,1,Right Center Back,False
+327442.0,Andreia de Jesus Jacinto,Portugal Women's,-0.2747740958563137,3,Left Center Midfield,Midfielder,Central Midfielder,2/6,3,5,"Right Defensive Midfield, Left Defensive Midfield, Left Center Midfield, Center Attacking Midfield, Right Center Midfield",True
+401731.0,Angela Beard,Philippines Women's,-0.2775900741966558,3,Left Center Back,Defender,Fullback/Wing-Back,3/5,3,2,"Left Center Back, Left Back",True
+387290.0,Yamila Tamara Rodríguez,Argentina Women's,-0.2788432181067038,3,Right Wing,Forward,Winger,2/4,3,3,"Right Wing, Right Center Midfield, Right Center Forward",True
+15249.0,Amel Majri,France Women's,-0.2808553754872372,2,Left Midfield,Midfielder,Central Midfielder,1/2,2,2,"Left Midfield, Left Defensive Midfield",True
+31783.0,Estelle Cascarino,France Women's,-0.2811629040227325,3,Left Center Back,Defender,Fullback/Wing-Back,2/5,3,3,"Left Center Back, Left Back, Right Back",True
+25745.0,Sibulele Cecilia Holweni,South Africa Women's,-0.2837460344068885,2,Left Back,Defender,Fullback/Wing-Back,2/3,3,2,"Right Wing, Left Back",True
+276579.0,Nadine Riesen,Switzerland Women's,-0.2879516513034571,4,Left Back,Defender,Fullback/Wing-Back,4/6,4,3,"Left Back, Right Back, Right Wing",True
+26570.0,Amalie Vevle Eikeland,Norway Women's,-0.2898972243696532,1,Right Wing,Forward,Winger,1/1,1,1,Right Wing,False
+131653.0,Honoka Hayashi,Japan Women's,-0.2920098245423564,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/4,3,2,"Left Defensive Midfield, Right Defensive Midfield",True
+401941.0,Siomala Mapepa,Zambia Women's,-0.295968633335906,3,Right Midfield,Midfielder,Central Midfielder,2/5,3,3,"Right Midfield, Left Midfield, Right Wing",True
+401804.0,Cristín Yorleny Granados Gómez,Costa Rica Women's,-0.3002857950491261,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/3,2,3,"Right Defensive Midfield, Left Wing Back, Left Defensive Midfield",True
+361135.0,Valeria del Campo Gutiérrez,Costa Rica Women's,-0.3065341548396584,2,Right Back,Defender,Fullback/Wing-Back,1/3,2,3,"Right Back, Left Center Back, Left Back",True
+50146.0,Esther Gonzalez Rodríguez,Spain Women's,-0.3092588257430223,5,Center Forward,Forward,Forward,5/7,5,2,"Center Forward, Left Wing",True
+32143.0,Diana Catarina Ribeiro Gomes,Portugal Women's,-0.3121081162478544,2,Right Center Back,Defender,Fullback/Wing-Back,2/3,2,2,"Left Center Back, Right Center Back",True
+8297.0,Adriana Kristina Leon,Canada Women's,-0.3126496497017649,3,Right Wing,Forward,Winger,2/4,3,3,"Left Wing, Right Wing, Center Forward",True
+13881.0,Eva Sofia Jakobsson,Sweden Women's,-0.3140298402876824,4,Right Wing,Forward,Winger,4/4,4,1,Right Wing,False
+403287.0,Seo-Yeon Shim,Korea Republic Women's,-0.3333083723899634,3,Left Center Back,Defender,Fullback/Wing-Back,4/5,3,2,"Left Center Back, Center Back",True
+4989.0,Rebekah Ashley Stott,New Zealand Women's,-0.337112653423785,3,Right Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Center Back,False
+15789.0,Rikke Læntver Sevecke,Denmark Women's,-0.3476134855335386,4,Right Back,Defender,Fullback/Wing-Back,5/9,4,3,"Right Center Back, Right Back, Right Defensive Midfield",True
+10162.0,Carole da Silva Costa,Portugal Women's,-0.3499907196131939,3,Center Back,Midfielder,Fullback/Wing-Back,2/4,3,2,"Center Back, Left Center Back",True
+10208.0,Elena Linari,Italy Women's,-0.3518500569915891,3,Right Center Back,Defender,Fullback/Wing-Back,3/6,3,3,"Right Center Back, Left Center Back, Center Back",True
+49972.0,Martina Lenzini,Italy Women's,-0.3547365784073479,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+402658.0,Hanane Aït El Haj,Morocco Women's,-0.3570564096358232,4,Right Back,Defender,Fullback/Wing-Back,4/6,4,2,"Right Center Back, Right Back",True
+15564.0,Lucy Quinn,Republic of Ireland Women's,-0.3570932379020988,2,Right Wing,Forward,Winger,2/4,2,3,"Left Wing, Right Wing, Right Center Forward",True
+10221.0,Elin Ingrid Johanna Rubensson,Sweden Women's,-0.3593755666834849,7,Left Defensive Midfield,Midfielder,Defensive Midfielder,7/7,7,1,Left Defensive Midfield,False
+324160.0,Sofia Nicole Dador Harrison,Philippines Women's,-0.3652192700057607,3,Left Back,Defender,Fullback/Wing-Back,3/6,3,4,"Left Back, Left Wing Back, Left Center Forward, Center Attacking Midfield",True
+45144.0,Joana Filipa Gaspar Silva Marchão,Portugal Women's,-0.3729196708358491,2,Left Wing Back,Defender,Fullback/Wing-Back,1/2,2,2,"Left Wing Back, Left Back",True
+402119.0,Bongeka Gamede,South Africa Women's,-0.3904960538111359,4,Left Center Back,Defender,Fullback/Wing-Back,2/4,4,3,"Left Center Back, Right Defensive Midfield, Left Defensive Midfield",True
+25535.0,Tiffany Cameron,Jamaica Women's,-0.3936008839615454,3,Right Back,Defender,Fullback/Wing-Back,2/4,3,3,"Right Midfield, Right Back, Right Wing",True
+402001.0,Dougenie Tabita Kerbie Joseph,Haiti Women's,-0.3942647291349734,3,Left Center Back,Defender,Fullback/Wing-Back,3/5,3,2,"Left Center Back, Right Center Back",True
+401737.0,Hali Moriah Candido Long,Philippines Women's,-0.4032766898115925,3,Right Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Center Back,False
+25635.0,Hina Sugita,Japan Women's,-0.4037033991015604,3,Left Wing Back,Defender,Fullback/Wing-Back,3/3,3,1,Left Wing Back,False
+19416.0,Laura Coombs,England Women's,-0.4060326083762843,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/3,2,3,"Right Defensive Midfield, Center Defensive Midfield, Right Center Midfield",True
+34509.0,Hwa-Yeon Son,Korea Republic Women's,-0.4067540380911744,2,Right Center Forward,Forward,Forward,2/3,2,2,"Right Center Forward, Right Wing",True
+276303.0,Thea Bjelde,Norway Women's,-0.4084925199497679,4,Right Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Back,False
+5082.0,Marta Vieira da Silva Veiga,Brazil Women's,-0.413085177714055,3,Right Center Forward,Forward,Forward,1/3,3,3,"Right Center Forward, Left Center Forward, Right Midfield",True
+401801.0,Sheika Daleicha Scott Richardson,Costa Rica Women's,-0.4160454033652473,3,Center Forward,Forward,Forward,3/5,3,3,"Center Forward, Center Attacking Midfield, Left Wing",True
+15621.0,Louise Quinn,Republic of Ireland Women's,-0.4177987401153971,3,Center Back,Midfielder,Fullback/Wing-Back,3/5,3,3,"Center Back, Center Attacking Midfield, Left Center Forward",True
+403289.0,Eun-Sun Park,Korea Republic Women's,-0.4212865288409057,3,Center Forward,Forward,Forward,2/6,3,5,"Right Midfield, Right Center Back, Left Center Forward, Center Forward, Right Defensive Midfield",True
+403286.0,Hyo-Joo Choo,Korea Republic Women's,-0.4219523962780627,3,Right Wing Back,Defender,Fullback/Wing-Back,3/8,3,5,"Right Back, Right Wing Back, Left Wing Back, Left Wing, Right Defensive Midfield",True
+49888.0,Lady Patricia Andrade Rodríguez,Colombia Women's,-0.4253347455567702,1,Right Wing,Forward,Winger,1/2,1,2,"Right Wing, Left Wing",True
+402123.0,Gabriela de Jesus Thomas Salgado,South Africa Women's,-0.4261859125877946,1,Right Wing,Forward,Winger,1/1,1,1,Right Wing,False
+10392.0,Emilie Haavi,Norway Women's,-0.4279667969218839,4,Left Midfield,Midfielder,Central Midfielder,3/4,4,2,"Left Wing, Left Midfield",True
+401738.0,Chandler Blue Isip McDaniel,Philippines Women's,-0.4329775020724556,2,Right Center Forward,Forward,Forward,2/2,2,1,Right Center Forward,False
+401939.0,Susan Banda,Zambia Women's,-0.4333727610562497,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,4/6,3,2,"Center Defensive Midfield, Left Defensive Midfield",True
+32405.0,Rebecka Blomqvist,Sweden Women's,-0.4445139579880046,6,Center Forward,Forward,Forward,6/7,6,2,"Center Forward, Center Attacking Midfield",True
+5022.0,Francisca Ordega,Nigeria Women's,-0.4474121337864193,2,Right Wing,Forward,Winger,1/4,2,4,"Right Wing, Right Center Forward, Right Midfield, Left Midfield",True
+402787.0,Erika Janeth Hernández Díaz,Panama Women's,-0.4485146793414104,1,Right Midfield,Midfielder,Central Midfielder,1/2,1,2,"Right Midfield, Right Wing",True
+46986.0,Lena Lattwein,Germany Women's,-0.4538499018991334,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/4,2,2,"Left Defensive Midfield, Right Defensive Midfield",True
+401874.0,Thu Trần Thị,Vietnam Women's,-0.4550214571468,3,Left Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Left Center Back,False
+5003.0,Emily Ann Sonnett,United States Women's,-0.4553816556524933,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/3,2,3,"Right Defensive Midfield, Left Center Midfield, Right Center Back",True
+41950.0,Evelyne Viens,Canada Women's,-0.4587215898116024,3,Center Forward,Forward,Forward,3/5,3,3,"Left Wing, Center Forward, Right Center Forward",True
+45157.0,Laurina Fazer,France Women's,-0.4595726290507833,1,Center Forward,Forward,Forward,1/2,1,2,"Center Forward, Center Attacking Midfield",True
+142944.0,Lúcia Catarina Sousa Alves,Portugal Women's,-0.4599408229720534,2,Right Wing Back,Defender,Fullback/Wing-Back,1/2,2,2,"Right Wing Back, Left Back",True
+401741.0,Alicia Balicoco Barker,Philippines Women's,-0.4629665032714902,3,Right Back,Defender,Fullback/Wing-Back,3/4,3,2,"Right Back, Right Wing Back",True
+388473.0,Jorelyn Andrea Daniela Carabalí Martínez,Colombia Women's,-0.4632968196839487,5,Right Center Back,Defender,Fullback/Wing-Back,7/8,5,2,"Right Center Back, Center Back",True
+25561.0,Beatriz Zaneratto João,Brazil Women's,-0.4667302879787319,3,Left Midfield,Midfielder,Central Midfielder,2/5,3,4,"Left Midfield, Right Midfield, Left Center Forward, Right Center Forward",True
+21014.0,Vyan Sampson,Jamaica Women's,-0.4763846869808353,4,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/5,4,3,"Left Defensive Midfield, Right Defensive Midfield, Center Defensive Midfield",True
+218506.0,Savannah Marie DeMelo,United States Women's,-0.4773007550694216,2,Right Center Midfield,Midfielder,Central Midfielder,2/2,2,1,Right Center Midfield,False
+135877.0,Sarah Kassi,Morocco Women's,-0.4776936270426518,3,Right Back,Defender,Fullback/Wing-Back,1/4,3,4,"Right Back, Center Attacking Midfield, Left Defensive Midfield, Right Defensive Midfield",True
+25634.0,Aldana Cometti,Argentina Women's,-0.4788835180978814,3,Left Center Back,Defender,Fullback/Wing-Back,4/4,3,1,Left Center Back,False
+31540.0,Katie Zelem,England Women's,-0.48308036316037,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/2,2,1,Left Defensive Midfield,False
+62906.0,Cloé Zoé Eyja Lacasse,Canada Women's,-0.4877241029047885,3,Right Wing,Forward,Winger,2/5,3,4,"Right Wing, Left Wing, Center Forward, Left Midfield",True
+402463.0,Érica Noelia Lonigro,Argentina Women's,-0.5015597383491801,2,Center Forward,Forward,Forward,2/3,2,2,"Center Forward, Left Center Forward",True
+47541.0,Damaris Berta Egurrola Wienke,Netherlands Women's,-0.5049095216163653,5,Center Defensive Midfield,Midfielder,Defensive Midfielder,3/12,5,6,"Center Defensive Midfield, Left Defensive Midfield, Left Center Midfield, Right Defensive Midfield, Right Center Forward, Right Center Midfield",True
+25717.0,Mi-Ra Moon,Korea Republic Women's,-0.5053602918480119,3,Center Forward,Forward,Forward,2/7,3,6,"Center Forward, Left Midfield, Right Wing Back, Right Center Forward, Right Defensive Midfield, Center Attacking Midfield",True
+191851.0,Julie Blakstad,Norway Women's,-0.5077590306702424,1,Left Midfield,Midfielder,Central Midfielder,1/1,1,1,Left Midfield,False
+25485.0,Shanshan Wang,China PR Women's,-0.5184616149608785,3,Right Center Back,Defender,Fullback/Wing-Back,4/4,3,1,Right Center Back,False
+131617.0,Ochumba Oseke Lubandji,Zambia Women's,-0.5250173148193584,2,Right Center Midfield,Midfielder,Central Midfielder,1/3,2,3,"Right Center Midfield, Right Midfield, Center Attacking Midfield",True
+15257.0,Saki Kumagai,Japan Women's,-0.5391395078704248,5,Center Back,Midfielder,Fullback/Wing-Back,5/6,5,2,"Center Back, Right Center Back",True
+25484.0,Yao Wei,China PR Women's,-0.5434165340093435,3,Left Center Back,Defender,Fullback/Wing-Back,4/7,3,2,"Left Center Back, Right Defensive Midfield",True
+402178.0,Kameron Necole Simmonds,Jamaica Women's,-0.5450105592710599,2,Center Forward,Forward,Forward,1/3,2,3,"Center Forward, Left Wing, Left Midfield",True
+401931.0,Miyabi Moriya,Japan Women's,-0.5591879401532114,2,Right Wing Back,Defender,Fullback/Wing-Back,2/2,2,1,Right Wing Back,False
+402006.0,Dayana Pierre-Louis,Haiti Women's,-0.5665972907240548,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/3,3,1,Left Defensive Midfield,False
+403282.0,Daniela Montoya Quiróz,Colombia Women's,-0.5689336650409852,4,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/8,4,4,"Left Defensive Midfield, Center Attacking Midfield, Right Wing, Right Defensive Midfield",True
+4940.0,Andi Sullivan,United States Women's,-0.5812775331860704,4,Center Defensive Midfield,Midfielder,Defensive Midfielder,3/5,4,2,"Center Defensive Midfield, Left Defensive Midfield",True
+402179.0,Solai Washington,Jamaica Women's,-0.582257725760032,3,Right Midfield,Midfielder,Central Midfielder,2/4,3,3,"Center Attacking Midfield, Right Midfield, Left Midfield",True
+338631.0,Oluwatosin Blessing Demehin,Nigeria Women's,-0.5849185765660017,4,Left Center Back,Defender,Fullback/Wing-Back,4/5,4,2,"Left Center Back, Center Back",True
+402794.0,Hilary Stacy Jaén Rodríguez,Panama Women's,-0.5885469919008463,3,Right Back,Defender,Fullback/Wing-Back,1/3,3,3,"Right Back, Left Wing Back, Left Back",True
+402121.0,Robyn Kimberly Moodaly,South Africa Women's,-0.5912577425363476,1,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/1,1,1,Right Defensive Midfield,False
+10143.0,Alexia Putellas Segura,Spain Women's,-0.5931995280704817,7,Left Center Midfield,Midfielder,Central Midfielder,6/10,7,4,"Left Wing, Left Center Midfield, Center Attacking Midfield, Right Wing",True
+402786.0,Yomira Tibisay Pinzón Ríos,Panama Women's,-0.5970903880398263,3,Left Center Back,Defender,Fullback/Wing-Back,4/7,3,3,"Left Center Back, Right Center Back, Center Back",True
+50150.0,Irene Guerrero Sanmartín,Spain Women's,-0.6052809413797876,3,Right Center Midfield,Midfielder,Central Midfielder,2/3,3,2,"Right Center Midfield, Right Defensive Midfield",True
+25451.0,Hye-Ri Kim,Korea Republic Women's,-0.6057701280959762,3,Right Center Back,Defender,Fullback/Wing-Back,3/9,3,4,"Right Center Back, Center Back, Right Back, Right Wing Back",True
+273315.0,Paulina Gramaglia,Argentina Women's,-0.609653495891285,2,Center Forward,Forward,Forward,2/3,2,2,"Center Forward, Right Wing",True
+10160.0,Carolina Mendes,Portugal Women's,-0.6119658576790551,1,Right Center Forward,Forward,Forward,1/1,1,1,Right Center Forward,False
+401872.0,Thị Diễm My Lê,Vietnam Women's,-0.6183528231294557,3,Center Back,Midfielder,Fullback/Wing-Back,3/6,3,2,"Center Back, Right Center Back",True
+402132.0,Ana Ines Palma Capeta,Portugal Women's,-0.6188301272680629,2,Center Attacking Midfield,Midfielder,Attacking Midfielder,2/4,2,2,"Center Attacking Midfield, Left Center Forward",True
+24374.0,Ingrid Syrstad Engen,Norway Women's,-0.6189706536336038,4,Center Defensive Midfield,Midfielder,Defensive Midfielder,4/6,4,3,"Center Defensive Midfield, Right Back, Right Center Midfield",True
+34510.0,Seon-Joo Lim,Korea Republic Women's,-0.6259324852250874,1,Center Back,Midfielder,Fullback/Wing-Back,1/2,1,2,"Center Back, Right Center Back",True
+25601.0,Deanne Cynthia Rose,Canada Women's,-0.6291396520361103,2,Right Wing,Forward,Winger,2/4,2,3,"Right Wing, Left Wing, Right Midfield",True
+53406.0,Chelsea Ariane Surpris,Haiti Women's,-0.6323278473841426,2,Right Back,Defender,Fullback/Wing-Back,2/4,2,3,"Right Back, Right Center Back, Left Back",True
+401886.0,Tuyết Dung Nguyễn Thị,Vietnam Women's,-0.6385419095564422,2,Left Wing,Forward,Winger,1/2,2,2,"Left Wing, Right Wing",True
+25543.0,Geyse da Silva Ferreira,Brazil Women's,-0.6418849204851494,3,Right Center Forward,Forward,Forward,2/4,3,3,"Right Back, Right Center Forward, Left Center Forward",True
+10203.0,Cristiana Girelli,Italy Women's,-0.6421253148896666,2,Center Attacking Midfield,Midfielder,Attacking Midfielder,2/5,2,4,"Center Attacking Midfield, Left Wing, Right Center Midfield, Right Center Forward",True
+401646.0,Sara Iren Lindbak Hørte,Norway Women's,-0.6443414465982821,1,Right Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Back, Center Attacking Midfield",True
+402176.0,Tiernny Arlene Wiltshire,Jamaica Women's,-0.6578602340858162,4,Right Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Back,False
+15180.0,Sophie Schmidt,Canada Women's,-0.6691578026289583,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/5,3,3,"Center Attacking Midfield, Left Defensive Midfield, Left Center Back",True
+25545.0,Allyson Swaby,Jamaica Women's,-0.6746253445403005,4,Right Center Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Center Back,False
+131623.0,Agness Musase,Zambia Women's,-0.681661839291709,3,Right Center Back,Defender,Fullback/Wing-Back,3/4,3,2,"Right Center Back, Left Center Back",True
+45884.0,Giada Greggi,Italy Women's,-0.6861584864890359,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/5,3,4,"Center Attacking Midfield, Left Defensive Midfield, Left Midfield, Center Defensive Midfield",True
+24368.0,Andressa Alves da Silva,Brazil Women's,-0.6912366394286614,2,Right Center Forward,Forward,Forward,2/3,2,2,"Right Center Forward, Right Center Midfield",True
+47008.0,Sjoeke Nüsken,Germany Women's,-0.7057147322637355,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+42207.0,Marissa Maeve Sheva,Republic of Ireland Women's,-0.7093746513302729,3,Right Wing Back,Defender,Fullback/Wing-Back,2/4,3,3,"Right Wing Back, Left Wing, Right Back",True
+402461.0,Daiana Micaela Falfán,Argentina Women's,-0.7122810622886067,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/5,3,4,"Right Defensive Midfield, Left Midfield, Left Center Midfield, Right Center Midfield",True
+18153.0,Alisha Lehmann,Switzerland Women's,-0.7180676618189732,2,Left Wing,Forward,Winger,1/3,2,3,"Left Wing, Left Center Midfield, Right Center Forward",True
+402790.0,Carmen Milagros Montenegro Martínez,Panama Women's,-0.7217832701999046,3,Left Center Midfield,Midfielder,Central Midfielder,1/4,3,4,"Left Center Midfield, Left Center Back, Right Center Midfield, Right Defensive Midfield",True
+403277.0,Daniela Alexandra Árias Rojas,Colombia Women's,-0.7221377585071306,5,Left Center Back,Defender,Fullback/Wing-Back,5/6,5,2,"Left Center Back, Right Center Back",True
+87187.0,Mille Gejl Jensen,Denmark Women's,-0.7252173979791381,2,Left Wing,Forward,Winger,2/3,2,2,"Right Wing, Left Wing",True
+402177.0,Kalyssa van Zanten,Jamaica Women's,-0.7347281356487908,1,Right Wing,Forward,Winger,1/2,1,2,"Right Wing, Left Wing",True
+131624.0,Lushomo Mweemba,Zambia Women's,-0.7403680477579195,3,Left Center Back,Defender,Fullback/Wing-Back,6/6,3,1,Left Center Back,False
+25657.0,Paige Therese Satchell,New Zealand Women's,-0.7517620632248614,1,Left Center Forward,Forward,Forward,1/1,1,1,Left Center Forward,False
+25747.0,Bambanani Nolufefe Mbane,South Africa Women's,-0.7532806705507071,4,Right Center Back,Defender,Fullback/Wing-Back,4/4,4,1,Right Center Back,False
+402003.0,Ruthny Mathurin,Haiti Women's,-0.7555498842234466,3,Left Back,Defender,Fullback/Wing-Back,3/5,3,2,"Right Center Back, Left Back",True
+34499.0,Hanna Ulrika Bennison,Sweden Women's,-0.7580365392834008,4,Right Defensive Midfield,Midfielder,Defensive Midfielder,4/5,4,2,"Right Defensive Midfield, Left Defensive Midfield",True
+15631.0,Niamh Charles,England Women's,-0.7581920978560669,1,Right Wing Back,Defender,Fullback/Wing-Back,1/3,2,3,"Right Wing Back, Left Wing, Left Wing Back",True
+135257.0,Amber Barrett,Republic of Ireland Women's,-0.7623723855838345,1,Center Forward,Forward,Forward,1/2,1,2,"Center Forward, Right Center Forward",True
+49831.0,Ivana Andrés Sanz,Spain Women's,-0.7624256113730824,4,Left Center Back,Defender,Fullback/Wing-Back,4/5,4,2,"Left Center Back, Right Center Back",True
+402124.0,Mapula Nomvula Kgoale,South Africa Women's,-0.7640572586171402,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/3,3,2,"Right Defensive Midfield, Right Center Midfield",True
+401634.0,Cortnee Brooke Vine,Australia Women's,-0.7715395300284753,7,Right Wing,Forward,Winger,4/14,7,6,"Left Midfield, Right Wing, Right Back, Right Midfield, Left Wing, Right Center Forward",True
+276289.0,Anna Langås Jøsendal,Norway Women's,-0.7780546510577113,1,Right Midfield,Midfielder,Central Midfielder,1/1,1,1,Right Midfield,False
+25697.0,Lina Mona Andréa Hurtig,Sweden Women's,-0.7959946725516934,6,Left Wing,Forward,Winger,4/11,6,7,"Center Attacking Midfield, Left Wing, Left Center Midfield, Left Defensive Midfield, Right Wing, Right Wing Back, Right Midfield",True
+403280.0,Diana Carolina Ospina García Pineda,Colombia Women's,-0.797418832066543,5,Right Defensive Midfield,Midfielder,Defensive Midfielder,5/8,5,4,"Right Wing, Right Defensive Midfield, Center Defensive Midfield, Left Defensive Midfield",True
+402797.0,Natalia Didelka Mills Urrunaga,Panama Women's,-0.8036111328013753,2,Center Forward,Forward,Forward,1/3,2,3,"Center Forward, Left Wing, Right Wing",True
+389495.0,Alyssa Paola Thompson,United States Women's,-0.803974633202163,2,Right Wing,Forward,Winger,1/2,2,2,"Right Wing, Center Forward",True
+327715.0,Lily Agg,Republic of Ireland Women's,-0.815579163385408,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/2,2,2,"Right Defensive Midfield, Left Defensive Midfield",True
+32699.0,Josefine Hasbo,Denmark Women's,-0.8208443772839336,4,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/4,4,3,"Right Defensive Midfield, Right Center Midfield, Left Defensive Midfield",True
+25558.0,Chantelle Swaby,Jamaica Women's,-0.823027969847815,4,Left Center Back,Defender,Fullback/Wing-Back,5/5,4,1,Left Center Back,False
+18158.0,Rebecca Leigh Spencer,Jamaica Women's,-0.8263462237303852,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+402125.0,Melinda Kgadiete,South Africa Women's,-0.8382194847904962,2,Center Forward,Forward,Forward,1/2,2,2,"Center Forward, Center Attacking Midfield",True
+47022.0,Laura Freigang,Germany Women's,-0.8451694162193133,1,Center Attacking Midfield,Midfielder,Attacking Midfielder,1/1,1,1,Center Attacking Midfield,False
+401730.0,Meryll Serrano,Philippines Women's,-0.8516775434876414,2,Right Midfield,Midfielder,Central Midfielder,1/3,2,3,"Right Midfield, Left Midfield, Right Center Midfield",True
+10205.0,Olivia Alma Charlotta Schough,Sweden Women's,-0.8524540441597217,4,Left Wing,Forward,Winger,2/6,4,5,"Right Wing, Right Back, Left Wing, Left Attacking Midfield, Left Midfield",True
+5105.0,Sofia Huerta,United States Women's,-0.8565091961945689,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+26585.0,Annamaria Serturini,Italy Women's,-0.8612903780036688,1,Right Wing,Forward,Winger,1/2,1,2,"Right Wing, Right Center Midfield",True
+32152.0,Francesca Durante,Italy Women's,-0.8632878438089303,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+325210.0,Ivonne Chacón,Colombia Women's,-0.8710228024991126,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,1/4,2,4,"Left Defensive Midfield, Center Forward, Right Defensive Midfield, Right Wing",True
+131614.0,Mary Wilombe,Zambia Women's,-0.8717191603045108,2,Left Center Midfield,Midfielder,Central Midfielder,1/2,2,2,"Left Center Midfield, Left Defensive Midfield",True
+50152.0,Eva Maria Navarro,Spain Women's,-0.8759281502067051,5,Right Wing,Forward,Winger,5/10,5,3,"Center Forward, Right Wing, Left Wing",True
+135779.0,Gabriela Nunes da Silva,Brazil Women's,-0.8895364412743655,1,Right Center Forward,Forward,Forward,1/1,1,1,Right Center Forward,False
+24883.0,Sydney Lohmann,Germany Women's,-0.8929060950602896,1,Left Wing,Forward,Winger,1/2,1,2,"Left Wing, Right Wing",True
+10390.0,Anja Sønstevold,Norway Women's,-0.8946618678852388,3,Right Back,Defender,Fullback/Wing-Back,3/4,3,2,"Left Back, Right Back",True
+10400.0,Gaëlle Thalmann,Switzerland Women's,-0.8953780109657516,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+316798.0,Noxolo Cesane,South Africa Women's,-0.9067013773142136,1,Right Wing,Forward,Winger,2/2,2,1,Right Wing,False
+402798.0,Deysiré Mayte Salazar Biscaino,Panama Women's,-0.9069638285458422,3,Center Defensive Midfield,Midfielder,Defensive Midfielder,2/4,3,3,"Center Defensive Midfield, Left Defensive Midfield, Right Defensive Midfield",True
+10371.0,Elisa Bartoli,Italy Women's,-0.9082549269852044,1,Right Back,Defender,Fullback/Wing-Back,1/3,1,3,"Right Back, Left Center Back, Right Center Back",True
+10230.0,Linda Brigitta Sembrant,Sweden Women's,-0.9111871632819872,1,Right Wing,Forward,Winger,1/3,2,3,"Right Wing, Center Back, Right Center Back",True
+402018.0,Mengyu Shen,China PR Women's,-0.920671603801774,2,Right Center Forward,Forward,Forward,2/5,2,3,"Right Center Forward, Left Center Forward, Right Midfield",True
+402662.0,Najat Badri,Morocco Women's,-0.9227645564586318,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/2,2,1,Right Defensive Midfield,False
+402785.0,Rosario del Carmen Vargas Sarasqueta,Panama Women's,-0.923253460701015,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+401928.0,Takako Seike,Japan Women's,-0.925441734058555,3,Left Attacking Midfield,Midfielder,Attacking Midfielder,1/5,3,5,"Left Attacking Midfield, Right Attacking Midfield, Left Wing Back, Left Wing, Right Midfield",True
+328259.0,Bruna Santos Nhaia,Brazil Women's,-0.925659720621659,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+402117.0,Tiisetso Makhubela,South Africa Women's,-0.931283891227003,3,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/4,3,4,"Right Defensive Midfield, Left Defensive Midfield, Right Center Back, Right Back",True
+25445.0,Chae-Rim Kang,Korea Republic Women's,-0.931752806734712,1,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/2,2,2,"Right Defensive Midfield, Right Wing",True
+4981.0,Kailen Mary Iacovoni Sheridan,Canada Women's,-0.940629234300298,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+25514.0,Noko Matlou,South Africa Women's,-0.9409447302962352,2,Left Center Back,Defender,Fullback/Wing-Back,4/4,2,1,Left Center Back,False
+50156.0,Claudia  Zornoza Sánchez,Spain Women's,-0.9421851813299644,2,Center Defensive Midfield,Midfielder,Defensive Midfielder,2/2,2,1,Center Defensive Midfield,False
+25728.0,Karina Sævik,Norway Women's,-0.9501187787618952,3,Left Midfield,Midfielder,Central Midfielder,2/7,3,6,"Center Forward, Left Midfield, Right Midfield, Center Attacking Midfield, Center Defensive Midfield, Left Center Midfield",True
+10398.0,Valentina Cernoia,Italy Women's,-0.9532243309153634,1,Center Defensive Midfield,Midfielder,Defensive Midfielder,1/1,1,1,Center Defensive Midfield,False
+49913.0,Athenea del Castillo Belvide,Spain Women's,-0.9574514610705056,3,Left Wing,Forward,Winger,2/3,3,2,"Left Wing, Right Wing",True
+10420.0,Meriame Terchoun,Switzerland Women's,-0.9576212448546538,4,Right Wing,Forward,Winger,2/6,4,5,"Right Center Midfield, Right Wing, Right Attacking Midfield, Left Center Midfield, Left Center Forward",True
+401875.0,Thu Thương Lương Thị,Vietnam Women's,-0.9668021461748714,3,Right Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Right Center Back,False
+135153.0,Nesryne El Chad,Morocco Women's,-0.9942890034248107,4,Right Center Back,Defender,Fullback/Wing-Back,5/6,4,2,"Left Center Back, Right Center Back",True
+401739.0,Dominique Jaylin Abrena Randle,Philippines Women's,-1.0013570956136886,2,Right Back,Defender,Fullback/Wing-Back,2/3,2,2,"Right Midfield, Right Back",True
+25488.0,Yasha Gu,China PR Women's,-1.0016724234580772,2,Left Midfield,Midfielder,Central Midfielder,2/4,2,3,"Left Center Forward, Left Midfield, Right Center Forward",True
+89009.0,Yasmin Katie Mrabet,Morocco Women's,-1.0041145611426237,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+402667.0,Sofia Bouftini,Morocco Women's,-1.0078600128349229,3,Right Midfield,Midfielder,Central Midfielder,2/4,3,2,"Right Midfield, Left Midfield",True
+401800.0,Alexandra Pinell González,Costa Rica Women's,-1.011246085898596,2,Left Center Midfield,Midfielder,Central Midfielder,1/3,2,3,"Left Center Midfield, Right Defensive Midfield, Center Attacking Midfield",True
+403292.0,Eun-Ha Jeoun,Korea Republic Women's,-1.0121526802127505,1,Center Forward,Forward,Forward,1/3,1,3,"Center Forward, Left Midfield, Left Defensive Midfield",True
+25480.0,Haiyan Wu,China PR Women's,-1.0200769169388,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+10224.0,Sara Caroline Seger,Sweden Women's,-1.020418180567914,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,3/3,3,1,Left Defensive Midfield,False
+62951.0,Aniek Nouwen,Netherlands Women's,-1.0251439178427415,2,Left Center Back,Defender,Fullback/Wing-Back,2/5,2,3,"Left Center Back, Left Wing Back, Center Back",True
+126508.0,María Pérez,Spain Women's,-1.0322162764459744,1,Center Defensive Midfield,Midfielder,Defensive Midfielder,1/2,1,2,"Center Defensive Midfield, Left Defensive Midfield",True
+401636.0,Abbie Larkin,Republic of Ireland Women's,-1.0410278757831373,3,Right Wing,Forward,Winger,3/7,3,5,"Right Defensive Midfield, Right Wing, Left Wing, Right Wing Back, Right Midfield",True
+402660.0,Nouhaila Benzina,Morocco Women's,-1.0480436827401167,3,Left Center Back,Defender,Fullback/Wing-Back,3/3,3,1,Left Center Back,False
+221888.0,Kerstin Yasmijn Casparij,Netherlands Women's,-1.0532443299245784,5,Right Wing Back,Defender,Fullback/Wing-Back,3/6,5,3,"Left Wing Back, Center Back, Right Wing Back",True
+402010.0,Jennyfer Limage,Haiti Women's,-1.058002094462951,1,Right Center Back,Defender,Fullback/Wing-Back,2/2,1,1,Right Center Back,False
+402792.0,Wendy Yisbel Natis Bárcenas,Panama Women's,-1.0586697327992558,3,Right Center Back,Defender,Fullback/Wing-Back,3/5,3,3,"Right Center Back, Left Center Back, Left Wing Back",True
+401806.0,Emilie Vanessa Valenciano Rojas,Costa Rica Women's,-1.0636058688322123,1,Center Attacking Midfield,Midfielder,Attacking Midfielder,1/3,1,3,"Center Attacking Midfield, Center Defensive Midfield, Left Defensive Midfield",True
+15550.0,Bethany England,England Women's,-1.0665451102833423,5,Center Forward,Forward,Forward,2/7,5,5,"Right Center Forward, Center Forward, Right Midfield, Left Center Forward, Center Attacking Midfield",True
+15443.0,Merle Frohms,Germany Women's,-1.0767895344212055,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+10109.0,Sanne Troelsgaard-Nielsen,Denmark Women's,-1.0878910293876378,3,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/3,3,2,"Left Defensive Midfield, Right Defensive Midfield",True
+10417.0,Viola Calligaris,Switzerland Women's,-1.0883743229906353,2,Right Back,Defender,Fullback/Wing-Back,1/3,2,3,"Right Back, Left Back, Left Center Midfield",True
+25746.0,Kaylin Swart,South Africa Women's,-1.090598780468483,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+355040.0,Gift Nyakno Monday,Nigeria Women's,-1.0922887634126637,1,Right Wing,Forward,Winger,1/1,1,1,Right Wing,False
+32339.0,Daphne van Domselaar,Netherlands Women's,-1.0972424374173475,5,Goalkeeper,Goalkeeper,Goalkeeper,5/5,5,1,Goalkeeper,False
+43045.0,Sandrine Mauron,Switzerland Women's,-1.1076062351225873,4,Left Center Midfield,Midfielder,Central Midfielder,2/6,4,5,"Left Center Midfield, Left Wing, Right Center Midfield, Center Defensive Midfield, Center Attacking Midfield",True
+46549.0,Nicole Anyomi,Germany Women's,-1.10909972218723,3,Left Wing,Forward,Winger,4/7,3,3,"Left Wing, Left Back, Right Wing",True
+387449.0,Maria Eduarda Ferreira Sampaio,Brazil Women's,-1.1094123154974704,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,2/3,2,2,"Left Defensive Midfield, Center Defensive Midfield",True
+5074.0,Shelina Laura Zadorsky,Canada Women's,-1.1133328480401086,1,Right Center Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Center Back, Left Center Back",True
+25768.0,Adriana María Sachs,Argentina Women's,-1.114895640368863,1,Right Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Center Back,False
+402175.0,Peyton McNamara,Jamaica Women's,-1.118425528380338,2,Right Center Midfield,Midfielder,Central Midfielder,1/3,2,3,"Right Center Midfield, Left Defensive Midfield, Center Defensive Midfield",True
+131613.0,Hellen Mubanga,Zambia Women's,-1.1193697916639058,1,Right Center Midfield,Midfielder,Central Midfielder,1/1,1,1,Right Center Midfield,False
+32333.0,Lynn Wilms,Netherlands Women's,-1.1193796412321684,2,Right Center Back,Defender,Fullback/Wing-Back,2/6,2,4,"Right Center Back, Center Attacking Midfield, Right Wing Back, Right Back",True
+26051.0,Dalila Belén Ippolito,Argentina Women's,-1.136028330307031,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/4,2,4,"Right Defensive Midfield, Right Center Midfield, Left Center Midfield, Left Defensive Midfield",True
+15615.0,Pauline Peyraud Magnin,France Women's,-1.1391030073073094,5,Goalkeeper,Goalkeeper,Goalkeeper,6/6,5,1,Goalkeeper,False
+214481.0,Victoria Esson,New Zealand Women's,-1.141298848286086,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+402781.0,Yenith Elizabett Bailey de la Cruz,Panama Women's,-1.1451221662843296,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+46223.0,Benedetta Glionna,Italy Women's,-1.145267260172642,1,Right Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Back, Left Wing Back",True
+401802.0,Daniela Solera Vega,Costa Rica Women's,-1.145455142034635,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+401640.0,Grace Joanna Ella Jale,New Zealand Women's,-1.146584571069908,2,Center Defensive Midfield,Midfielder,Defensive Midfielder,1/4,2,4,"Center Defensive Midfield, Left Wing Back, Left Center Midfield, Left Wing",True
+403281.0,Marcela Restrepo Valencia,Colombia Women's,-1.148389158692636,4,Right Wing,Forward,Winger,2/6,4,5,"Right Back, Right Attacking Midfield, Left Wing, Right Center Midfield, Right Wing",True
+276304.0,Guro Bergsvand,Norway Women's,-1.1521798621402817,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+402011.0,Danielle Monique Étienne,Haiti Women's,-1.1577132872583982,1,Left Defensive Midfield,Midfielder,Defensive Midfielder,1/2,1,2,"Left Defensive Midfield, Center Defensive Midfield",True
+34872.0,Inês Teixeira Pereira,Portugal Women's,-1.1610269645716018,2,Goalkeeper,Goalkeeper,Goalkeeper,2/2,2,1,Goalkeeper,False
+34485.0,Gabriela Guillén Alvarez,Costa Rica Women's,-1.162251834170471,1,Left Midfield,Midfielder,Central Midfielder,1/1,1,1,Left Midfield,False
+401938.0,Eunice Sakala,Zambia Women's,-1.1633091963692854,1,Goalkeeper,Goalkeeper,Goalkeeper,2/3,2,2,"Goalkeeper, Right Midfield",True
+132034.0,Charlotte Layne Grant,Australia Women's,-1.1653459369059131,1,Right Defensive Midfield,Midfielder,Defensive Midfielder,2/2,1,1,Right Defensive Midfield,False
+402791.0,Rebeca Margoth Espinosa Justavino,Panama Women's,-1.17185715317615,1,Left Center Back,Defender,Fullback/Wing-Back,2/3,1,2,"Left Center Back, Right Center Back",True
+46558.0,Jill Bayings,Netherlands Women's,-1.1733000369696682,1,Left Attacking Midfield,Midfielder,Attacking Midfielder,1/1,1,1,Left Attacking Midfield,False
+5100.0,Alyssa Michele Naeher,United States Women's,-1.1796703629219738,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+402459.0,Gabriela Patricia Chávez,Argentina Women's,-1.1870972911778814,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+401881.0,Thị Kiều Chương,Vietnam Women's,-1.1958898256547272,3,Right Center Back,Defender,Fullback/Wing-Back,3/6,3,2,"Right Center Back, Center Back",True
+10145.0,Patricia Isabel Sousa Barros Morais,Portugal Women's,-1.1978125225884595,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False
+131587.0,Gabrielle Rose Rennie,New Zealand Women's,-1.199237186960895,2,Center Forward,Forward,Forward,1/3,2,3,"Center Forward, Right Wing, Right Center Forward",True
+25659.0,Merel van Dongen,Netherlands Women's,-1.2096066427269714,1,Left Wing Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Wing Back,False
+63783.0,Caitlin Dijkstra,Netherlands Women's,-1.2112563469868265,2,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/2,2,2,"Right Defensive Midfield, Right Center Back",True
+49830.0,María Isabel Rodríguez Rivero,Spain Women's,-1.2127234031544198,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+402015.0,Shwendesky Macélus Joseph,Haiti Women's,-1.2229777357804317,1,Left Center Forward,Forward,Forward,1/1,1,1,Left Center Forward,False
+131590.0,Claudia Bunge,New Zealand Women's,-1.2231026216174006,2,Right Center Back,Defender,Fullback/Wing-Back,2/2,2,1,Right Center Back,False
+135616.0,Jiali Tang,China PR Women's,-1.2274466950217666,1,Center Forward,Forward,Forward,1/2,1,2,"Center Forward, Left Midfield",True
+276442.0,Lene Christensen,Denmark Women's,-1.2285822329544005,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+25718.0,Chiamaka Cynthia Nnadozie,Nigeria Women's,-1.2334063263371318,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+45295.0,Catalina Thomas Coll Lluch,Spain Women's,-1.2349117159964738,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+132147.0,Vast Phiri,Zambia Women's,-1.2361792214588527,2,Left Center Back,Defender,Fullback/Wing-Back,2/3,2,2,"Left Center Back, Right Center Back",True
+5038.0,Allysha Lyn Chapman,Canada Women's,-1.2598944743025624,3,Left Back,Defender,Fullback/Wing-Back,4/7,3,2,"Right Back, Left Back",True
+402008.0,Kerly Théus,Haiti Women's,-1.264644349240155,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+401999.0,Maudeline Moryl,Haiti Women's,-1.265845805935485,1,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/1,1,1,Right Defensive Midfield,False
+46344.0,Catalina Pérez Jaramillo,Colombia Women's,-1.2720935869511565,5,Goalkeeper,Goalkeeper,Goalkeeper,5/5,5,1,Goalkeeper,False
+402656.0,Khadija Er-Rmichi,Morocco Women's,-1.2797809858076643,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+31538.0,Mary Alexandra Earps,England Women's,-1.2832176075401915,7,Goalkeeper,Goalkeeper,Goalkeeper,7/7,7,1,Goalkeeper,False
+30961.0,Naomie Feller,France Women's,-1.2850145738878478,1,Center Attacking Midfield,Midfielder,Attacking Midfielder,1/1,1,1,Center Attacking Midfield,False
+31555.0,Courtney Brosnan,Republic of Ireland Women's,-1.2902835569303348,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+401735.0,Olivia Alexandra Davies Isip McDaniel,Philippines Women's,-1.2927870673787465,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+131629.0,Catherine Musonda,Zambia Women's,-1.29849827543825,2,Goalkeeper,Goalkeeper,Goalkeeper,2/3,2,2,"Goalkeeper, Center Attacking Midfield",True
+131695.0,Yu Zhu,China PR Women's,-1.3011472354076878,2,Goalkeeper,Goalkeeper,Goalkeeper,2/2,2,1,Goalkeeper,False
+5071.0,Monica Hickmann Alves,Brazil Women's,-1.3017211281120915,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+403284.0,Jung-Mi Kim,Korea Republic Women's,-1.3035841620152828,2,Goalkeeper,Goalkeeper,Goalkeeper,2/2,2,1,Goalkeeper,False
+5021.0,Kelley Maureen O'Hara,United States Women's,-1.304243275651057,3,Left Back,Defender,Fullback/Wing-Back,1/3,3,3,"Left Back, Right Back, Left Wing Back",True
+135146.0,Ijeoma Esther Okoronkwo,Nigeria Women's,-1.3083207799835006,2,Right Wing,Forward,Winger,1/3,2,3,"Right Wing, Left Wing, Right Midfield",True
+5043.0,Nichelle Patrice Prince,Canada Women's,-1.308745711623773,1,Center Attacking Midfield,Midfielder,Attacking Midfielder,1/2,1,2,"Center Attacking Midfield, Left Wing",True
+8382.0,Clare Elizabeth Polkinghorne,Australia Women's,-1.3100199359263491,6,Left Center Back,Defender,Fullback/Wing-Back,3/10,6,6,"Left Midfield, Left Center Back, Center Attacking Midfield, Center Back, Left Center Forward, Right Center Forward",True
+337744.0,Isibeal Atkinson,Republic of Ireland Women's,-1.3129009320999057,2,Left Wing Back,Defender,Fullback/Wing-Back,2/5,2,4,"Center Forward, Left Wing Back, Left Wing, Left Back",True
+38248.0,Luna Nørgaard Gewitz,Denmark Women's,-1.3142369150617712,1,Center Attacking Midfield,Midfielder,Attacking Midfielder,1/2,1,2,"Center Attacking Midfield, Left Center Back",True
+389771.0,Young-Geul Yoon,Korea Republic Women's,-1.3430493477451242,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False
+401933.0,Remina Chiba,Japan Women's,-1.344970566616273,1,Left Wing,Forward,Winger,1/2,1,2,"Left Wing, Center Forward",True
+36800.0,Aurora Watten Mikalsen,Norway Women's,-1.3542519966140978,4,Goalkeeper,Goalkeeper,Goalkeeper,4/4,4,1,Goalkeeper,False
+42787.0,Mackenzie Arnold,Australia Women's,-1.3568592840427078,7,Goalkeeper,Goalkeeper,Goalkeeper,7/7,7,1,Goalkeeper,False
+10406.0,Fabienne Humm,Switzerland Women's,-1.3677317135181393,1,Left Wing,Forward,Winger,1/2,1,2,"Left Wing, Center Forward",True
+401728.0,Jennifer Onyi Echegini,Nigeria Women's,-1.3804124605509955,3,Left Center Midfield,Midfielder,Central Midfielder,2/7,3,5,"Center Defensive Midfield, Left Center Midfield, Right Defensive Midfield, Center Forward, Left Midfield",True
+401880.0,Kim Thanh Trần Thị,Vietnam Women's,-1.390216921637793,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+45287.0,Alexandra Chidiac,Australia Women's,-1.392388804873577,3,Right Midfield,Midfielder,Central Midfielder,2/6,3,5,"Right Midfield, Left Center Back, Right Wing, Right Center Midfield, Right Defensive Midfield",True
+10661.0,Renate Jansen,Netherlands Women's,-1.397226288127862,1,Left Center Forward,Forward,Forward,1/1,1,1,Left Center Forward,False
+10157.0,Silvia Rebelo,Portugal Women's,-1.397586209170564,1,Left Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Center Back,False
+25627.0,Ayaka Yamashita,Japan Women's,-1.399552708094462,5,Goalkeeper,Goalkeeper,Goalkeeper,5/5,5,1,Goalkeeper,False
+131581.0,Letícia Izidoro Lima da Silva,Brazil Women's,-1.4009890178320823,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+401746.0,Kristen Ryley Sy Bugay,Philippines Women's,-1.4075430131430855,2,Left Defensive Midfield,Midfielder,Defensive Midfielder,1/2,2,2,"Left Defensive Midfield, Center Defensive Midfield",True
+402022.0,Jiaxing Dou,China PR Women's,-1.408062526945975,2,Left Center Back,Defender,Fullback/Wing-Back,3/5,2,2,"Right Defensive Midfield, Left Center Back",True
+403270.0,Natalia Giraldo Alzáte,Colombia Women's,-1.4091711402088185,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False
+32216.0,Aïssatou Tounkara,France Women's,-1.4124856464709048,1,Left Back,Defender,Fullback/Wing-Back,1/1,1,1,Left Back,False
+402014.0,Florsie Love Darlina Joseph,Haiti Women's,-1.4129967212838126,1,Right Wing,Forward,Winger,1/1,1,1,Right Wing,False
+4945.0,Havana Solaun,Jamaica Women's,-1.4138118104760526,1,Right Midfield,Midfielder,Central Midfielder,1/2,1,2,"Right Midfield, Center Attacking Midfield",True
+62667.0,Jennifer Miley Falk,Sweden Women's,-1.4152172264904317,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False
+402133.0,Ana Rute Santos Marques Rodrigues,Portugal Women's,-1.4191945125035388,1,Left Defensive Midfield,Midfielder,Defensive Midfielder,1/1,1,1,Left Defensive Midfield,False
+32227.0,Emma Snerle,Denmark Women's,-1.4205679308343753,1,Right Wing,Forward,Winger,1/1,1,1,Right Wing,False
+401725.0,Olivia Smith,Canada Women's,-1.4281048940994352,1,Right Defensive Midfield,Midfielder,Defensive Midfielder,1/1,1,1,Right Defensive Midfield,False
+49873.0,Lara Marti,Switzerland Women's,-1.4442424126042268,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+401722.0,Glory Ogbonna,Nigeria Women's,-1.494838065906593,1,Left Back,Defender,Fullback/Wing-Back,1/2,1,2,"Left Back, Left Wing Back",True
+62713.0,Zecira Musovic,Sweden Women's,-1.4992011891243944,6,Goalkeeper,Goalkeeper,Goalkeeper,6/6,6,1,Goalkeeper,False
+25611.0,Vanina Noemí Correa,Argentina Women's,-1.5108073591358395,3,Goalkeeper,Goalkeeper,Goalkeeper,3/3,3,1,Goalkeeper,False
+62907.0,Ana Vitória Angélica Kliemaschewsk de Araújo,Brazil Women's,-1.5257346085348813,1,Right Midfield,Midfielder,Central Midfielder,1/1,1,1,Right Midfield,False
+401647.0,Marit Bratberg Lund,Norway Women's,-1.5566792602035595,1,Left Back,Defender,Fullback/Wing-Back,1/2,1,2,"Left Back, Right Back",True
+402021.0,Chen Gao,China PR Women's,-1.580307313605425,1,Right Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Back,False
+401870.0,Thị Hằng Khổng,Vietnam Women's,-1.5911907323267822,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False
+47095.0,Diane Caldwell,Republic of Ireland Women's,-1.656141719266945,1,Right Center Back,Defender,Fullback/Wing-Back,1/1,1,1,Right Center Back,False
+25465.0,Onome Ebi,Nigeria Women's,-1.6581562474758875,1,Right Center Midfield,Midfielder,Central Midfielder,1/3,2,3,"Right Center Midfield, Center Back, Left Center Back",True
+389365.0,Maika Hamano,Japan Women's,-1.6817313092450308,1,Right Center Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Center Back, Left Center Forward",True
+25549.0,Tameka Yallop,Australia Women's,-1.6968664709906491,1,Left Defensive Midfield,Midfielder,Defensive Midfielder,1/2,2,2,"Left Defensive Midfield, Left Wing",True
+402016.0,Huan Xu,China PR Women's,-1.718791237069816,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False
+132033.0,Courtney Jade Nevin,Australia Women's,-1.781170795104,1,Right Back,Defender,Fullback/Wing-Back,1/2,1,2,"Right Back, Left Center Back",True
+25472.0,Ugochi Desire Oparanozie,Nigeria Women's,-1.8122157877960845,1,Right Center Midfield,Midfielder,Central Midfielder,1/1,1,1,Right Center Midfield,False
+31128.0,Solène Durand,France Women's,-1.8134554254538255,1,Goalkeeper,Goalkeeper,Goalkeeper,1/1,1,1,Goalkeeper,False

@@ -40,16 +40,16 @@ Add positions.ipynb          -> enriches with lineup positions -> Results/player
 
 | Rank | Player | Team | Avg Z-Score | Position |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Thị Thảo Thái | Vietnam | 2.44 | Defensive Midfielder |
-| 2 | Marta Cox Villarreal | Panama | 2.18 | Center Forward |
-| 3 | Melchie Daëlle Dumornay | Haiti | 2.13 | Attacking Midfielder |
-| 4 | So-Yun Ji | Korea Republic | 2.01 | Defensive Midfielder |
-| 5 | Deborah Ajibola Abiodun | Nigeria | 1.90 | Central Midfielder |
-| 6 | Khadija Monifa Shaw | Jamaica | 1.88 | Center Forward |
-| 7 | Vanessa Gilles | Canada | 1.82 | Center Back |
-| 8 | Estefanía Banini Ruiz | Argentina | 1.77 | Attacking Midfielder |
-| 9 | Nathalie Björn | Sweden | 1.67 | Right Back |
-| 10 | Barbra Banda | Zambia | 1.66 | Center Forward |
+| 1 | Khadija Monifa Shaw | Jamaica | 2.97 | Center Forward |
+| 2 | Barbra Banda | Zambia | 2.81 | Center Forward |
+| 3 | Thị Thảo Thái | Vietnam | 2.60 | Defensive Midfielder |
+| 4 | Katrina Rivera Guillou | Philippines | 2.51 | Central Midfielder |
+| 5 | Marta Cox Villarreal | Panama | 2.23 | Center Forward |
+| 6 | Pernille Harder | Denmark | 2.22 | Attacking Midfielder |
+| 7 | Thị Thanh Nhã Nguyễn | Vietnam | 2.19 | Winger |
+| 8 | Thembi Kgatlana | South Africa | 2.12 | Center Forward |
+| 9 | Alex Morgan | United States | 1.96 | Center Forward |
+| 10 | Nérilia Mondesir | Haiti | 1.95 | Winger |
 
 Full rankings are in `Results/player_rankings_with_positions.csv`.
 
