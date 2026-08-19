@@ -53,6 +53,15 @@ notebooks/Add positions.ipynb          -> enriches with lineup positions -> Resu
 
 Full rankings are in `Results/player_rankings_with_positions.csv`.
 
+### Reproducing the paper figures
+
+`make_figures.py` regenerates the paper's four figures (xT heatmap, 3D xT surface, workflow,
+Sofascore-vs-`average_z_score` scatter) from `Results/` and `Evaluation/` into `figures/`:
+
+```bash
+python make_figures.py
+```
+
 ### Sofascore comparison data
 
 The evaluation in the paper compares `average_z_score` against **Sofascore ratings** for the 50
