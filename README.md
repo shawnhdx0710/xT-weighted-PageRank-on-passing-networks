@@ -28,12 +28,12 @@ and then averaged per player, producing the final `average_z_score`.
 
 ```
 Download_Statsbomb.py        -> downloads StatsBomb open data into data/wwc2023/{events,lineups,...}
-socceraction_load_and_convert_statsbomb_data.ipynb -> converts event data to SPADL (data/spadl-statsbomb.h5)
-socceraction_xT.ipynb        -> trains the custom 12x16 xT grid -> Evaluation/wwc2023_trained_xT_grid.csv
-WWC_PageRank_Core.ipynb      -> per-team weighted passing networks + Weighted PageRank
+notebooks/socceraction_load_and_convert_statsbomb_data.ipynb -> converts event data to SPADL (data/spadl-statsbomb.h5)
+notebooks/socceraction_xT.ipynb        -> trains the custom 12x16 xT grid -> Evaluation/wwc2023_trained_xT_grid.csv
+notebooks/WWC_PageRank_Core.ipynb      -> per-team weighted passing networks + Weighted PageRank
                                -> Results/all_matches_wpr_combined.csv
-WWC_PageRank_Final_Processing.ipynb -> per-match Z-scores -> Results/player_rankings_z_score.csv
-Add positions.ipynb          -> enriches with lineup positions -> Results/player_rankings_with_positions.csv
+notebooks/WWC_PageRank_Final_Processing.ipynb -> per-match Z-scores -> Results/player_rankings_z_score.csv
+notebooks/Add positions.ipynb          -> enriches with lineup positions -> Results/player_rankings_with_positions.csv
 ```
 
 ## Results — Top 10 players by average_z_score (WWC 2023)
@@ -97,12 +97,12 @@ The trained xT grid (`Evaluation/`) and final results (`Results/`) are already i
 run the main pipeline immediately. To reproduce the grid from scratch, run the two socceraction
 notebooks in order first.
 
-Run the notebooks in order:
-1. `WWC_PageRank_Core.ipynb` — builds networks + computes WPR
-2. `WWC_PageRank_Final_Processing.ipynb` — Z-scores and final ranking
-3. `Add positions.ipynb` — position enrichment
+Run the notebooks in order (from the `notebooks/` directory, so the `../`-relative paths resolve):
+1. `notebooks/WWC_PageRank_Core.ipynb` — builds networks + computes WPR
+2. `notebooks/WWC_PageRank_Final_Processing.ipynb` — Z-scores and final ranking
+3. `notebooks/Add positions.ipynb` — position enrichment
 
-*(Optional: rerun `socceraction_load_and_convert_statsbomb_data.ipynb` and `socceraction_xT.ipynb`
+*(Optional: rerun `notebooks/socceraction_load_and_convert_statsbomb_data.ipynb` and `notebooks/socceraction_xT.ipynb`
 first to retrain the xT grid.)*
 
 ## Reproducibility
@@ -110,7 +110,7 @@ first to retrain the xT grid.)*
 - **Main results:** executing the three notebooks in order (`WWC_PageRank_Core` →
   `WWC_PageRank_Final_Processing` → `Add positions`) on the raw StatsBomb data reproduces the
   committed `Results/` files (615 ranked players) exactly.
-- **xT grid:** `socceraction_xT.ipynb` retrains the grid deterministically. With `socceraction
+- **xT grid:** `notebooks/socceraction_xT.ipynb` retrains the grid deterministically. With `socceraction
   1.5.3`, retraining the grid from the converted SPADL data reproduces
   `Evaluation/wwc2023_trained_xT_grid.csv` bit-for-bit.
 - **Sofascore comparison:** the correlation and the scatter plot in the paper use Sofascore's
